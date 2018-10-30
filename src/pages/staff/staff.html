@@ -1,0 +1,35 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>{{"Staff"|translate}}</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+
+	  <ion-card *ngFor="let item of staff_items">
+		  <img src="{{ item.image }}"/>
+		  <ion-card-content>
+			<ion-card-title>
+			  {{ item.name }}
+			</ion-card-title>
+			  <p><i>{{ item.title }}</i></p>
+			  <p>{{ item.bio }}</p>
+			  <ion-item>
+				  <button ion-button icon-left clear item-right>
+					<ion-icon name="mail" item-left large></ion-icon>
+					<a href="mailto:{{ item.email }}">{{ item.email }}</a>
+				  </button>
+			  </ion-item>
+			  <ion-item>
+				  <button ion-button icon-left clear item-right>
+					<ion-icon name="call" item-left large></ion-icon>
+					<a href="tel:{{ item.phone }}">{{ item.phone }}</a>
+				  </button>
+			  </ion-item>
+		  </ion-card-content>
+	  </ion-card>
+
+</ion-content>

@@ -1,0 +1,48 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>{{"Photos"|translate}}</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>  
+  <ion-card>
+    <ion-card-content>
+	    <button ion-button (click)="takePicture('w2')">{{"Upload W2"|translate}}</button>
+	  <img [src]="w2base64Image" *ngIf="w2base64Image">
+    </ion-card-content>
+  </ion-card>
+  <ion-card>
+    <ion-card-content>
+	    <button ion-button (click)="takePicture('ten99')">{{"Upload 1099 MISC."|translate}}</button>
+	  <img [src]="ten99base64Image" *ngIf="ten99base64Image">
+    </ion-card-content>
+  </ion-card>
+  <ion-card>
+    <ion-card-content>
+	    <button ion-button (click)="takePicture('ssc')">{{"Upload Social Security Card"|translate}}</button>
+	  <img [src]="sscbase64Image" *ngIf="sscbase64Image">
+	</ion-card-content>
+  </ion-card>
+  <ion-card>
+    <ion-card-content>
+	    <button ion-button (click)="takePicture('license')">{{"Upload Driver License"|translate}}</button>
+  	  <img [src]="licensebase64Image" *ngIf="licensebase64Image">
+    </ion-card-content>
+  </ion-card>
+  <ion-card>
+    <ion-card-content>
+	    <button ion-button (click)="takePicture('misc')">{{"Upload Misc."|translate}}</button>
+  	  <img [src]="miscbase64Image" *ngIf="miscbase64Image">
+    </ion-card-content>
+  </ion-card>
+
+  <ion-card>
+	<ion-card-content>
+		<button ion-button (click)="goHome()">{{"Submit full return"|translate}}</button>
+	</ion-card-content>
+  </ion-card>
+  
+</ion-content>

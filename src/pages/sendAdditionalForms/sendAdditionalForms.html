@@ -1,0 +1,29 @@
+
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>@{{"Send Additional Forms"|translate}}</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+	<ion-item>
+		<ion-input [(ngModel)]="ssn" type="text" placeholder="Social Security Number"></ion-input>
+	</ion-item>
+	<ion-item>
+		<button ion-button color="secondary" (click)="getAdditionalImage();">Get Image</button>
+	</ion-item>
+	<ion-item>
+		<h4>Image Preview</h4>
+		<img [src]="imageURI" *ngIf="imageURI" alt="file" width="300" />
+	</ion-item>
+	<ion-item>
+		<button ion-button (click)="uploadAdditionalFile();">Upload</button>
+	</ion-item>
+	<ion-item></ion-item>
+	<ion-item>
+		<button ion-button color="light" (click)="goHome()" block>Back to Home</button>
+	</ion-item>
+</ion-content>

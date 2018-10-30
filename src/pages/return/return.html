@@ -1,0 +1,162 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>{{"Return"|translate}}</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <h3>Taxpayer</h3>
+
+  <form #f="ngForm" (ngSubmit)="submitReturn(f.value)">
+    <ion-item>
+      <ion-label floating>{{"First Name"|translate}}</ion-label>
+      <ion-input type="text" name="first_name" ngModel></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label floating>{{"Middle Name"|translate}}</ion-label>
+      <ion-input type="text" name="middle_name" ngModel></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label floating>{{"Last Name"|translate}}</ion-label>
+      <ion-input type="text" name="last_name" ngModel></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label floating>{{"Date of Birth"|translate}}</ion-label>_
+      <ion-datetime displayFormat="MM/DD/YYYY" name="date_of_birth" ngModel></ion-datetime>
+    </ion-item>
+
+    <ion-item>
+      <ion-label floating>{{"Social Security Number"|translate}}</ion-label>
+      <ion-input type="text" name="ssn" ngModel></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label floating>Number of Dependents</ion-label>
+      <ion-input type="number" name="dependents" ngModel></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label floating>{{"Driver License Number/ID"|translate}}</ion-label>
+      <ion-input type="text" name="driver_license" ngModel></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label floating>{{"ID State"|translate}}</ion-label>
+      <ion-input type="text" name="id_state" ngModel></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label floating>{{"ID Issue Date"|translate}}</ion-label>
+      <ion-datetime displayFormat="MM/DD/YYYY" name="id_issue_date" ngModel></ion-datetime>
+    </ion-item>
+
+    <ion-item>
+      <ion-label floating>{{"ID Expiration Date"|translate}}</ion-label>
+      <ion-datetime displayFormat="MM/DD/YYYY" name="id_expiration_date" ngModel></ion-datetime>
+    </ion-item>
+
+    <ion-item>
+	    <ion-label floating>{{"Select Filing Status"|translate}}</ion-label>
+	      <ion-select name="filing_status" [(ngModel)]="filing_status" ngModel>
+	      <ion-option value="single">{{"Single"|translate}}</ion-option>
+	      <ion-option value="head-of-household">{{"Head of Household"|translate}}</ion-option>
+	      <ion-option value="married-filing-jointly">{{"Married Filing Jointly"|translate}}</ion-option>
+	      <ion-option value="married-filing-separately">{{"Married Filing Separately"|translate}}</ion-option>
+	      <ion-option value="qualifying-window">{{"Qualifying Widow(er)"|translate}}</ion-option>
+      </ion-select>
+    </ion-item>
+
+    <ion-item>
+      <ion-label floating>{{"Occupation"|translate}}</ion-label>
+      <ion-input type="text" name="occupation" ngModel></ion-input>
+    </ion-item>
+
+  <h3>Address / Misc.</h3>
+
+    <ion-item>
+      <ion-label floating>{{"Address"|translate}}</ion-label>
+      <ion-input type="text" name="address" ngModel></ion-input>
+    </ion-item>
+
+    <ion-item>
+	    <ion-label floating>{{"Address 2"|translate}}</ion-label>
+      <ion-input type="text" name="address_2" ngModel></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label floating>{{"Zip Code"|translate}}</ion-label>
+      <ion-input type="number" name="zip_code" ngModel></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label floating>{{"City"|translate}}</ion-label>
+      <ion-input type="text" name="city" ngModel></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label floating>{{"State"|translate}}</ion-label>
+      <ion-input type="text" name="state" ngModel></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label floating>{{"Phone"|translate}}</ion-label>
+      <ion-input type="text" name="phone" ngModel></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label floating>{{"Discount Code"|translate}}</ion-label>
+      <ion-input type="text" name="discount_code" ngModel></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label floating>{{"Referral ID"|translate}}</ion-label>
+      <ion-input type="text" name="referral_id" ngModel></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label floating>{{"Email Address"|translate}}</ion-label>
+      <ion-input type="email" name="email" ngModel></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label floating>{{"Preferred Location"|translate}}</ion-label>
+      <ion-select name="location" [(ngModel)]="location" ngModel>
+	    <ion-option value="pull">Pullman</ion-option>
+        <ion-option value="seattle">Seattle</ion-option>
+        <ion-option value="la">Los Angeles</ion-option>
+      </ion-select>
+    </ion-item>
+
+    <h3>{{"Filing Options"|translate}}:</h3>
+  
+    <ion-item>
+	    <ion-label>{{"EFILE (10-21 days)"|translate}}</ion-label>
+      <ion-checkbox name="efile"></ion-checkbox>
+    </ion-item>
+	
+	    <h3>{{"Payment Options"|translate}}:</h3>
+
+	<ion-item>
+		<ion-label>{{"Bank product"|translate}}</ion-label>
+      <ion-checkbox name="bank_product"></ion-checkbox>
+    </ion-item>
+
+	<ion-item>
+		<ion-label>{{"EFILE/Direct Deposit"|translate}}</ion-label>
+      <ion-checkbox name="direct_deposit"></ion-checkbox>
+    </ion-item>
+	
+    <ion-item>
+	    <ion-textarea name="notes" placeholder="Special Notes" ngModel></ion-textarea>
+    </ion-item>
+
+    <button ion-button full type="submit">{{"Next"|translate}}</button>
+  </form>
+
+</ion-content>

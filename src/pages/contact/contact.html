@@ -1,0 +1,18 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>{{"Contact"|translate}}</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content class="card-background-page">
+
+	<ion-card *ngFor="let item of location_items">
+		<img src="{{ item.image }}"/>
+		<div class="card-title">{{ item.name }}</div>
+		<div class="card-subtitle">{{ item.address1 }} <br />{{ item.city }}, {{ item.state }}, {{ item.zip }}<br /><a href="tel:{{ item.phone }}" target="_system">{{ item.phone }}</a></div>
+	</ion-card>
+
+</ion-content>
