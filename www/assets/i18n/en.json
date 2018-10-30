@@ -1,0 +1,22 @@
+{
+	"Home": "Home",
+	"Return": "Return",
+	"Appointment": "Appointment",
+	"Staff": "Staff",
+	"Contact": "Contact",
+	"Company": "Company",
+	"UploadW2": "Upload W2",
+	"Choose Language": "Español",
+	"First Name": "First Name",
+	"Middle Name": "Middle Name",
+	"Last Name": "Last Name",
+	"Date of Birth": "Date of Birth",
+	"Social Security Number": "Social Security Number",
+	"Select Number of Dependents": "Select Number of Dependents",
+	"Driver License Number/ID": "Driver License Number/ID",
+	"ID State": "ID State",
+	"ID Issue Date": "ID Issue Date",
+	"ID Expiration Date": "ID Expiration Date",
+	"Select Filing Status": "Select Filing Status",
+	"Occupation": "Occupation"
+}

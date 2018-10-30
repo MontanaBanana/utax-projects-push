@@ -1,0 +1,22 @@
+{
+	"Home": "Inicio",
+	"Return": "Declaración",
+	"Appointment": "Cita",
+	"Staff": "Personal",
+	"Contact": "Contacto",
+	"Company": "Companía",
+	"UploadW2": "Upload W2",
+	"Choose Language": "English",
+	"First Name": "Nombre",
+	"Middle Name": "Segundo Nombre",
+	"Last Name": "Apellido",
+	"Date of Birth": "Facha de Nacimiento",
+	"Social Security Number": "Número de Seguro Social",
+	"Select Number of Dependents": "Select Number of Dependents",
+	"Driver License Number/ID": "Número de Licencia de Conducir / ID",
+	"ID State": "Seleccione Estado",
+	"ID Issue Date": "Identificación  Fecha de Emisión",
+	"ID Expiration Date": "Identificación Fecha de Vencimiento",
+	"Select Filing Status": "Select Filing Status",
+	"Occupation": "Ocupación"
+}
