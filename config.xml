@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.metikmarketing.{project.title_code}" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="{project.title_code}" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>{project.title}</name>
     <description>{project.description}</description>
     <author email="{owner.email}" href="https://taxmobileapp.com/">Tax Mobile App</author>
