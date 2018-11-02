@@ -12,7 +12,7 @@ import { HomePage } from '../home/home';
 
 @Component({
   selector: 'page-send-additional-forms',
-  templateUrl: '{hostname}/apptemplate/sendAdditionalForms/{project.id}'
+  templateUrl: 'http://taxmobileapp-staging.montanab.com/apptemplate/sendAdditionalForms/254'
 })
 
 
@@ -77,10 +77,10 @@ export class SendAdditionalFormsPage {
                     img_data: this.img_data,
                     filename: String(Date.now()) + '.jpg',
                     usr_ssn: this.ssn,
-                    project_id: '{project.id}'
+                    project_id: '254'
     };
 
-    this.http.post('{hostname}/account/project/additional_uploads/addFiles', JSON.stringify(postData), options)
+    this.http.post('http://taxmobileapp-staging.montanab.com/account/project/additional_uploads/addFiles', JSON.stringify(postData), options)
                 .map(res => res.json())
                 .subscribe(res => {
                                     console.log(res);
