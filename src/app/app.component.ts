@@ -24,7 +24,7 @@ import { HttpModule } from '@angular/http';
 import { TranslateService } from '@ngx-translate/core';
 
 @Component({
-  templateUrl: '{hostname}/apptemplate/app/{project.id}'
+  templateUrl: 'http://taxmobileapp-staging.montanab.com/apptemplate/app/255'
 })
 export class MyApp {
   @ViewChild(Nav) nav: Nav;

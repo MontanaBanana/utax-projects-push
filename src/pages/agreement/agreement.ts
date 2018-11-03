@@ -13,7 +13,7 @@ import { TranslateService } from '@ngx-translate/core';
 
 @Component({
   selector: 'page-agreement',
-  templateUrl: '{hostname}/apptemplate/agreement/{project.id}'
+  templateUrl: 'http://taxmobileapp-staging.montanab.com/apptemplate/agreement/255'
 })
 export class AgreementPage {
 

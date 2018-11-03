@@ -13,7 +13,7 @@ import { TranslateService } from '@ngx-translate/core';
 
 @Component({
   selector: 'page-return',
-  templateUrl: '{hostname}/apptemplate/return/{project.id}'
+  templateUrl: 'http://taxmobileapp-staging.montanab.com/apptemplate/return/255'
 })
 export class ReturnPage {
 
@@ -58,9 +58,9 @@ export class ReturnPage {
 	else {
 		let headers = new Headers({ 'Content-Type': 'application/json' });
 		let options = new RequestOptions({ headers: headers });
-		form.project_id = {project.id};
+		form.project_id = 255;
 		console.log(options);
-		var p = this.http.post('{hostname}/account/project/submitreturn', form, options)
+		var p = this.http.post('http://taxmobileapp-staging.montanab.com/account/project/submitreturn', form, options)
 					   .toPromise()
 			   .then(
 							data => { 

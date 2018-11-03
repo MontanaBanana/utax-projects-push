@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="{project.title_code}" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>{project.title}</name>
-    <description>{project.description}</description>
-    <author email="{owner.email}" href="https://taxmobileapp.com/">Tax Mobile App</author>
+<widget id="com.montanab.pg.build.push" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Maria tax world</name>
+    <description>Maria tax world</description>
+    <author email="SBilancieri@metikmarketing.com" href="https://taxmobileapp.com/">Tax Mobile App</author>
     <content src="index.html" />
     <icon src="icon.png" />
     <splash src="splash.png" />
@@ -30,11 +30,9 @@
     <preference name="SplashShowOnlyFirstTime" value="false" />
     <preference name="SplashScreen" value="splash.png" />
     <preference name="SplashScreenDelay" value="6000" />
-
     <platform name="android">
         <allow-intent href="market:*" />
         <resource-file src="google-services.json" target="app/google-services.json" />
-
         <icon src="icon.png" />
         <splash src="splash.png" />
         <preference name="SplashScreen" value="splash.png" />
@@ -46,7 +44,6 @@
         <splash platform="android" qualifier="port-xxhdpi" src="splash.png" />
         <splash platform="android" qualifier="land-xxhdpi" src="splash.png" />
         <splash platform="android" qualifier="xxxhdpi" src="splash.png" />
-
     </platform>
     <platform name="ios">
         <allow-intent href="itms:*" />
@@ -79,30 +76,22 @@
         <splash height="2048" platform="ios" src="Default-Portrait@2x.png" width="1536" />
         <splash height="1536" platform="ios" src="Default-Landscape@2x.png" width="2048" />
         <preference name="SplashScreen" value="res/screen/ios/Default@2x~universal~anyany.png" />
-
     </platform>
-
-
     <plugin name="phonegap-plugin-push" spec="~2.1.2">
         <variable name="FCM_VERSION" value="11.0.1" />
     </plugin>
     <engine name="android" spec="~7.0.0" />
     <engine name="ios" spec="~4.5.4" />
-
-    <config-file platform="ios" target="*-Info.plist" parent="NSHealthShareUsageDescription" mode="replace">
-            <string>App would like to access some of your device data.</string>
+    <config-file mode="replace" parent="NSHealthShareUsageDescription" platform="ios" target="*-Info.plist">
+        <string>App would like to access some of your device data.</string>
     </config-file>
-
-    <config-file platform="ios" target="*-Info.plist" parent="NSHealthUpdateUsageDescription" mode="replace">
-            <string>App would like to update some of your device data.</string>
+    <config-file mode="replace" parent="NSHealthUpdateUsageDescription" platform="ios" target="*-Info.plist">
+        <string>App would like to update some of your device data.</string>
     </config-file>
-
-    <config-file platform="ios" target="*-Info.plist" parent="NFCReaderUsageDescription" mode="replace">
-            <string>App would like to access some of your device data.</string>
+    <config-file mode="replace" parent="NFCReaderUsageDescription" platform="ios" target="*-Info.plist">
+        <string>App would like to access some of your device data.</string>
     </config-file>
-
     <preference name="phonegap-version" value="cli-8.0.0" />
-
     <plugin name="cordova-plugin-compat" spec="^1.1.0" />
     <plugin name="cordova-plugin-console" spec="^1.0.5" />
     <plugin name="cordova-plugin-device" spec="^1.1.4" />
@@ -120,5 +109,4 @@
         <param name="CAMERA_USAGE_DESCRIPTION" value="We are using the Camera for uploading documents and scanning IDs." />
         <param name="PHOTOLIBRARY_USAGE_DESCRIPTION" value="We are using the Photo Library for uploading documents and scanning IDs." />
     </plugin>
-
 </widget>
