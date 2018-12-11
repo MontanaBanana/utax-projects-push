@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget android-versionCode="183442210" id="com.reliable.tax" version="183442210" versionCode="183442210" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Reliable Tax, LLC</name>
-    <description>Reliable Tax, LLC</description>
+    <name>Reliable Tax LLC</name>
+    <description>Reliable Tax LLC</description>
     <author email="SBilancieri@metikmarketing.com" href="https://taxmobileapp.com/">Tax Mobile App</author>
     <content src="index.html" />
     <icon src="icon.png" />
