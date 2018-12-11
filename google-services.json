@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "225448655826",
+    "firebase_url": "https://advent-financial-corporation.firebaseio.com",
+    "project_id": "advent-financial-corporation",
+    "storage_bucket": "advent-financial-corporation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225448655826:android:9b9e768025b6afa1",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.advent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225448655826-afv4sp2eam9ubglpbf4q98vs8e08g1pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAst73wAdaVKKoKt3QzPSHQz9Fe3mpIQ9w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
