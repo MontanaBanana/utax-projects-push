@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "819447069881",
+    "firebase_url": "https://awesome-tax-software.firebaseio.com",
+    "project_id": "awesome-tax-software",
+    "storage_bucket": "awesome-tax-software.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819447069881:android:de1f4440f33a1dd6",
+        "android_client_info": {
+          "package_name": "com.awesome.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819447069881-5o3ku68jccmfsurctqf6cmfm1un1ejug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA60wAvLDxbRwIConBAvPja2bf7v82v0N0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
