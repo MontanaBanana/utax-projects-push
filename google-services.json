@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "935233703835",
+    "firebase_url": "https://y-solutions-taxes.firebaseio.com",
+    "project_id": "y-solutions-taxes",
+    "storage_bucket": "y-solutions-taxes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935233703835:android:c491fa361b2aab55",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.ysolutionstaxes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935233703835-cjd1rhq7mgkp4trcqdq2n4at94gqd1tu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwodP7gGSstgGNUmOlkOeNoAn59qWT6_Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
