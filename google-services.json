@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1059066859471",
+    "firebase_url": "https://reliable-tax.firebaseio.com",
+    "project_id": "reliable-tax",
+    "storage_bucket": "reliable-tax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059066859471:android:db1b6236bbe6b36e",
+        "android_client_info": {
+          "package_name": "com.reliable.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059066859471-4i0ov3jm8d8nh5a64h21atoln4vepiav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp1AaF0tKpiCXhNvIqa863zJDfjlUibUo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
