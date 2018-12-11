@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "850274618392",
+    "firebase_url": "https://tax-source-llc.firebaseio.com",
+    "project_id": "tax-source-llc",
+    "storage_bucket": "tax-source-llc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850274618392:android:ed860ececa19a0cb",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.taxsourcellc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850274618392-jmnp96pipqah4h7421er9hb7i6h298mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV586jK1m01Izxb6y_RnDcf7ncyRyU4t8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
