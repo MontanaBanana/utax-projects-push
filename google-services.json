@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1042620741315",
+    "firebase_url": "https://b-and-n-tax-services.firebaseio.com",
+    "project_id": "b-and-n-tax-services",
+    "storage_bucket": "b-and-n-tax-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042620741315:android:f4d28baf0eff2b24",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.bandn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042620741315-heu2s9mtipoeqg00amtj86o0fl6pa9re.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuDh3EBtymunOCjrUThxNZE1Sk85AUBG0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
