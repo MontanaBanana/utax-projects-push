@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "72108648506",
+    "firebase_url": "https://cctax-solutions.firebaseio.com",
+    "project_id": "cctax-solutions",
+    "storage_bucket": "cctax-solutions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72108648506:android:b544e7b6b9846bc6",
+        "android_client_info": {
+          "package_name": "com.cctax.solution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72108648506-51utjuqud34c6kj3o1tid22a9blkje73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZeDKQH4HOBbCIs6KItO_p5PYfz3OxW60"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
