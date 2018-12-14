@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1059767705222",
+    "firebase_url": "https://taxes-4df33.firebaseio.com",
+    "project_id": "taxes-4df33",
+    "storage_bucket": "taxes-4df33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059767705222:android:7b66cb920abc9ac1",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.taxes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059767705222-56hrq89e60upc0ti0encupcd3jnrevbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaD_Rqm6hEpptH-2QMlkYu55j--lLO1Gw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
