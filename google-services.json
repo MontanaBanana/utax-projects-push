@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "570257783567",
+    "firebase_url": "https://m-and-m-tax-solutions.firebaseio.com",
+    "project_id": "m-and-m-tax-solutions",
+    "storage_bucket": "m-and-m-tax-solutions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570257783567:android:bc801f8be54b0c1c",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.mandmtaxsolutions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570257783567-jmjg1v4k8f74kjg4qhdhpj4359bsbi2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd-RH7ycd5Q3RNmJD1Q7qmnPb9CsgeFgc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
