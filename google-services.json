@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "294818435344",
+    "firebase_url": "https://future-financial-services.firebaseio.com",
+    "project_id": "future-financial-services",
+    "storage_bucket": "future-financial-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294818435344:android:a5f31f0a75d12104",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.futurefinancial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294818435344-8e6dt6cbs97k2jvtvpjj6s04ctbgsbro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDu1jIof4wC-Ed4ekhN1M3tMurAPPdQ4g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
