@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "68427153828",
+    "firebase_url": "https://mitchell-tax-service.firebaseio.com",
+    "project_id": "mitchell-tax-service",
+    "storage_bucket": "mitchell-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68427153828:android:1367f94fc1d4de16",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.mitchelltaxservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68427153828-fb0b4nmollkrbqh508svi62ccmmjtuqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVCTorXBo9KFTmPFcz3irPCp1shifZwgQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
