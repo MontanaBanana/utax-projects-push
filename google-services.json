@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "603282006403",
+    "firebase_url": "https://tax-plus-etc-b5dad.firebaseio.com",
+    "project_id": "tax-plus-etc-b5dad",
+    "storage_bucket": "tax-plus-etc-b5dad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603282006403:android:46b15271b1e45c46",
+        "android_client_info": {
+          "package_name": "com.taxplus.etc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603282006403-bl46npj5saa19ocep6dthpe269orlhr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGXQzc-VzXlHzFxjViWgLm7mrLxgkEZoY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
