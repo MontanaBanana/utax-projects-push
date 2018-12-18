@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "46682723435",
+    "firebase_url": "https://m-and-a-taxshield-software.firebaseio.com",
+    "project_id": "m-and-a-taxshield-software",
+    "storage_bucket": "m-and-a-taxshield-software.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46682723435:android:30796df69806714c",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.martinez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46682723435-jan5e5mqd6p2dhem2v147ki0iamvel1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUxsagfJ-Vf5RJOsuSyBt1fBlcnNkfOus"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

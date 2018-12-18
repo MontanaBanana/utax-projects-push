@@ -16,7 +16,7 @@ import 'rxjs/add/operator/toPromise';
 
 @Component({
   selector: 'page-photos',
-  templateUrl: '{hostname}/apptemplate/photos/{project.id}'
+  templateUrl: 'https://www.taxmobileapp.com/apptemplate/photos/66'
 })
 export class PhotosPage {
 	public user_id: string;
@@ -131,7 +131,7 @@ export class PhotosPage {
         let headers = new Headers({ 'Content-Type': 'application/json' });
         let options = new RequestOptions({ headers: headers });
 		//console.log(options);
-        var p = this.http.post('{hostname}/account/project/submitreturnimages', {imgData: this.uploadbase64Image, img_name: img_name, user_id: this.user_id, project_id: {project.id}}, options)
+        var p = this.http.post('https://www.taxmobileapp.com/account/project/submitreturnimages', {imgData: this.uploadbase64Image, img_name: img_name, user_id: this.user_id, project_id: 66}, options)
 				   .toPromise()
                    .then(
 						data => {
