@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "403213972673",
+    "firebase_url": "https://nationwide-numbers-financial.firebaseio.com",
+    "project_id": "nationwide-numbers-financial",
+    "storage_bucket": "nationwide-numbers-financial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403213972673:android:4e77c8e66928654e",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.nationwidenumbersfinancialservicesinc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403213972673-89lnt7m9div63i6ijhifm6clect1ks3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4FFHr_ylM1jWjlE8K0SjvqA_ozTVdloI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
