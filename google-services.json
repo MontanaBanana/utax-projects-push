@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "247671470689",
+    "firebase_url": "https://blessed-express-tax-service.firebaseio.com",
+    "project_id": "blessed-express-tax-service",
+    "storage_bucket": "blessed-express-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247671470689:android:8fae7e078ac95a93",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.blessedexpresstaxservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247671470689-sbd0t08nkfjr7in1a4aouoda4sgagklk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD10nsJ8l1DR_A1Ii1EG85Uv-1dhf9hrpk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
