@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "87304332904",
+    "firebase_url": "https://ftp-tax-solutions-maxtax.firebaseio.com",
+    "project_id": "ftp-tax-solutions-maxtax",
+    "storage_bucket": "ftp-tax-solutions-maxtax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87304332904:android:c8642a873da690a9",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.maxtax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87304332904-s29vovmp2rg00lpdug72ct21qqmjut9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5AsfsP5_P3I-QTLrv9nJ4RWKtFgEUoTI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
