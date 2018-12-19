@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "514520363244",
+    "firebase_url": "https://gtax-mobile.firebaseio.com",
+    "project_id": "gtax-mobile",
+    "storage_bucket": "gtax-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514520363244:android:f18d4cfb46a56e8f",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.gtax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514520363244-b05c6q92m1k8iptf12ukmiofdercmv4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIqVRH_9E9w8g93LEyuWhRttgMt0kXd4A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
