@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "628289357363",
+    "firebase_url": "https://nationwide-consumer-services.firebaseio.com",
+    "project_id": "nationwide-consumer-services",
+    "storage_bucket": "nationwide-consumer-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628289357363:android:d59f29583e19786c",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.nationwideconsumerservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628289357363-jo5e16qc4220tdr1osootrs28u8tm06n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4yf17GZqDuvWuAq3ShFGkqQN1qAhS59Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
