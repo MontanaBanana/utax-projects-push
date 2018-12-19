@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "143211361369",
+    "firebase_url": "https://premiere-financial-of-w-palm-b.firebaseio.com",
+    "project_id": "premiere-financial-of-w-palm-b",
+    "storage_bucket": "premiere-financial-of-w-palm-b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143211361369:android:2a7bdbe5631c0e10",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.pfs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143211361369-k62j69n0kq4b6atvmmm02r6r9kg67bj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw6aWQ-bw1d5Lx00HHMDIVSmt4WM02L6M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
