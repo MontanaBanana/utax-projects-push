@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "766948148854",
+    "firebase_url": "https://new-horizon-multi-services.firebaseio.com",
+    "project_id": "new-horizon-multi-services",
+    "storage_bucket": "new-horizon-multi-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766948148854:android:0db2c9638420cbf0",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.newhorizonmultiservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766948148854-6pii7ptt22l1mljs1pf9juddamqftpfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_WU4qr3r8MQjUcnNWj1eWNWTh9XUskYk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
