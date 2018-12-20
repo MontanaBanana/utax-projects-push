@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "146430692107",
+    "firebase_url": "https://tax-team.firebaseio.com",
+    "project_id": "tax-team",
+    "storage_bucket": "tax-team.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146430692107:android:fc23fa853613e027",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.forward"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146430692107-n5em66fgdp9pt9pa50i1jdu83sm57q58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVgdVlWOJ8L2Cc_yOPxnFLBtwAht3SvaM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

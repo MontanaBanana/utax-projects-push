@@ -14,7 +14,7 @@ import 'rxjs/add/operator/toPromise';
 export class TwitterPage {
 
   constructor(public navCtrl: NavController, public http: Http) {
-	var projects = this.http.get('{hostname}/account/project/twitter_url/{project.id}');
+	var projects = this.http.get('https://www.taxmobileapp.com/account/project/twitter_url/160');
 			projects
 				.map(res => res.json())
 				.subscribe(data => {
