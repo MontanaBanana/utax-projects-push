@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "591803746379",
+    "firebase_url": "https://millco-tax-consulting-services.firebaseio.com",
+    "project_id": "millco-tax-consulting-services",
+    "storage_bucket": "millco-tax-consulting-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591803746379:android:e84d8f9cfa5ee6db",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.millco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591803746379-7ag8fj2io2og44k86ep192s9d3u2ttm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX-QKrvn27T2jpaVjh8AGyP8Uq848mTOU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
