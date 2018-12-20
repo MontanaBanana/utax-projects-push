@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "114273637193",
+    "firebase_url": "https://cerulean-tax-solutions.firebaseio.com",
+    "project_id": "cerulean-tax-solutions",
+    "storage_bucket": "cerulean-tax-solutions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114273637193:android:5ba2ccd9410277e9",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.ceruleantaxsolutions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114273637193-kki10l0s2cua11pqu05tgvugqr2ocahb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA30mRB32qDmo_TyNSk76ZMC5ghsU74VKk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
