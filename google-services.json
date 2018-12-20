@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "685421836626",
+    "firebase_url": "https://supertax-inc-chapau.firebaseio.com",
+    "project_id": "supertax-inc-chapau",
+    "storage_bucket": "supertax-inc-chapau.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685421836626:android:1275a04082ef79df",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.chao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685421836626-uqcft9tnu8o07jfkn4l9344qbe3qd5s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5ec2SA4VQUV52h8DbhxvrZ5X4Oc3nCfs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
