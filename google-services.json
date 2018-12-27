@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "764607484700",
+    "firebase_url": "https://trustworthy-professional-tax.firebaseio.com",
+    "project_id": "trustworthy-professional-tax",
+    "storage_bucket": "trustworthy-professional-tax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764607484700:android:20d742e20ce0883a",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.trustworthy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764607484700-loqo39slndisvpn9d0aog7omh3u3pj8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxbCWQEX6iIapfbg-cxfxLz_MCUWyquMQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
