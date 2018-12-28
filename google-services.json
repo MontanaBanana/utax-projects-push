@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "192370068668",
+    "firebase_url": "https://freedom-tax-multi-services.firebaseio.com",
+    "project_id": "freedom-tax-multi-services",
+    "storage_bucket": "freedom-tax-multi-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192370068668:android:255d14598551f532",
+        "android_client_info": {
+          "package_name": "com.freedomtax.multi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192370068668-5ck2tm77gfjkq72e58hcqujhevnv3tc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR8k7P_T9eXywfcYN89r9XTA7qLEpHe5Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
