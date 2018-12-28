@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "355747591359",
+    "firebase_url": "https://rdl-enterprises.firebaseio.com",
+    "project_id": "rdl-enterprises",
+    "storage_bucket": "rdl-enterprises.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355747591359:android:e3f43981471c04a1",
+        "android_client_info": {
+          "package_name": "com.rdl.stop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355747591359-v72cif63jvongumm18d841qqmik1d9ms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOjBGskUwk_1cH4lH062XLik1KAbGDA5w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
