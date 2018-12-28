@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "489147610174",
+    "firebase_url": "https://tnt-tax-services.firebaseio.com",
+    "project_id": "tnt-tax-services",
+    "storage_bucket": "tnt-tax-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489147610174:android:1d618f654025c28e",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.tnttax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489147610174-51c9lg2jrajj5ckmbvuv40q920qsujb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYkRArKi8elgje6qoaeyfeMVRyXwW6PT8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
