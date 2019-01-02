@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "529113520779",
+    "firebase_url": "https://w2-tax-pros.firebaseio.com",
+    "project_id": "w2-tax-pros",
+    "storage_bucket": "w2-tax-pros.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529113520779:android:dd530b3910032fc9",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.w2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529113520779-4e7h556uedmshf4mftkv2qjclrd2255f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZipXp4MGXtWLCvTMa8woWe2usJ8DM-Gw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
