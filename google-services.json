@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "619824703126",
+    "firebase_url": "https://z3-financial-services.firebaseio.com",
+    "project_id": "z3-financial-services",
+    "storage_bucket": "z3-financial-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619824703126:android:e233c30e2c7ad07b",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.z3tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619824703126-22pqbc8b126j4bqq32tdo3sbd5aggerh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4-pliqBFDaTVGD1rgXRRErXC-O2iwjHI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
