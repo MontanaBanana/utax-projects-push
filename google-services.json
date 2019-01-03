@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "193780035159",
+    "firebase_url": "https://ofs-tax-pros.firebaseio.com",
+    "project_id": "ofs-tax-pros",
+    "storage_bucket": "ofs-tax-pros.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193780035159:android:32d38ba6ab08f960",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.ofs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193780035159-1o0ak6n6f994ad9205gbcvtotsrsqs52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOtWb6bCptz6tZsyAgWuM7NJQZ9N-HPOU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
