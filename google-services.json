@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "386780102303",
+    "firebase_url": "https://novalink-tax-plus.firebaseio.com",
+    "project_id": "novalink-tax-plus",
+    "storage_bucket": "novalink-tax-plus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386780102303:android:f230ac0bd6e36322",
+        "android_client_info": {
+          "package_name": "com.novalinktax.plus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386780102303-s4gi648bp1ub3n3u59fq3pi0neb4cpcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRSIgIRka88YCT8vCMJdau5hEZkxfSVZE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
