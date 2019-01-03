@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "22447624033",
+    "firebase_url": "https://cts-tax-accounting.firebaseio.com",
+    "project_id": "cts-tax-accounting",
+    "storage_bucket": "cts-tax-accounting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22447624033:android:1b1fa6d73d6e4077",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.communitytax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22447624033-cov375g8fu36k1gurdc2voguvbpcavll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe0fK12JeBGIoOJ66wX2Gqd_A1IyColiQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
