@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "60455700325",
+    "firebase_url": "https://your-tax-doctor.firebaseio.com",
+    "project_id": "your-tax-doctor",
+    "storage_bucket": "your-tax-doctor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60455700325:android:e6c0af3a92947bc8",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.yourtaxdoctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60455700325-8kphpd45iigagkt8v4uuq41v4t6m2il7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOb4MO76ZIFppp6lNuokrL39aOfbrS5gU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
