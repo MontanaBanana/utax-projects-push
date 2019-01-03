@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "864070238908",
+    "firebase_url": "https://total-tax-accounting.firebaseio.com",
+    "project_id": "total-tax-accounting",
+    "storage_bucket": "total-tax-accounting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864070238908:android:5ed639e46dce6a79",
+        "android_client_info": {
+          "package_name": "com.totaltax.accounting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864070238908-tj94pn15clpe6kmb0l9i52stdlm0q8b9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5f7GkC5Ml9lURDLErEkXFehyLalt9S34"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
