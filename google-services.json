@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "7326786334",
+    "firebase_url": "https://seven-tax-software.firebaseio.com",
+    "project_id": "seven-tax-software",
+    "storage_bucket": "seven-tax-software.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7326786334:android:5d13631572152df6",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.seventaxsoftware"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7326786334-jfj06sc193gibafmin4nt95a79deml73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxsgBcdduAdTW-hPsrmn0FCEAIi-6tVm4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
