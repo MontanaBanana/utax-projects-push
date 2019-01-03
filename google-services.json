@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "39273062391",
+    "firebase_url": "https://prosperous-financial-services.firebaseio.com",
+    "project_id": "prosperous-financial-services",
+    "storage_bucket": "prosperous-financial-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39273062391:android:069e95a72eaab43a",
+        "android_client_info": {
+          "package_name": "com.prosperous.financial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39273062391-46qp2q0078559f6i00gpcnm6uei3bbcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqTDZMWFvnINTxZLwIO_PxGVJ42CfCGaE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
