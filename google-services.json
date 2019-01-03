@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "724366616030",
+    "firebase_url": "https://paradise-tax.firebaseio.com",
+    "project_id": "paradise-tax",
+    "storage_bucket": "paradise-tax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724366616030:android:fe93ad2b0c7ad342",
+        "android_client_info": {
+          "package_name": "com.paradise.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724366616030-4iled8infnf25tv1ho6sr562i23qv61e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCybbYS8hp_o12CmKrYGZQLl52OAf5x7TE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
