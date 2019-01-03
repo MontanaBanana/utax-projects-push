@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "11443124157",
+    "firebase_url": "https://bass-tax-associate.firebaseio.com",
+    "project_id": "bass-tax-associate",
+    "storage_bucket": "bass-tax-associate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11443124157:android:488be56fceba32d4",
+        "android_client_info": {
+          "package_name": "com.basstax.associate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11443124157-9h29q347e119vpqs6dr5qq0r2e4huahh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIGkbd5t2hH3fjZNsIxlhwA1aYIVHLD0M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
