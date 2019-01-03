@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1019810863675",
+    "firebase_url": "https://super-tax-and-services.firebaseio.com",
+    "project_id": "super-tax-and-services",
+    "storage_bucket": "super-tax-and-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019810863675:android:642ab5d95f04389e",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.supertax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019810863675-1d7l4fuhfgljlsrhmhkbq08r5qmsgl4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWjbEkdEJHfP3Qgj2F-dAg4XBqcHYX5Ts"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
