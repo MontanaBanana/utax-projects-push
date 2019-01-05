@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "418449037397",
+    "firebase_url": "https://taxnation-8fbc4.firebaseio.com",
+    "project_id": "taxnation-8fbc4",
+    "storage_bucket": "taxnation-8fbc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418449037397:android:f61cb9dedc981950",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.taxnation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418449037397-emuen4o8vh6bh5b3ps68nj54v8i705ei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6-Y_hHu3H2e0io5GGe0xJ5E72Vf8zsVc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
