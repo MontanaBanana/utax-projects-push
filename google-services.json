@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "967220563072",
+    "firebase_url": "https://smc-tax.firebaseio.com",
+    "project_id": "smc-tax",
+    "storage_bucket": "smc-tax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967220563072:android:ff7bf9a6e768cdb7",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.smctax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967220563072-3mr96t5if6a7hk4decij3gup2nf8bqif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa8WXmQ-gXaTp6tMKbdVpnbdoZbIs3Il0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
