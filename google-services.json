@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1089039440554",
+    "firebase_url": "https://pgp-tax-llc.firebaseio.com",
+    "project_id": "pgp-tax-llc",
+    "storage_bucket": "pgp-tax-llc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089039440554:android:ac75fa2f055ff01c",
+        "android_client_info": {
+          "package_name": "com.pgp.taxes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089039440554-cf6r96a5et8pks5glgr4rtiqlc312vtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB902rK09UjMuj8OGG2oq06WgTsfx2rWpQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
