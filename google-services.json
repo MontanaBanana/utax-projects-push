@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "66894242984",
+    "firebase_url": "https://sl-tax-agency.firebaseio.com",
+    "project_id": "sl-tax-agency",
+    "storage_bucket": "sl-tax-agency.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66894242984:android:8c92a1be46ebdd01",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.sltaxagency"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66894242984-ckd3braoekto64gl83918hn2elkt033s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2qYG74lUtD6aKOGXTe0YLoJ3k189N1-E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
