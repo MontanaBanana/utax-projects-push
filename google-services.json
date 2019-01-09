@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "449986576242",
+    "firebase_url": "https://batten-financial-services.firebaseio.com",
+    "project_id": "batten-financial-services",
+    "storage_bucket": "batten-financial-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449986576242:android:9795557b03e026c1",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.batten"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449986576242-n29o1q76qane1gcfuj4gj7svfdebgegf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDDYKngJf7nbcr0C-6MgymDSHAJsccC5U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
