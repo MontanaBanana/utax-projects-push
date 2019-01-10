@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>1082880651768-hv4jrgrramfnbg3nbn7vlabupn4ss253.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1082880651768-hv4jrgrramfnbg3nbn7vlabupn4ss253</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBHi10FjXH11NHxf0GWShWNN9GRcvLqZUA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1082880651768</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.gystax.service</string>
+	<key>PROJECT_ID</key>
+	<string>gys-tax-service</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gys-tax-service.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1082880651768:ios:1e2aa36c04f63b82</string>
+	<key>DATABASE_URL</key>
+	<string>https://gys-tax-service.firebaseio.com</string>
+</dict>
+</plist>

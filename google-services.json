@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1082880651768",
+    "firebase_url": "https://gys-tax-service.firebaseio.com",
+    "project_id": "gys-tax-service",
+    "storage_bucket": "gys-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082880651768:android:1e2aa36c04f63b82",
+        "android_client_info": {
+          "package_name": "com.gystax.service"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082880651768-6evkm6kr1lv974ljm3fleco0ogdtkvkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-0tzrgiOCpE7gyGHQbrMVKYM5f0vuhSw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
