@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1089613514431",
+    "firebase_url": "https://d-and-h-tax-service.firebaseio.com",
+    "project_id": "d-and-h-tax-service",
+    "storage_bucket": "d-and-h-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089613514431:android:8a5779f1d7420147",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.dandh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089613514431-2v6keg5juppp77ilfgnevgoncg5fai7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBinp9tsmq8VYJn_iKCzmVLzdvw3k-aGk0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
