@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "389332993541",
+    "firebase_url": "https://freefile-6653b.firebaseio.com",
+    "project_id": "freefile-6653b",
+    "storage_bucket": "freefile-6653b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389332993541:android:e80a4f0aacd9bf94",
+        "android_client_info": {
+          "package_name": "com.free.file"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389332993541-4o3oa1qlgshrjgq8r9a0b548590jl4k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM64dJ3PeGCpNqWRbO9rzxdG63uZB2AgE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
