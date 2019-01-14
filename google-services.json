@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "24857129238",
+    "firebase_url": "https://brown-and-associates-tax.firebaseio.com",
+    "project_id": "brown-and-associates-tax",
+    "storage_bucket": "brown-and-associates-tax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24857129238:android:ffb09ee504369170",
+        "android_client_info": {
+          "package_name": "com.brown.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24857129238-6ep6j436cs1vm4pks693emhamn7ikjam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiXy8O1g3OzTUt0C4xR4eQwGoNU5oPZA8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
