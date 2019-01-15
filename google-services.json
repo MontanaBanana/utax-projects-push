@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "514175975216",
+    "firebase_url": "https://tax-wiz-b7790.firebaseio.com",
+    "project_id": "tax-wiz-b7790",
+    "storage_bucket": "tax-wiz-b7790.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514175975216:android:7e2ae5e49dec799e",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.taxwiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514175975216-0q680sf5bs89o21ct9ac8svabomj13mk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDliO85JeSABLFWJOkcmWJn_uDMQUfealc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
