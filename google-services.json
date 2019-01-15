@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1028345287478",
+    "firebase_url": "https://one-way-tax-service.firebaseio.com",
+    "project_id": "one-way-tax-service",
+    "storage_bucket": "one-way-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028345287478:android:843193d8a0e330f0",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.oneway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028345287478-u6lncdtjmtbfh4j7oo9p088flnofclri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVQwP6RHFA7-V7ZpC4lPzqxo08w3tUkck"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
