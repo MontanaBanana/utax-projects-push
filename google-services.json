@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "986694608414",
+    "firebase_url": "https://trupoint-marketing.firebaseio.com",
+    "project_id": "trupoint-marketing",
+    "storage_bucket": "trupoint-marketing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986694608414:android:4d5ee96a1bac2f5d",
+        "android_client_info": {
+          "package_name": "com.trupoint.services"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986694608414-3jmbjhulaieuimlbhe2qm4478sm5qgkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy-16lI5P7vmbRz2Xy2dvt-5k2hAxxJuM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
