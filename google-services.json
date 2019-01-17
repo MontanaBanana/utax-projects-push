@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "835764673068",
+    "firebase_url": "https://ollis-tax-accounting.firebaseio.com",
+    "project_id": "ollis-tax-accounting",
+    "storage_bucket": "ollis-tax-accounting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835764673068:android:f0c18effeb333a7e",
+        "android_client_info": {
+          "package_name": "com.ollistax.accounting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835764673068-0rkoa8mjftpnuvl6679l6ocd6oj6u1hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn80D-v0MEhTa7zt93Vf79msQCHzWx0lo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
