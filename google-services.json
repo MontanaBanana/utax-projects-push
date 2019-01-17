@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "81946142996",
+    "firebase_url": "https://patelis-tax.firebaseio.com",
+    "project_id": "patelis-tax",
+    "storage_bucket": "patelis-tax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81946142996:android:226a74ca3a875963",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.patelistax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81946142996-7p0oor6fb2l4bk2538o28if29df4tsrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPhFpgqcmQwEnDuztZK9puQnQ2xu1vIEM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
