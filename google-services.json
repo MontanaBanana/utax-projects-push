@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "38897754666",
+    "firebase_url": "https://compu-billing-inc.firebaseio.com",
+    "project_id": "compu-billing-inc",
+    "storage_bucket": "compu-billing-inc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38897754666:android:a263dedf423834c9",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.compubilling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38897754666-o53pas7ni7smaoa1qsn8rvfac9mht3jv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLsg4_Pfv9DZlEIOjBut8OLXzRuDGBKfM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
