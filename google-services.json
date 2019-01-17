@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "3343644522",
+    "firebase_url": "https://p-mathis-and-associates.firebaseio.com",
+    "project_id": "p-mathis-and-associates",
+    "storage_bucket": "p-mathis-and-associates.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3343644522:android:d0c062a25d0ce3db",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.pmathis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3343644522-vv6ce00qp97kgp83fmh7hronai3tb6fl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLEBd_mBCf4b0HajNrEg3Pl_eZg3OIecA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

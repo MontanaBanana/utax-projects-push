@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="{project.title_code}" version="{project.version}" versionCode="{project.version}" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>{project.title}</name>
-    <description>{project.description}</description>
-    <author email="{owner.email}" href="https://taxmobileapp.com/">Tax Mobile App</author>
+<widget android-versionCode="1901622200" id="com.metikmarketing.pmathis" version="1901622200" versionCode="1901622200" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>PMATHIS and ASSOCIATES, LLC</name>
+    <description>PMATHIS and ASSOCIATES, LLC</description>
+    <author email="mbeckler@metikmarketing.com" href="https://taxmobileapp.com/">Tax Mobile App</author>
     <content src="index.html" />
     <icon src="icon.png" />
     <splash src="splash.png" />
@@ -35,15 +35,16 @@
         <resource-file src="google-services.json" target="app/google-services.json" />
         <icon src="icon.png" />
         <splash src="splash.png" />
-        <preference name="SplashScreen" value="splash.png" />
-        <splash platform="android" qualifier="ldpi" src="splash.png" />
-        <splash platform="android" qualifier="mdpi" src="splash.png" />
-        <splash platform="android" qualifier="hdpi" src="splash.png" />
-        <splash platform="android" qualifier="xhdpi" src="splash.png" />
-        <splash platform="android" qualifier="fr-xhdpi" src="splash.png" />
-        <splash platform="android" qualifier="port-xxhdpi" src="splash.png" />
-        <splash platform="android" qualifier="land-xxhdpi" src="splash.png" />
-        <splash platform="android" qualifier="xxxhdpi" src="splash.png" />
+        <preference name="SplashScreen" value="screen" />
+        <preference name="AutoHideSplashScreen" value="true" />
+        <splash density="land-hdpi" src="splash.png" />
+        <splash density="land-ldpi" src="splash.png" />
+        <splash density="land-mdpi" src="splash.png" />
+        <splash density="land-xhdpi" src="splash.png" />
+        <splash density="port-hdpi" src="splash.png" />
+        <splash density="port-ldpi" src="splash.png" />
+        <splash density="port-mdpi" src="splash.png" />
+        <splash density="port-xhdpi" src="splash.png" />
     </platform>
     <platform name="ios">
         <allow-intent href="itms:*" />
@@ -77,13 +78,21 @@
         <splash height="1536" platform="ios" src="Default-Landscape@2x.png" width="2048" />
         <preference name="SplashScreen" value="res/screen/ios/Default@2x~universal~anyany.png" />
     </platform>
-    <plugin name="phonegap-plugin-push" spec="~2.1.2"><variable name="FCM_VERSION" value="11.0.1" /></plugin>
-    <engine name="android" spec="~7.0.0" />
+    <plugin name="phonegap-plugin-push" source="npm">
+        <variable name="FCM_VERSION" value="11.0.1" />
+    </plugin>
+    <engine name="android" spec="~7.1.2" />
     <engine name="ios" spec="~4.5.4" />
-    <config-file mode="replace" parent="NSHealthShareUsageDescription" platform="ios" target="*-Info.plist"><string>App would like to access some of your device data.</string></config-file>
-    <config-file mode="replace" parent="NSHealthUpdateUsageDescription" platform="ios" target="*-Info.plist"><string>App would like to update some of your device data.</string></config-file>
-    <config-file mode="replace" parent="NFCReaderUsageDescription" platform="ios" target="*-Info.plist"><string>App would like to access some of your device data.</string></config-file>
-    <preference name="phonegap-version" value="cli-8.0.0" />
+    <config-file mode="replace" parent="NSHealthShareUsageDescription" platform="ios" target="*-Info.plist">
+        <string>App would like to access some of your device data.</string>
+    </config-file>
+    <config-file mode="replace" parent="NSHealthUpdateUsageDescription" platform="ios" target="*-Info.plist">
+        <string>App would like to update some of your device data.</string>
+    </config-file>
+    <config-file mode="replace" parent="NFCReaderUsageDescription" platform="ios" target="*-Info.plist">
+        <string>App would like to access some of your device data.</string>
+    </config-file>
+    <preference name="phonegap-version" value="cli-8.1.1" />
     <plugin name="cordova-plugin-compat" spec="^1.1.0" />
     <plugin name="cordova-plugin-console" spec="^1.0.5" />
     <plugin name="cordova-plugin-device" spec="^1.1.4" />
