@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "511727396149",
+    "firebase_url": "https://on-top-tax-services-bayviews.firebaseio.com",
+    "project_id": "on-top-tax-services-bayviews",
+    "storage_bucket": "on-top-tax-services-bayviews.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511727396149:android:2173d12b8f93ad2c",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.ontoptaxservicesbayviews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511727396149-jviqrhsl4kme0v5nupc5j82rngklt5s0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTbJWLdh1KB6L6JE7Re1eqv-oFYqU8HTM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
