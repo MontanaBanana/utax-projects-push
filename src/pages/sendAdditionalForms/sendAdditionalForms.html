@@ -8,22 +8,22 @@
   </ion-navbar>
 </ion-header>
 
-<ion-content padding>
+
+<ion-content padding class="card-background-page">
 	<ion-item>
 		<ion-input [(ngModel)]="ssn" type="text" placeholder="Social Security Number"></ion-input>
 	</ion-item>
-	<ion-item>
-		<button ion-button color="secondary" (click)="getAdditionalImage();">Get Image</button>
-	</ion-item>
-	<ion-item>
+		<button ion-button color="secondary" (click)="getAdditionalImage();">Add a new image</button><br />
 		<h4>Image Preview</h4>
-		<img [src]="imageURI" *ngIf="imageURI" alt="file" width="300" />
-	</ion-item>
+		<ion-card>
+		    <img [src]="imageURI" *ngIf="imageURI" width="300">
+		</ion-card>
+		<button ion-button (click)="uploadAdditionalFile();">Upload Image</button>
 	<ion-item>
-		<button ion-button (click)="uploadAdditionalFile();">Upload</button>
-	</ion-item>
-	<ion-item></ion-item>
-	<ion-item>
-		<button ion-button color="light" (click)="goHome()" block>Back to Home</button>
-	</ion-item>
+		<h4>Uploaded images</h4>
+		<ion-card>
+		    <img [src]="imageURI" *ngIf="imageURI">
+		</ion-card>
+	</ion-item>	
+	<button ion-button color="light" (click)="goHome()" block>Back to Home</button>
 </ion-content>

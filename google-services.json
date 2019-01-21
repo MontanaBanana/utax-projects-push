@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "213285883067",
+    "firebase_url": "https://on-top-tax-services-oakland.firebaseio.com",
+    "project_id": "on-top-tax-services-oakland",
+    "storage_bucket": "on-top-tax-services-oakland.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213285883067:android:bff88b5a0afdfe13",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.ontoptaxservicesoakland"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213285883067-0ivfuo1854bf2j4m5jdqal065ksblh1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO7c1Yy-t7OKzgFbLwK_uG7gu-sqolnpA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
