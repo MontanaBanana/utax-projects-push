@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "603207506261",
+    "firebase_url": "https://tla-tax-group.firebaseio.com",
+    "project_id": "tla-tax-group",
+    "storage_bucket": "tla-tax-group.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603207506261:android:a6003f8dce1664df",
+        "android_client_info": {
+          "package_name": "com.tlatax.group"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603207506261-t4lk27aj5rsca8c4abv0mfaimurdbfft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAavfhxfnZ7MS6t_dC7N4oDKK_Pg_BXIH4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
