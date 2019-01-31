@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "519705187997",
+    "firebase_url": "https://now-income-tax.firebaseio.com",
+    "project_id": "now-income-tax",
+    "storage_bucket": "now-income-tax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519705187997:android:ee3d9eb9c2918a33",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.nowincome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519705187997-pq5lhvg38jt3fh0u0i9lfsau0iuro160.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnDYWmKgiR_QyuADz2_XM1u6zJUNv31ks"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
