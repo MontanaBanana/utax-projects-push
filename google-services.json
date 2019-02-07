@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "292370822956",
+    "firebase_url": "https://the-income-tax-house-corp.firebaseio.com",
+    "project_id": "the-income-tax-house-corp",
+    "storage_bucket": "the-income-tax-house-corp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292370822956:android:94efe24f9beb6675",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.taxhouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292370822956-i83u1ucsjhaekm9dh9o1n05m9r5i4np3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFyFSkzivqUeXT07Dj-w3jfrCdf1h1GOg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
