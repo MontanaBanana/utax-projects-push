@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "138612521436",
+    "firebase_url": "https://salazar-insurance-and-fin-svcs.firebaseio.com",
+    "project_id": "salazar-insurance-and-fin-svcs",
+    "storage_bucket": "salazar-insurance-and-fin-svcs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138612521436:android:9cc7e590d308e6ad",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.salazarinsuranceandfinancialservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138612521436-4ujnnk784iskiv4ob5ngscoqdm4o1pc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1W7YPx5cTFOshu--wyJ9__paGTZyq42M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

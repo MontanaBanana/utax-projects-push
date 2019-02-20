@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>138612521436-cujjpa5o81hn3h7ivo3fh7g6a2q50koo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.138612521436-cujjpa5o81hn3h7ivo3fh7g6a2q50koo</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAJc3RNpkHw9rQ1NJRDXsMfYgj-eWlKC6s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>138612521436</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.metikmarketing.salazarinsuranceandfinancialservices</string>
+	<key>PROJECT_ID</key>
+	<string>salazar-insurance-and-fin-svcs</string>
+	<key>STORAGE_BUCKET</key>
+	<string>salazar-insurance-and-fin-svcs.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:138612521436:ios:9cc7e590d308e6ad</string>
+	<key>DATABASE_URL</key>
+	<string>https://salazar-insurance-and-fin-svcs.firebaseio.com</string>
+</dict>
+</plist>
