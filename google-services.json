@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1020285927465",
+    "firebase_url": "https://cpa-tax-member-tax-service.firebaseio.com",
+    "project_id": "cpa-tax-member-tax-service",
+    "storage_bucket": "cpa-tax-member-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020285927465:android:1a6f65a241998428",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.cpatax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020285927465-pdi2jcuc1qes6iic18hjvqb000v6egbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkeRIZDC0Y0BBDYCZh8_ImaEmKMYi2Iqo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
