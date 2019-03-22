@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1020192955879",
+    "firebase_url": "https://platinium-financial-inc.firebaseio.com",
+    "project_id": "platinium-financial-inc",
+    "storage_bucket": "platinium-financial-inc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020192955879:android:4864ae8249515204",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.platinium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020192955879-0sih2m7a10nvisajmag8i7dq43i2isoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh4_EYSr6NWQ-U35OBMtQo0CorKvHuE4I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
