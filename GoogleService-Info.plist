@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>919431985876-ik3h19bctm7tr51hhbollv2ukhg4a8j2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.919431985876-ik3h19bctm7tr51hhbollv2ukhg4a8j2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAC5-IsesPhySQoUj54I1AEnDm_EBvpEYk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>919431985876</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.stephensbrostax.service</string>
+	<key>PROJECT_ID</key>
+	<string>stephen-bros-tax-service</string>
+	<key>STORAGE_BUCKET</key>
+	<string>stephen-bros-tax-service.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:919431985876:ios:4cdc583b1a3f90d6</string>
+	<key>DATABASE_URL</key>
+	<string>https://stephen-bros-tax-service.firebaseio.com</string>
+</dict>
+</plist>
