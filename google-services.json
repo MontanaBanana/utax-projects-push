@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "537459444703",
+    "firebase_url": "https://acx-tax-llc.firebaseio.com",
+    "project_id": "acx-tax-llc",
+    "storage_bucket": "acx-tax-llc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537459444703:android:33d88ec637b491d8",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.acxtax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537459444703-448ebu8aki2rur9k2krr7d1d035o1qsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAIRUmf-C36Lxkh0IxOYFrEQ7vwijMr7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537459444703-448ebu8aki2rur9k2krr7d1d035o1qsa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "537459444703-9tqtvnuljg3735a03nvdk91c04a0a864.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.metikmarketing.acxtax",
+                "app_store_id": "931223602"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>537459444703-9tqtvnuljg3735a03nvdk91c04a0a864.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.537459444703-9tqtvnuljg3735a03nvdk91c04a0a864</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBok7bmbPxz4F0Of9CUcnqWRQR9TOz0OzQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>537459444703</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.metikmarketing.acxtax</string>
+	<key>PROJECT_ID</key>
+	<string>acx-tax-llc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>acx-tax-llc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:537459444703:ios:33d88ec637b491d8</string>
+	<key>DATABASE_URL</key>
+	<string>https://acx-tax-llc.firebaseio.com</string>
+</dict>
+</plist>
