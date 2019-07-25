@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "961978805131",
+    "firebase_url": "https://chester-and-chester-income-tax.firebaseio.com",
+    "project_id": "chester-and-chester-income-tax",
+    "storage_bucket": "chester-and-chester-income-tax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961978805131:android:9b5101ffd2f01f9c",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.chester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961978805131-r29j7vime6kh4ed4kq8rti3o1u2862ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw_qiA3Y92jhuwPgDVzzMJ9_gUu1_foFY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
