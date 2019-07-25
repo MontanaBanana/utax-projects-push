@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "637568828931",
+    "firebase_url": "https://pronto-tax.firebaseio.com",
+    "project_id": "pronto-tax",
+    "storage_bucket": "pronto-tax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637568828931:android:05684fbf7f770300",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.prontotax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637568828931-hsl8pc8bfaf7h49e3mcnes9n24g0qoru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUbYWnPq6yy14r1u7pN6tjho7pMIfIsiU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
