@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "414985907259",
+    "firebase_url": "https://stephanies-tax-and-professiona.firebaseio.com",
+    "project_id": "stephanies-tax-and-professiona",
+    "storage_bucket": "stephanies-tax-and-professiona.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414985907259:android:52f38b35fb714f7a",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.stephanie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414985907259-ij9bvemuv3jiq65pslhai9c1gr6idnc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqHzRsruCe5-pfd_ml0aRbSFrHFrjWtXY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
