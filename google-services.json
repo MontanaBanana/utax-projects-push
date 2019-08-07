@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "426329149344",
+    "firebase_url": "https://service-income-tax.firebaseio.com",
+    "project_id": "service-income-tax",
+    "storage_bucket": "service-income-tax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426329149344:android:ee12e367e3d0adca",
+        "android_client_info": {
+          "package_name": "com.service.income"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426329149344-7usjoldidf17ueu60abr83rg613qqlc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT-GnjzkH0o7DTMSyJQhl-ra7P0ww6Ih8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426329149344-7usjoldidf17ueu60abr83rg613qqlc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
