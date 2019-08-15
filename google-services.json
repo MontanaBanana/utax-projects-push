@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "950104538069",
+    "firebase_url": "https://annas-multiple-services.firebaseio.com",
+    "project_id": "annas-multiple-services",
+    "storage_bucket": "annas-multiple-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950104538069:android:b5951446993b13dc",
+        "android_client_info": {
+          "package_name": "com.annas.services"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950104538069-0l80lmpuagl8cikase63qbuprnef33f8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRGMTq784tusbUKvjYdeSf7ChkYK41l6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950104538069-0l80lmpuagl8cikase63qbuprnef33f8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
