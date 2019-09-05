@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "760331053974",
+    "firebase_url": "https://sanders-income-tax-service.firebaseio.com",
+    "project_id": "sanders-income-tax-service",
+    "storage_bucket": "sanders-income-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760331053974:android:30b2dc00b3ac9794",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.sanders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760331053974-l1k4tuueup9kp399pbk1oq3coa4l0q2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRJOl7B8NOAaJv27hR5TkQEBzIwAgo7P8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
