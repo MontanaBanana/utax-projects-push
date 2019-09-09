@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "419112682867",
+    "firebase_url": "https://emeryville-tax-service.firebaseio.com",
+    "project_id": "emeryville-tax-service",
+    "storage_bucket": "emeryville-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419112682867:android:a4c9ff9580bf1c38",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.emeryville"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419112682867-1ttj2s9lc8nmremnan7rkded5qt8cpst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWPwqnPDIAdSUsZNp7BmdEmBRNbfx8pLY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
