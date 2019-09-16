@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "421477559362",
+    "firebase_url": "https://lomax-tax-and-financial-servic.firebaseio.com",
+    "project_id": "lomax-tax-and-financial-servic",
+    "storage_bucket": "lomax-tax-and-financial-servic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421477559362:android:a279fcd9aa48b3d7c611db",
+        "android_client_info": {
+          "package_name": "com.lomax.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421477559362-g2qtkika107oj7jbe8qu60ue24jhbrn6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjarhqa9_K-5KawP0y77hAd5V655LTXtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421477559362-g2qtkika107oj7jbe8qu60ue24jhbrn6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
