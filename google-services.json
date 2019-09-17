@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1023976048389",
+    "firebase_url": "https://erika-tax-service.firebaseio.com",
+    "project_id": "erika-tax-service",
+    "storage_bucket": "erika-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023976048389:android:199eaa43c47cf1fc",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.erikataxservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023976048389-qglqakk3gmep7pntcfoe8nt7i8vd6fqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdjXDiywRgKXc7OzNUU_YotGy8GlNynb4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
