@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "207440207667",
+    "firebase_url": "https://option-1-tax.firebaseio.com",
+    "project_id": "option-1-tax",
+    "storage_bucket": "option-1-tax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207440207667:android:1787862c13c3d9e2",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.optiontax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207440207667-6uh067ul93qmjkoo8o6kce2smbpc2epk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGMAzu0iRSbyyS6ZbDWKsxDkNtrGzU2TE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
