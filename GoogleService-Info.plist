@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>333324343707-k0eej9k47sp3ognb696m2pig02b2o1vv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.333324343707-k0eej9k47sp3ognb696m2pig02b2o1vv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDrd25w6E-u-gtg5yMSFf4y5oGRaXRenNc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>333324343707</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dynasty.tax</string>
+	<key>PROJECT_ID</key>
+	<string>tax-dynasty-financial-services</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tax-dynasty-financial-services.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:333324343707:ios:2bc48750206a6e0c21693e</string>
+	<key>DATABASE_URL</key>
+	<string>https://tax-dynasty-financial-services.firebaseio.com</string>
+</dict>
+</plist>

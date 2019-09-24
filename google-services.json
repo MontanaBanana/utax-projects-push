@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "333324343707",
+    "firebase_url": "https://tax-dynasty-financial-services.firebaseio.com",
+    "project_id": "tax-dynasty-financial-services",
+    "storage_bucket": "tax-dynasty-financial-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333324343707:android:0416c13db666be24",
+        "android_client_info": {
+          "package_name": "com.dynasty.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333324343707-a5nrcidh63jpf23d26nmmn45g6e38v7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwgiIjRGxku_mAhhJa15NMCV6BUYgXLVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333324343707-a5nrcidh63jpf23d26nmmn45g6e38v7o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "333324343707-k0eej9k47sp3ognb696m2pig02b2o1vv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dynasty.tax",
+                "app_store_id": "1481240684"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
