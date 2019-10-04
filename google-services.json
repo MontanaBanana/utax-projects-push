@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "237509471284",
+    "firebase_url": "https://dependable-tax-and-notary.firebaseio.com",
+    "project_id": "dependable-tax-and-notary",
+    "storage_bucket": "dependable-tax-and-notary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237509471284:android:1d96f2f278f93c79",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.dependabletaxandnotaryservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237509471284-6pbo0gsavjt1nn78mbirhl09fvl54854.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmo9UhTSUj3SklYSL6m78SY1LIk-BV0lU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
