@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "547695402788",
+    "firebase_url": "https://gana-yang-tax-service.firebaseio.com",
+    "project_id": "gana-yang-tax-service",
+    "storage_bucket": "gana-yang-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547695402788:android:ef9e993c9332576a",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.ganayangtaxservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547695402788-4hquk01rogjkp9g1gii86e9c6u5efbqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFIslFPUWV0kc4f7xPYpSlaD27lN-umRI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
