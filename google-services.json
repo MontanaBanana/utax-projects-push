@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "20832424078",
+    "firebase_url": "https://taxguruette-d7efc.firebaseio.com",
+    "project_id": "taxguruette-d7efc",
+    "storage_bucket": "taxguruette-d7efc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20832424078:android:64cb418b24bfcaea",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.taxguruette"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20832424078-kvv4djgeml7p8r2u0vikl2srg7q2v2pv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqlS-3-vi99LHLsxwWrzsRmo4dHPFW1ak"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
