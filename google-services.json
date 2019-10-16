@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "893547678734",
+    "firebase_url": "https://my-financial-strength.firebaseio.com",
+    "project_id": "my-financial-strength",
+    "storage_bucket": "my-financial-strength.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893547678734:android:a630e923f7f2048a84405f",
+        "android_client_info": {
+          "package_name": "com.financial.strength"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893547678734-r9o1q6b5th7gm0qabq2idndijhunslah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhQziOfDv1dG0ehn9ETgwOvgeIV564vLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893547678734-r9o1q6b5th7gm0qabq2idndijhunslah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
