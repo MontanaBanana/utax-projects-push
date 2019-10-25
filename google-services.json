@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "373454568660",
+    "firebase_url": "https://silver-state-tax-and-multiserv.firebaseio.com",
+    "project_id": "silver-state-tax-and-multiserv",
+    "storage_bucket": "silver-state-tax-and-multiserv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373454568660:android:97323d6f50d3f943",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.silver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373454568660-87pssr378dcpulgjgdvv96075rs8a2np.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9qAC67Rlyl8nXTeesRr8377KfgdGapBg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
