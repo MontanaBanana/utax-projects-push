@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "657217316047",
+    "firebase_url": "https://cooper-tax-services.firebaseio.com",
+    "project_id": "cooper-tax-services",
+    "storage_bucket": "cooper-tax-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657217316047:android:b1b91eeccd22c4585103ba",
+        "android_client_info": {
+          "package_name": "com.cooper.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657217316047-g9o7p6q6otk0a3qe1i0fo0vsfeoeoh97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4XIZ4aJTRPJMvPtCEfIqWtcaplDRaGT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657217316047-g9o7p6q6otk0a3qe1i0fo0vsfeoeoh97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
