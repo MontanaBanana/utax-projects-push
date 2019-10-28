@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "248670823916",
+    "firebase_url": "https://mk-tax-pro.firebaseio.com",
+    "project_id": "mk-tax-pro",
+    "storage_bucket": "mk-tax-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248670823916:android:f4a5f334b30d5fe8",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.mk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248670823916-iev8n8qs4apdlsoogmocl0bk19ts4akh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVcTuBOrlZzbBzXC4BUa7Xw2_6hWwLUxE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
