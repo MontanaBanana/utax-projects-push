@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "885864404734",
+    "firebase_url": "https://unique-marketing-and-financial.firebaseio.com",
+    "project_id": "unique-marketing-and-financial",
+    "storage_bucket": "unique-marketing-and-financial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885864404734:android:e0f5367376e0e3198377af",
+        "android_client_info": {
+          "package_name": "com.unique.marketing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885864404734-au2hcmt8mhk3afh5vtuumpbp8ijjl9eb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfP7gfWK6611LWvpoTU_tPve9ilASI264"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885864404734-au2hcmt8mhk3afh5vtuumpbp8ijjl9eb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
