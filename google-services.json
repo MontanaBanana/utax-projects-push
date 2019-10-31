@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "28722316931",
+    "firebase_url": "https://apple-valley-tax.firebaseio.com",
+    "project_id": "apple-valley-tax",
+    "storage_bucket": "apple-valley-tax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28722316931:android:f961c18b6973bddb",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.applevalley"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28722316931-i7eampsor7qvfn2h5646jmu97ea2v9ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHkUlT3eqVGTbdZT3mGcGR7F4vMiRR0jI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
