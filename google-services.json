@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "832151635158",
+    "firebase_url": "https://tax-rats-atl.firebaseio.com",
+    "project_id": "tax-rats-atl",
+    "storage_bucket": "tax-rats-atl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832151635158:android:4ad2acc2a802bd96",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.taxratsatl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832151635158-97lir5773jcvf02gjt91oj5gjo25gq7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy9SPlxQgUzeV7Zq2xxTxCpj6AWULTd2w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
