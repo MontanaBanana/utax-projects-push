@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "923067699410",
+    "firebase_url": "https://gl-tax-services.firebaseio.com",
+    "project_id": "gl-tax-services",
+    "storage_bucket": "gl-tax-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923067699410:android:328b2f1f6952405b21dd0b",
+        "android_client_info": {
+          "package_name": "com.gl.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923067699410-51977i18im40f0vjljt86o9s9dk9dffd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABORGA2PV21ji-82-ivOBKPsygo7RT2hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923067699410-51977i18im40f0vjljt86o9s9dk9dffd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
