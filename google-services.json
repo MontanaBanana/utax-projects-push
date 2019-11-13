@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "308357190286",
+    "firebase_url": "https://jazzy-imports-tax-solutions.firebaseio.com",
+    "project_id": "jazzy-imports-tax-solutions",
+    "storage_bucket": "jazzy-imports-tax-solutions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308357190286:android:c006ed5e09e8aee715afdf",
+        "android_client_info": {
+          "package_name": "com.jazzy.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308357190286-pfd33hl5kbjtmlglq1b9v71rv4s4t8j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMnmnH5BBs2Oz9charyutpyeXCKMide9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308357190286-pfd33hl5kbjtmlglq1b9v71rv4s4t8j6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

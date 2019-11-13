@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>308357190286-5pbiptug4rl7n1tuegqpm74q9to1748q.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.308357190286-5pbiptug4rl7n1tuegqpm74q9to1748q</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAFliNUh3u0s8ZBIszNx5AcgM1-6MWITIU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>308357190286</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.jazzy.tax</string>
+	<key>PROJECT_ID</key>
+	<string>jazzy-imports-tax-solutions</string>
+	<key>STORAGE_BUCKET</key>
+	<string>jazzy-imports-tax-solutions.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:308357190286:ios:83fc543ab704293415afdf</string>
+	<key>DATABASE_URL</key>
+	<string>https://jazzy-imports-tax-solutions.firebaseio.com</string>
+</dict>
+</plist>
