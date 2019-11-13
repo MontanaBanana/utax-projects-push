@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "49970163739",
+    "firebase_url": "https://triangle-tax-group.firebaseio.com",
+    "project_id": "triangle-tax-group",
+    "storage_bucket": "triangle-tax-group.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49970163739:android:cc5b68bcc9c30b2e",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.triangletaxgroup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49970163739-lricja52knp2pi5i9l3v7sd36uebvvkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_-h86-w1ef-_cmdxmOOFumr5f2dsdRfk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
