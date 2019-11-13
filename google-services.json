@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "940524015780",
+    "firebase_url": "https://royalty-tax-software.firebaseio.com",
+    "project_id": "royalty-tax-software",
+    "storage_bucket": "royalty-tax-software.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940524015780:android:49f120e482c8bbd1",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.royaltytaxsoftware"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940524015780-rl8ht8g27jp01ldvvihmbnd27ubd0608.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTYpTQX6jdtanS0ZPab2Md2sWDzIY96C8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
