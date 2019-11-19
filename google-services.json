@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "480009019672",
+    "firebase_url": "https://the-one-resource.firebaseio.com",
+    "project_id": "the-one-resource",
+    "storage_bucket": "the-one-resource.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480009019672:android:66da8ca50b16b931",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.theoneresource"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480009019672-leno25v3q3qv53t9mricu3m1j5fdjb0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsY0OG33KBDuK80lUiRe7rZoVqcOpXX2s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
