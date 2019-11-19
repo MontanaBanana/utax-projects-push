@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "899555044881",
+    "firebase_url": "https://voyager-tax-service.firebaseio.com",
+    "project_id": "voyager-tax-service",
+    "storage_bucket": "voyager-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899555044881:android:da97028e07c5797096cbb0",
+        "android_client_info": {
+          "package_name": "com.voyager.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899555044881-neuqlmsdgds9bmp0e1coej89fvn5h3hv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbZWaj3mvZWrwkLf7W13Dr8pDoZ3LFKgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899555044881-neuqlmsdgds9bmp0e1coej89fvn5h3hv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
