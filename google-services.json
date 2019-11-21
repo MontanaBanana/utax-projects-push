@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1034648589705",
+    "firebase_url": "https://walker-tax-llc.firebaseio.com",
+    "project_id": "walker-tax-llc",
+    "storage_bucket": "walker-tax-llc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034648589705:android:5f7df23347f949512f7d58",
+        "android_client_info": {
+          "package_name": "com.walker.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034648589705-jcpnd8gl1d43u9sv5n4k33lmhufs96p8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqM0jkcpKyN6SpQ4r0vBDV6uv_1tXOPgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034648589705-jcpnd8gl1d43u9sv5n4k33lmhufs96p8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
