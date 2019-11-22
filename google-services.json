@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1092442940294",
+    "firebase_url": "https://global-mobile-tax-service.firebaseio.com",
+    "project_id": "global-mobile-tax-service",
+    "storage_bucket": "global-mobile-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092442940294:android:2ff56e628879cf5a664207",
+        "android_client_info": {
+          "package_name": "com.mobile.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092442940294-fllq9bpsi8v2alte7h0nnmksj22hrvu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNJEnK2-ab9R91-7wazk1gQeS75IMvZ-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092442940294-fllq9bpsi8v2alte7h0nnmksj22hrvu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
