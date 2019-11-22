@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "223891163332",
+    "firebase_url": "https://volcy-financial-services.firebaseio.com",
+    "project_id": "volcy-financial-services",
+    "storage_bucket": "volcy-financial-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223891163332:android:56f2c55be17984da082191",
+        "android_client_info": {
+          "package_name": "com.volcy.financial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223891163332-hcveqadji1s15u8d5h47lbd9bd7u2nt5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvpiIGG2o6MHARiPbsGWnXmhUGnDXeb8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223891163332-hcveqadji1s15u8d5h47lbd9bd7u2nt5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
