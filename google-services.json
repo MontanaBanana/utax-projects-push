@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "35852640892",
+    "firebase_url": "https://ramirez-tax-and-bookkeeping.firebaseio.com",
+    "project_id": "ramirez-tax-and-bookkeeping",
+    "storage_bucket": "ramirez-tax-and-bookkeeping.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35852640892:android:16e983ea9f0bb28d",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.ramireztaxandbookkeepingservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35852640892-6bpfg7u8k1nu8s0358q4c9vtdakiqad5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw1CFX2zn2S27NcTZqv7etYf_5skf1hU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
