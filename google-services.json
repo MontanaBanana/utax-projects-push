@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "236036008168",
+    "firebase_url": "https://priority-refund-fbfb8.firebaseio.com",
+    "project_id": "priority-refund-fbfb8",
+    "storage_bucket": "priority-refund-fbfb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236036008168:android:f3098df34b583a64",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.priorityrefund"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236036008168-5h7drrq8l9hhg6gsj4v5e57jm53ksmh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDohAjBj0j0sWakO6y8LJyRPjvVKAGiJ-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
