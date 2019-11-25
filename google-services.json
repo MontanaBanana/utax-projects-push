@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1011843953994",
+    "firebase_url": "https://alexandria-tax-soltuions.firebaseio.com",
+    "project_id": "alexandria-tax-soltuions",
+    "storage_bucket": "alexandria-tax-soltuions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011843953994:android:533932fa29be8965",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.alexandriataxsolutions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011843953994-lnsb8lkfi3t7e8g8c9smr1e6kmldd4r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnm7lGWw2AcbEuwedEWxqv2xZFvcYsz6E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
