@@ -14,7 +14,7 @@ import 'rxjs/add/operator/toPromise';
 export class CompanyPage {
 
   constructor(public navCtrl: NavController, public http: Http) {
-	var projects = this.http.get('{hostname}/account/project/company_url/{project.id}');
+	var projects = this.http.get('https://www.taxmobileapp.com/account/project/company_url/178');
 			projects
 				.map(res => res.json())
 				.subscribe(data => {
