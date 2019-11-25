@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "263567096336",
+    "firebase_url": "https://integrity-tax-services-llc.firebaseio.com",
+    "project_id": "integrity-tax-services-llc",
+    "storage_bucket": "integrity-tax-services-llc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263567096336:android:66135e5029d6531c",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.integritytaxservicesllc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263567096336-7r2u0bp4o750g9jalhmj076grciaafj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2zfbp6YKb24WLPxKsSbhfo5U2tSkD8F8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
