@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "836440985339",
+    "firebase_url": "https://pro-tax-services.firebaseio.com",
+    "project_id": "pro-tax-services",
+    "storage_bucket": "pro-tax-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836440985339:android:6764a030ca5f57b9582a5e",
+        "android_client_info": {
+          "package_name": "com.pro.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836440985339-ic2dau5m3eoon5tqmmd96tr8a33tdkih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvCjaOjFf_0h3P1DGfGXrcA6SqJg8qNQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836440985339-ic2dau5m3eoon5tqmmd96tr8a33tdkih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
