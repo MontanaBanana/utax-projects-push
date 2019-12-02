@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "634181087220",
+    "firebase_url": "https://wycotax-f0e06.firebaseio.com",
+    "project_id": "wycotax-f0e06",
+    "storage_bucket": "wycotax-f0e06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634181087220:android:411b388ca27a1204",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.wycoco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634181087220-eqpa2vhd6it6221d9mjgpecmpmaohdqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH466_0u28LniwgaEHZKWMAF5uJGAaqSU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
