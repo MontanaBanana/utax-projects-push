@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "813776801786",
+    "firebase_url": "https://tba-tax-group.firebaseio.com",
+    "project_id": "tba-tax-group",
+    "storage_bucket": "tba-tax-group.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813776801786:android:12218ed1eed1aeb8",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.tba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813776801786-sj4bmjfiv9a7aqd8tk7787mjceoc3ug1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG-4I5cy8hQ9-eb9rj6xgAXmz3b9aBRL4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
