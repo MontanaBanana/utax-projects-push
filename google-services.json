@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "951991458044",
+    "firebase_url": "https://hands-of-time-tax-r33.firebaseio.com",
+    "project_id": "hands-of-time-tax-r33",
+    "storage_bucket": "hands-of-time-tax-r33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951991458044:android:7b0e283890cc578a",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.handsof"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951991458044-obeuqger9i3bplud1dih3t1mvj2aenr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxjSQ6ebnB_fiVIFn_-0vgseN43wic9OI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
