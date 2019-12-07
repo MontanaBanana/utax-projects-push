@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "331009165464",
+    "firebase_url": "https://utax-software.firebaseio.com",
+    "project_id": "utax-software",
+    "storage_bucket": "utax-software.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331009165464:android:be6c4e9e8fb22b66",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.utaxsoftware"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331009165464-9pfmt692rl90b5stt0ie0vvm1k0mqqbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoVrkzt5enX6kMF_ROYyAp4lwCiB2fU-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331009165464-9pfmt692rl90b5stt0ie0vvm1k0mqqbb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "331009165464-c63t3qapa4ct9njmle12fafmkippp9i6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.metikmarketing.utaxsoftware",
+                "app_store_id": "1325999493"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
