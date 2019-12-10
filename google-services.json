@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "449532519252",
+    "firebase_url": "https://gandy-s-accounting-tax-firm.firebaseio.com",
+    "project_id": "gandy-s-accounting-tax-firm",
+    "storage_bucket": "gandy-s-accounting-tax-firm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449532519252:android:3cf21ba547d657c93a1ec1",
+        "android_client_info": {
+          "package_name": "com.gandy.accounting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449532519252-ccv9sta7hpqdc4ao5ourlvpv3hmksp9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3_dj38aHlgT0hhSLdK2D810NQjP6q4sI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449532519252-ccv9sta7hpqdc4ao5ourlvpv3hmksp9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
