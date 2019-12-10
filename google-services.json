@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "998657995084",
+    "firebase_url": "https://maggie-s-travel-tax-services.firebaseio.com",
+    "project_id": "maggie-s-travel-tax-services",
+    "storage_bucket": "maggie-s-travel-tax-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998657995084:android:1e481fbc8a66429dcb9fe9",
+        "android_client_info": {
+          "package_name": "com.maggies.travel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998657995084-83kjb1glq920v89mqfsoq78frbfgtrva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpNFiCfG2VLFNcP7OXu313WapdEqrE42c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998657995084-83kjb1glq920v89mqfsoq78frbfgtrva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
