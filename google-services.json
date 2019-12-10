@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "978281438026",
+    "firebase_url": "https://gama-insurance-services.firebaseio.com",
+    "project_id": "gama-insurance-services",
+    "storage_bucket": "gama-insurance-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978281438026:android:d719c8c43dab7904357fb3",
+        "android_client_info": {
+          "package_name": "com.gama.insurance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978281438026-6aq3fbj3rir1inav0bhd4d2fj81kf8d7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChacYsEe2WNW8958jGgrHrSijJYf2bgg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978281438026-6aq3fbj3rir1inav0bhd4d2fj81kf8d7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
