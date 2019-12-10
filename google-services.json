@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "5856689303",
+    "firebase_url": "https://maximum-refund.firebaseio.com",
+    "project_id": "maximum-refund",
+    "storage_bucket": "maximum-refund.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5856689303:android:4cef0aa6a550fbaaff7dd2",
+        "android_client_info": {
+          "package_name": "com.maximum.refund"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5856689303-cgmo4fqmhr21dt5g8ljlu2hgrv8goo4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlMoSj_ynHB6DJoZDn5SV6jXVByqqaiAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5856689303-cgmo4fqmhr21dt5g8ljlu2hgrv8goo4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
