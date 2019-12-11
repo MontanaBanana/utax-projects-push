@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "957655932279",
+    "firebase_url": "https://vertical-accounting-and-tax.firebaseio.com",
+    "project_id": "vertical-accounting-and-tax",
+    "storage_bucket": "vertical-accounting-and-tax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957655932279:android:addcd73d600665ee",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.verticalaccountingampamptax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957655932279-8asg6jlntq9g8q82eqmrnfk8e9v2ejnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhl7iC-a-xdxH-4y0Biwv4YKJSpg2KEuU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
