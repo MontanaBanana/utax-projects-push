@@ -8,12 +8,12 @@ import 'rxjs/add/operator/toPromise';
 
 @Component({
   selector: 'page-staff',
-  templateUrl: '{hostname}/apptemplate/staff/{project.id}'
+  templateUrl: 'https://taxmobileapp.com/apptemplate/staff/320'
 })
 export class StaffPage {
   staff_items = [];
   constructor(public navCtrl: NavController, public http: Http) {
-		var staff = this.http.get('{hostname}/account/project/appstaff/{project.id}');
+		var staff = this.http.get('https://taxmobileapp.com/account/project/appstaff/320');
 		staff
 			.map(res => res.json())
 			.subscribe(data => {

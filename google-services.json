@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "351715346127",
+    "firebase_url": "https://tax-clinic-llc.firebaseio.com",
+    "project_id": "tax-clinic-llc",
+    "storage_bucket": "tax-clinic-llc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351715346127:android:0fb2c11802ec051929d9ba",
+        "android_client_info": {
+          "package_name": "com.tax.clinic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351715346127-go0c9b17892fov3f08a6h94lksl292n5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWdCvNWPe804c7EMWn6e8gr-fgiLuYlo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351715346127-go0c9b17892fov3f08a6h94lksl292n5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
