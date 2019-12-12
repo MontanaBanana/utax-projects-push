@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "196031893428",
+    "firebase_url": "https://ato-hempstead.firebaseio.com",
+    "project_id": "ato-hempstead",
+    "storage_bucket": "ato-hempstead.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196031893428:android:6bd42ba99629650a",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.atohempstead"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196031893428-t5fnltj15od5v0v3f821vq3ic7k4b0kk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3oURQ98tx989XzHvSyzhl-r45HZ_rdeg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
