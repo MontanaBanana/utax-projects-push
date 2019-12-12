@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1012204255288",
+    "firebase_url": "https://superior-tax-prep.firebaseio.com",
+    "project_id": "superior-tax-prep",
+    "storage_bucket": "superior-tax-prep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012204255288:android:be8768605991c08e",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.superiortaxprepinc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012204255288-nbkm8meu6qtlivo7vo0km2pk8di75h4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqjP6x-nx0NydEWZ5t1s_Kn0VQgo_-WDo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
