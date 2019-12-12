@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "139284233029",
+    "firebase_url": "https://t-martin-tax-service.firebaseio.com",
+    "project_id": "t-martin-tax-service",
+    "storage_bucket": "t-martin-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139284233029:android:42c9a4eca90032d2c11c2c",
+        "android_client_info": {
+          "package_name": "com.martin.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139284233029-usp2sfmqjrjbkd0ntlrhp77871jo4tf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH30wJ7zfxdRGd01fIiVEghcYYYACyMwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139284233029-usp2sfmqjrjbkd0ntlrhp77871jo4tf4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "139284233029-6hmks6ku2ces8jcscpek5a5d3rtvgvjf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.martin.tax",
+                "app_store_id": "1491390444"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
