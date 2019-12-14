@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "520334971171",
+    "firebase_url": "https://tax-solutions-robyai.firebaseio.com",
+    "project_id": "tax-solutions-robyai",
+    "storage_bucket": "tax-solutions-robyai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520334971171:android:5813453fa9d47138",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.taxsolutions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520334971171-pgk17ndp7vn9v9cllt5i2omve9u64fcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBws-y4UMWR9wmIrfGJ9Z_1Lsju7rJSxaI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
