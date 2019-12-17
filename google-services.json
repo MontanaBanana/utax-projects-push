@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "253722550974",
+    "firebase_url": "https://dream-team-consulting.firebaseio.com",
+    "project_id": "dream-team-consulting",
+    "storage_bucket": "dream-team-consulting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253722550974:android:865f9400698e2fdb",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.dreamteam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253722550974-f2d386d87u9elmkmqnov6co5o7seh4s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOlDaN4mjlFW6nUggTkFlfEH5nKcVNixI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
