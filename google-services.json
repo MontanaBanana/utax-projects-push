@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "721368593064",
+    "firebase_url": "https://williams-tax-service.firebaseio.com",
+    "project_id": "williams-tax-service",
+    "storage_bucket": "williams-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721368593064:android:8d272334c37a895b",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.williams"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721368593064-s25vnacs28arutjihhvfiainkh49vsf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuuQ2AhuGlA7CYIt255-iPUHdjNqCAw1o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
