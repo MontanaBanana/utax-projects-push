@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "597581483884",
+    "firebase_url": "https://cdl-tax-service.firebaseio.com",
+    "project_id": "cdl-tax-service",
+    "storage_bucket": "cdl-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597581483884:android:2b170e601e6ab3e5",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.cdltax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597581483884-m3rl8s4hn938ochvj2ggemmfm675lf3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCziTpklrnlKgb4dkOGMyPHZIofZScbzoI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
