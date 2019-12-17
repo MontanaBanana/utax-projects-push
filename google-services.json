@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "205972377403",
+    "firebase_url": "https://gary-madden-business-solutions.firebaseio.com",
+    "project_id": "gary-madden-business-solutions",
+    "storage_bucket": "gary-madden-business-solutions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205972377403:android:6cf0590549ed3c3d",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.garymaddenbusinesssolutions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205972377403-l2sf1u69jpa8757oju2cv0bbp1d5f8s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6WPaZcJuwHQvf_if9txOsAw-VVM8ZfvU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
