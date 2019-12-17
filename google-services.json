@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "396045253854",
+    "firebase_url": "https://his-and-hers-tax-service.firebaseio.com",
+    "project_id": "his-and-hers-tax-service",
+    "storage_bucket": "his-and-hers-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396045253854:android:5e0cfaec81798a3e",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.hishers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396045253854-2bn4j310eer6v32n551sr8qm1qflg46e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEg_ECGaJJhoVM00gXyzjO8KbWT3HBUGk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
