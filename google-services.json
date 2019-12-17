@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "861680131105",
+    "firebase_url": "https://unrivaled-tax-associates.firebaseio.com",
+    "project_id": "unrivaled-tax-associates",
+    "storage_bucket": "unrivaled-tax-associates.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861680131105:android:0c4da622f2c2f12f",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.unrivaled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861680131105-dhfg0tvfp9md8he7gl6rdmfbjgbl64t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXJ6-SCQD_i5iDuaHsekLwAtdB2D9mCKA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
