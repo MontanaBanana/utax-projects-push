@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1027174198470",
+    "firebase_url": "https://norms-elite-tax-service.firebaseio.com",
+    "project_id": "norms-elite-tax-service",
+    "storage_bucket": "norms-elite-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027174198470:android:ec687b3b0908935e",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.norm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027174198470-4jma1hqdml4s17155m7i9pj5fvvukk0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcmo1MJfI5yD--3wdw5oV5f90YZ97DAe4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
