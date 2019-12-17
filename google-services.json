@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "833134287892",
+    "firebase_url": "https://tax-u-right-llc.firebaseio.com",
+    "project_id": "tax-u-right-llc",
+    "storage_bucket": "tax-u-right-llc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833134287892:android:ee192720ee49c09f",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.taxuright"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833134287892-aebn3rb8kbqaa4f43uu3or61icvf3c2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFEC5ipm-JLZ9d1pbzWWuzKkGvLhVXreM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
