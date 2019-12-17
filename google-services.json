@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "190497328571",
+    "firebase_url": "https://jp-and-a-tax-services.firebaseio.com",
+    "project_id": "jp-and-a-tax-services",
+    "storage_bucket": "jp-and-a-tax-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190497328571:android:684c9eb048844f0d",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.jpatax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190497328571-9f1lgm2m2fbkk53a7bsh2uovih5lh916.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-3CcdIT17Zbg-FBChVRmP39kKz_ZB7K8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
