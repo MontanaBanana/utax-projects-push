@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "260578303666",
+    "firebase_url": "https://indy-income-tax-service.firebaseio.com",
+    "project_id": "indy-income-tax-service",
+    "storage_bucket": "indy-income-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260578303666:android:aefc304e09df1a3c",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.indy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260578303666-p2u2l4taim0n1gbg0hhdpiq455a9a0uk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqEIVpDtoteZXvm9Pio4wZtSOlvemFLnM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
