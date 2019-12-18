@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "446387713653",
+    "firebase_url": "https://sm-sweat-financial.firebaseio.com",
+    "project_id": "sm-sweat-financial",
+    "storage_bucket": "sm-sweat-financial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446387713653:android:1f05f59ee07b27ca",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.smsweat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446387713653-1c9urtoeecjincig9neeo78plpdnff80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUl_4RPCyyUHBoIDoioDM_55ElzTpWgI4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

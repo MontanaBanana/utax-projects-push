@@ -15,7 +15,7 @@ export class FacebookPage {
 
   constructor(public navCtrl: NavController, public http: Http) {
 	  
-	var projects = this.http.get('{hostname}/account/project/facebook_url/{project.id}');
+	var projects = this.http.get('https://www.taxmobileapp.com/account/project/facebook_url/236');
 			projects
 				.map(res => res.json())
 				.subscribe(data => {
