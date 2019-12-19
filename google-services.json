@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "622947921806",
+    "firebase_url": "https://atlanta-tax-pro.firebaseio.com",
+    "project_id": "atlanta-tax-pro",
+    "storage_bucket": "atlanta-tax-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622947921806:android:c6180d3c05eabdd6",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.atlanta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622947921806-ebss5nmme539o9qngp8511m6glqls044.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPl1T3_CPF8rZfsiAdd5NXD1GcWIc5els"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
