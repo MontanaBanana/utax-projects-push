@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "948276604241",
+    "firebase_url": "https://speedy-tax-service.firebaseio.com",
+    "project_id": "speedy-tax-service",
+    "storage_bucket": "speedy-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948276604241:android:f1cacb2c569cf5f8",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.speedytax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948276604241-0s3o2fvcmfm4rrbh2obs4opo7ke314c3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-dakQ6sQJ57eX_qq_y3jTk97B_Elk8IM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
