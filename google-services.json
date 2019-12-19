@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "457040035016",
+    "firebase_url": "https://kb-tax-cb48c.firebaseio.com",
+    "project_id": "kb-tax-cb48c",
+    "storage_bucket": "kb-tax-cb48c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457040035016:android:92bf22ee791e40528df9fd",
+        "android_client_info": {
+          "package_name": "com.kb.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457040035016-1cfk9d3oqu9vnqm508u8brkd8dgsrg8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATRV5xL2j0OMN3ZVAg445_Mr6s_AtcyY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457040035016-1cfk9d3oqu9vnqm508u8brkd8dgsrg8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
