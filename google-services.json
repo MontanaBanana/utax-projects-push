@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "924730740779",
+    "firebase_url": "https://roadside-tax-service.firebaseio.com",
+    "project_id": "roadside-tax-service",
+    "storage_bucket": "roadside-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924730740779:android:cfd3793f06ca1534",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.roadside"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924730740779-29htug5e3gg2bg4e8agngp9l53bcd1m8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPI8_Ah-YU6zlZhwX5zJ7Hi6jvT0RK4gw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
