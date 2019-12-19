@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "539461053191",
+    "firebase_url": "https://lb-luxury-tax-services.firebaseio.com",
+    "project_id": "lb-luxury-tax-services",
+    "storage_bucket": "lb-luxury-tax-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539461053191:android:0af7e55ab4ba5d57",
+        "android_client_info": {
+          "package_name": "com.luxury.services"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539461053191-r6q91s16u1u1goj60ttegi4spusvcip5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFM8z27FMmwor9k_q6gt3jRLTRTf06CUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539461053191-r6q91s16u1u1goj60ttegi4spusvcip5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "539461053191-j2jf0u2grl0g1af3tbvjjk535qbpr6ug.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.luxury.services",
+                "app_store_id": "1469431830"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
