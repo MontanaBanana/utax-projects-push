@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>457040035016-0h0gdqndlr5nej60hi85ukrtnimfkf6u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.457040035016-0h0gdqndlr5nej60hi85ukrtnimfkf6u</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCo93hQvGALqrV4IN2t_6HfwE2AA_67yr8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>457040035016</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kb.tax</string>
+	<key>PROJECT_ID</key>
+	<string>kb-tax-cb48c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kb-tax-cb48c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:457040035016:ios:3547f1028a971a468df9fd</string>
+	<key>DATABASE_URL</key>
+	<string>https://kb-tax-cb48c.firebaseio.com</string>
+</dict>
+</plist>
