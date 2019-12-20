@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "481025121697",
+    "firebase_url": "https://us-taxes-llc.firebaseio.com",
+    "project_id": "us-taxes-llc",
+    "storage_bucket": "us-taxes-llc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481025121697:android:6c3401ad5cd018d9",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.ustaxesllc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481025121697-7ue200ou6rlaqieelib9j56en6ubskop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJWWDUMZid6EDwrWNyqK0hiMzbJr9qZWE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
