@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1004870854731",
+    "firebase_url": "https://better-days-tax-service.firebaseio.com",
+    "project_id": "better-days-tax-service",
+    "storage_bucket": "better-days-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004870854731:android:afcda24a6ca878f0",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.betterdays"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004870854731-rq2lulm3c4t039due3gpotl313c4pb5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmR8zSMACf-mEkJdVygHhDSLPTACzS63k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

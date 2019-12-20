@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>1004870854731-rdn2u7lo3o0uhiffnqtlhik3ir3d9f13.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1004870854731-rdn2u7lo3o0uhiffnqtlhik3ir3d9f13</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDWvd5jmqFiuVVMZ7hmqug0nPoI4WUs-Nw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1004870854731</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.metikmarketing.betterdays</string>
+	<key>PROJECT_ID</key>
+	<string>better-days-tax-service</string>
+	<key>STORAGE_BUCKET</key>
+	<string>better-days-tax-service.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1004870854731:ios:afcda24a6ca878f0</string>
+	<key>DATABASE_URL</key>
+	<string>https://better-days-tax-service.firebaseio.com</string>
+</dict>
+</plist>
