@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "307203968921",
+    "firebase_url": "https://brumfield-tax-services.firebaseio.com",
+    "project_id": "brumfield-tax-services",
+    "storage_bucket": "brumfield-tax-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307203968921:android:0bdffc764db2d569",
+        "android_client_info": {
+          "package_name": "com.brumfieldtax.services"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307203968921-848q6889b0uns1u1mcf7v67tna4hrfjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdkbLBQQncsqGdsmm7x4zNqpb9ZY77ZnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307203968921-848q6889b0uns1u1mcf7v67tna4hrfjh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "307203968921-h7gqtb3ul287dtc7ckrk76rtlt785n5m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.brumfieldtax.services"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
