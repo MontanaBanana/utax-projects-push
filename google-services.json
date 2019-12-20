@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "998394690288",
+    "firebase_url": "https://sunshine-tax-service.firebaseio.com",
+    "project_id": "sunshine-tax-service",
+    "storage_bucket": "sunshine-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998394690288:android:e3d199d3328e1b67",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.sunshinetaxservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998394690288-ie9j4hckat0ppve99cd9vung6ub3b6nv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1GuOVyiuEDi6rvxpMr_OjOvG39kvbm7g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
