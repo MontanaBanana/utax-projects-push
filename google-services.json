@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "168161421991",
+    "firebase_url": "https://reddbird-tax-services.firebaseio.com",
+    "project_id": "reddbird-tax-services",
+    "storage_bucket": "reddbird-tax-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168161421991:android:9d5b476814c71388",
+        "android_client_info": {
+          "package_name": "com.reddbird.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168161421991-5k2f6rnbg64jncfo8m3tg0s6qoqlabum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHojBnjiabSbbql1mZsUB44vl4Z6yY8NI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
