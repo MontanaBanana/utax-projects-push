@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "846857735591",
+    "firebase_url": "https://ayb-solutions-llc.firebaseio.com",
+    "project_id": "ayb-solutions-llc",
+    "storage_bucket": "ayb-solutions-llc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846857735591:android:d6ffdbe51617c91b",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.aybsolutionsllc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846857735591-ei42jl52up0mkhgdib6j29a5r4um5qk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDptO7v3QCFqX8AvwJpwwQ8aXiwraQu8qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
