@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "721739784161",
+    "firebase_url": "https://maxtax-services.firebaseio.com",
+    "project_id": "maxtax-services",
+    "storage_bucket": "maxtax-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721739784161:android:4fdc6e13229a2886",
+        "android_client_info": {
+          "package_name": "com.maxtax.services"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721739784161-cps6j9subp9g47euupdhhdsi069na8e4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBttcr9kaRzMReLFC9nI2ot-jImeq3H5dk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
