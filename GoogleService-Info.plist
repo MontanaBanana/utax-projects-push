@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>25597650708-j9c46lldbed9gb7d1aabqenbn5ogjga6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.25597650708-j9c46lldbed9gb7d1aabqenbn5ogjga6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA5eHMrUL0d9Rt8gCJtzuxqszTG60fic8I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>25597650708</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.digitalaccounting.services</string>
+	<key>PROJECT_ID</key>
+	<string>digital-accounting-and-tax-svc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>digital-accounting-and-tax-svc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:25597650708:ios:a1041981314b2b3b</string>
+	<key>DATABASE_URL</key>
+	<string>https://digital-accounting-and-tax-svc.firebaseio.com</string>
+</dict>
+</plist>

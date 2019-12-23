@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "25597650708",
+    "firebase_url": "https://digital-accounting-and-tax-svc.firebaseio.com",
+    "project_id": "digital-accounting-and-tax-svc",
+    "storage_bucket": "digital-accounting-and-tax-svc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25597650708:android:a1041981314b2b3b",
+        "android_client_info": {
+          "package_name": "com.digitalaccounting.services"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25597650708-meft0s88anq8r6i4a7td2hd8f248taih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj6FtkW8CZ7GJCZ5MUAVEGrENi83Z2BBI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
