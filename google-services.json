@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "798697327658",
+    "firebase_url": "https://dmj-tax-service.firebaseio.com",
+    "project_id": "dmj-tax-service",
+    "storage_bucket": "dmj-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798697327658:android:6856ff9acdaec7dd",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.dmjtax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798697327658-andgl110atl74910qeeegipi71t3auva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC27DrTOepebtKZIQkWQ79UH4RlM8dX0dg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
