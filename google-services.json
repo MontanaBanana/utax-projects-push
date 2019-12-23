@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1036261850094",
+    "firebase_url": "https://elite-tax-professionals.firebaseio.com",
+    "project_id": "elite-tax-professionals",
+    "storage_bucket": "elite-tax-professionals.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036261850094:android:60f4530dd0d0d341",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.elitetaxprofessionals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036261850094-n2cfbgsb60lt7imd1c2uvq0u8sq2q5qb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvOKWMJFJIDU22AbW6JEi6K8IbqEB9pJ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

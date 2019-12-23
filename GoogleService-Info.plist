@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>1036261850094-20m67mequhaahilrlgqloc1ds3ut08e3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1036261850094-20m67mequhaahilrlgqloc1ds3ut08e3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDs-gMs1wrEskf8WCsutwU0dSpGicOlPfw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1036261850094</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.metikmarketing.elitetaxprofessionals</string>
+	<key>PROJECT_ID</key>
+	<string>elite-tax-professionals</string>
+	<key>STORAGE_BUCKET</key>
+	<string>elite-tax-professionals.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1036261850094:ios:60f4530dd0d0d341</string>
+	<key>DATABASE_URL</key>
+	<string>https://elite-tax-professionals.firebaseio.com</string>
+</dict>
+</plist>
