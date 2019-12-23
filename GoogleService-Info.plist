@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>219559612124-euhlkvs5vqt5a2bv8kpj6u2bh4u82gnf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.219559612124-euhlkvs5vqt5a2bv8kpj6u2bh4u82gnf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBUxBK4jNkD_due56E8I3jro3QJfGrp90Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>219559612124</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.enoch.reliable</string>
+	<key>PROJECT_ID</key>
+	<string>enoch-reliable-tax-services</string>
+	<key>STORAGE_BUCKET</key>
+	<string>enoch-reliable-tax-services.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:219559612124:ios:7f4243d457bd7398</string>
+	<key>DATABASE_URL</key>
+	<string>https://enoch-reliable-tax-services.firebaseio.com</string>
+</dict>
+</plist>

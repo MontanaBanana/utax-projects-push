@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "219559612124",
+    "firebase_url": "https://enoch-reliable-tax-services.firebaseio.com",
+    "project_id": "enoch-reliable-tax-services",
+    "storage_bucket": "enoch-reliable-tax-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219559612124:android:7f4243d457bd7398",
+        "android_client_info": {
+          "package_name": "com.enoch.reliable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219559612124-6avg7pfqglfdv1r4nb7u4664bmin81f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM6k3AR4AO0sHqevOJHCWr0gFvGBqlIAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219559612124-6avg7pfqglfdv1r4nb7u4664bmin81f0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "219559612124-euhlkvs5vqt5a2bv8kpj6u2bh4u82gnf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.enoch.reliable",
+                "app_store_id": "1463609671"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
