@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "136215092429",
+    "firebase_url": "https://el-valle-insurance-and-tax.firebaseio.com",
+    "project_id": "el-valle-insurance-and-tax",
+    "storage_bucket": "el-valle-insurance-and-tax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136215092429:android:6e48a796a156aca8",
+        "android_client_info": {
+          "package_name": "com.elvalleinsurance.taxservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136215092429-m9fpdm1ia9li98o0qav0n403vr8lnmkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5-YN0fsV-UxLBpKtQsc90-rgAKKTJEDI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
