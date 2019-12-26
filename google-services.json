@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "86029581257",
+    "firebase_url": "https://gotax-tax-service.firebaseio.com",
+    "project_id": "gotax-tax-service",
+    "storage_bucket": "gotax-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86029581257:android:757434dda4b3940d",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.gotaxtaxservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86029581257-rg268eb4fmj9v7phqffnhgiuuk7jruoa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsSdJC31KFA-RaFHM_3NrqMRplB4z9-hc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
