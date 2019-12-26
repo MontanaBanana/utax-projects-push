@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "826441148621",
+    "firebase_url": "https://hands-on-tax-service-r33.firebaseio.com",
+    "project_id": "hands-on-tax-service-r33",
+    "storage_bucket": "hands-on-tax-service-r33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826441148621:android:cbfd39d3239b9fab",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.handson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826441148621-d7tkav1cqfv8d3233030el4c3rq3fj4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA33HHURqQbFYtVujkJIjLm4ddNskUbCkI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
