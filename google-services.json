@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "684031275469",
+    "firebase_url": "https://gaynair-financial-services.firebaseio.com",
+    "project_id": "gaynair-financial-services",
+    "storage_bucket": "gaynair-financial-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684031275469:android:04a6a8941483e5ab",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.gaynair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684031275469-8o0lbfb1soublth7op7r4evk6e00etml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR9uuQ_x91ezhNnjADyN5N8OpXxRNxp7M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
