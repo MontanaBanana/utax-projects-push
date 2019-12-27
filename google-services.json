@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "184050695252",
+    "firebase_url": "https://olympic-star-financial.firebaseio.com",
+    "project_id": "olympic-star-financial",
+    "storage_bucket": "olympic-star-financial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184050695252:android:3fab6fe1317e3321",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.olympic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184050695252-k473t99c6u3tb7fbh4ul101ovjcscfc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpFarb70pgXHgZjpdl9ycylhCTWaZLhUM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
