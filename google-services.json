@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "108959165197",
+    "firebase_url": "https://smiley-tax-service.firebaseio.com",
+    "project_id": "smiley-tax-service",
+    "storage_bucket": "smiley-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108959165197:android:7f47ecb5e1f81d8b",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.smileytaxservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108959165197-b4irgeoc05i5ad2cgkc281ihrjlnuvgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl-giugWQSZ7dZqfd-3UdX24HoxeKsAfE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
