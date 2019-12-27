@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "316648335843",
+    "firebase_url": "https://taxology-llc.firebaseio.com",
+    "project_id": "taxology-llc",
+    "storage_bucket": "taxology-llc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316648335843:android:22647b5d85319cae",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.taxologyllc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316648335843-f7s02kei8c49b5slf1s93kcivsq8lt6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHfGIuxTxTpV4cBqLCiJxtSO-slSYcZNw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
