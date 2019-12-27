@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "264786829934",
+    "firebase_url": "https://el-rey-express.firebaseio.com",
+    "project_id": "el-rey-express",
+    "storage_bucket": "el-rey-express.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264786829934:android:229acf7cc0e6921a",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.elrey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264786829934-072lrso119maajk5jtmv2guhvc8m8r2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQt8Xzep5_xj-VsO9XzY34gHlAVN475bw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
