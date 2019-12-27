@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1045145730283",
+    "firebase_url": "https://deyada-enterprise-llc.firebaseio.com",
+    "project_id": "deyada-enterprise-llc",
+    "storage_bucket": "deyada-enterprise-llc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045145730283:android:006d6ea3955def6b",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.deyadaenterprisellc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045145730283-daju2bp1iucgl42nau6jmlru8qgdl3t6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn96X595RI_uWkXrXb68f_9e_-yBPR8Ds"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

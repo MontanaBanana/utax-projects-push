@@ -3,6 +3,7 @@ import { IonicPage, NavController, NavParams, LoadingController, ToastController
 
 import { Http, Response, BaseRequestOptions, RequestOptions, HttpModule, JsonpModule, Headers } from '@angular/http';
 import { Camera, CameraOptions } from '@ionic-native/camera';
+import { Platform } from 'ionic-angular';
 import { Observable } from 'rxjs/Observable';
 import 'rxjs/add/operator/map';
 import 'rxjs/add/operator/timeout';
@@ -12,43 +13,75 @@ import { HomePage } from '../home/home';
 
 @Component({
   selector: 'page-send-additional-forms',
-  templateUrl: '{hostname}/apptemplate/sendAdditionalForms/{project.id}'
+  templateUrl: 'https://taxmobileapp.com/apptemplate/sendAdditionalForms/189'
 })
 
 
 
 export class SendAdditionalFormsPage {
-	public imageURI: any;
-  public img_data: any;
-  public ssn: string = "";
+  private imageURI: string;
+  private image1URI: string = "";
+  private image2URI: string = "";
+  private image3URI: string = "";
+  private image4URI: string = "";
+  private image5URI: string = "";
+  private image6URI: string = "";
+  private image7URI: string = "";
+  private image8URI: string = "";
+  private image9URI: string = "";
+  private image_data: any;
+  private ssn: string = "";
   //sender: Observable<any>;
 
   constructor(public navCtrl:   NavController, 
-  						public navParams: NavParams,
-              public http: Http, 
-  						private camera:   Camera, 
-  						public loadingCtrl: LoadingController, 
-  						public toastCtrl:   ToastController) 
+  				public navParams: NavParams,
+              			private http: Http, 
+  				private camera: Camera, 
+  				private loadingCtrl: LoadingController, 
+				public plt: Platform, 
+  				private toastCtrl:   ToastController) 
   {
 
   }
 
-  getAdditionalImage()
+  getAdditionalImage() : void
   {
-        const options: CameraOptions = {
-                quality: 100,
-                destinationType: this.camera.DestinationType.FILE_URI,
-                sourceType: this.camera.PictureSourceType.PHOTOLIBRARY
-        }
+                if (this.plt.is('ios')) {
+                        this.camera.getPicture({
+                                sourceType: 1,
+                                targetWidth: 1000,
+                                targetHeight: 1000,
+                                quality: 90,
+                                allowEdit: false,
+                                correctOrientation: false,
+                                saveToPhotoAlbum: false,
+                                destinationType: this.camera.DestinationType.DATA_URL,
+                                encodingType: this.camera.EncodingType.JPEG,
+                                mediaType: this.camera.MediaType.PICTURE
+                        }).then((imageData) => {
+				this.image_data = imageData;
+				this.imageURI = "data:image/jpeg;base64," + imageData;
+                        }, (err) => {
+                                console.log(err);
+                        });
+                }
+                else {
+                        this.camera.getPicture({
+                                destinationType: this.camera.DestinationType.DATA_URL,
+                                sourceType: 1,
+                                quality: 90,
+                                allowEdit: false,
+                        }).then((imageData) => {
+				this.image_data = imageData;
+				this.imageURI = "data:image/jpeg;base64," + imageData;
+                        }, (err) => {
+                                console.log(err);
+                        });
+                }
 
-    //TODO: find how to get filename out of returned object
-        this.camera.getPicture(options).then((imageData) => {
-          this.imageURI = "data:image/jpeg;base64," + imageData;
-          this.img_data = imageData;
-        }, (err) => {
-                console.log(err);
-                this.presentToast(err);
-        });
+
+
+
   }
 
 
@@ -74,13 +107,41 @@ export class SendAdditionalFormsPage {
     const options = new RequestOptions({ headers: headers });
 
     let postData = {
-                    img_data: this.img_data,
+                    img_data: this.image_data,
                     filename: String(Date.now()) + '.jpg',
                     usr_ssn: this.ssn,
-                    project_id: '{project.id}'
+                    project_id: '189'
     };
 
-    this.http.post('{hostname}/account/project/additional_uploads/addFiles', JSON.stringify(postData), options)
+    if (this.image1URI.length == 0) {
+	this.image1URI = this.imageURI;
+    } 
+    else if (this.image2URI.length == 0) {
+	this.image2URI = this.imageURI;
+    } 
+    else if (this.image3URI.length == 0) {
+	this.image3URI = this.imageURI;
+    } 
+    else if (this.image4URI.length == 0) {
+	this.image4URI = this.imageURI;
+    } 
+    else if (this.image5URI.length == 0) {
+	this.image5URI = this.imageURI;
+    } 
+    else if (this.image6URI.length == 0) {
+	this.image6URI = this.imageURI;
+    } 
+    else if (this.image7URI.length == 0) {
+	this.image7URI = this.imageURI;
+    } 
+    else if (this.image8URI.length == 0) {
+	this.image8URI = this.imageURI;
+    } 
+    else if (this.image9URI.length == 0) {
+	this.image9URI = this.imageURI;
+    } 
+
+    this.http.post('https://taxmobileapp.com/account/project/additional_uploads/addFiles', JSON.stringify(postData), options)
                 .map(res => res.json())
                 .subscribe(res => {
                                     console.log(res);
