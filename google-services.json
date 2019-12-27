@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "695347890905",
+    "firebase_url": "https://xpert-tax-and-financial.firebaseio.com",
+    "project_id": "xpert-tax-and-financial",
+    "storage_bucket": "xpert-tax-and-financial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695347890905:android:ed2f9a51ff07b854",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.xpert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695347890905-daad3qd6k3hsjc20es7853sas2f1r902.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAxkwvZI9NC65HphJqT1HtlCNh4BUrJzw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
