@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "777128345715",
+    "firebase_url": "https://tax-treasure-service.firebaseio.com",
+    "project_id": "tax-treasure-service",
+    "storage_bucket": "tax-treasure-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777128345715:android:8abd37630d0172b5",
+        "android_client_info": {
+          "package_name": "com.taxtreasure.service"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777128345715-k7n7iie6qp7hpcask7n9mv04j6v14rln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh3nReJqUDK2iNyaP2wWTcj5Rk_3QGOPY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
