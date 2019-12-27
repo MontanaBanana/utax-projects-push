@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1044946087713",
+    "firebase_url": "https://true-tax-services-llc.firebaseio.com",
+    "project_id": "true-tax-services-llc",
+    "storage_bucket": "true-tax-services-llc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044946087713:android:85ee7397a21c1de7",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.truetaxservicesllc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044946087713-vf7k1tnr7fihs92936hguk5gmfoj8n92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBann6NVfXSuzm_oEElZ0DwBuWmTmUzuqw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
