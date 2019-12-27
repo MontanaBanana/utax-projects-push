@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "909664554943",
+    "firebase_url": "https://surnonia-tax-service.firebaseio.com",
+    "project_id": "surnonia-tax-service",
+    "storage_bucket": "surnonia-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909664554943:android:688f0de7891293b4",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.surmoniataxservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909664554943-hn38te38qcamve02tipai83ot0qkdt96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXoIPv-wMoM-3P1JX3ip4yAU7Y6N6vjMU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
