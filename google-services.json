@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "838068491373",
+    "firebase_url": "https://real-family-financial.firebaseio.com",
+    "project_id": "real-family-financial",
+    "storage_bucket": "real-family-financial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838068491373:android:4f184ebc34b2e430",
+        "android_client_info": {
+          "package_name": "com.realfamily.financial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838068491373-uqbjemp7nsghi7sgd8r7qt3a3a30at1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL7S6l4iv52igaNY6xoo9GHrJQc-3lE1U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
