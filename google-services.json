@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "83987491743",
+    "firebase_url": "https://fox-s-tax-service.firebaseio.com",
+    "project_id": "fox-s-tax-service",
+    "storage_bucket": "fox-s-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83987491743:android:737105f6f27c805a",
+        "android_client_info": {
+          "package_name": "com.fox.service"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83987491743-lb2pd4onpketfqfvksinmffv5rtu6c3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvK70_6YMy3whiyaxNRu0D25wosx_XPHM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
