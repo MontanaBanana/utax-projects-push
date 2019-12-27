@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "232927254116",
+    "firebase_url": "https://texas-tax-refund-solution.firebaseio.com",
+    "project_id": "texas-tax-refund-solution",
+    "storage_bucket": "texas-tax-refund-solution.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232927254116:android:c01ebed102f147d4",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.texastax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232927254116-l51510k1fnmf1kc50e7q0mhoscalm6j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTRFwVl2uDm_hagULNlUFxP1nANz9UwUk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
