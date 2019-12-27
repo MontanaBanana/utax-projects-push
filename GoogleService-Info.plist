@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>95982599656-3k6aaj9msiv36esiga6qrjssagov34bu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.95982599656-3k6aaj9msiv36esiga6qrjssagov34bu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBryh0QlVXhIMjhKe2U7_TGuSZTyv4Yl2E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>95982599656</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.metikmarketing.tsg</string>
+	<key>PROJECT_ID</key>
+	<string>tsg-tax-source-group-r32</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tsg-tax-source-group-r32.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:95982599656:ios:a14eada212957305</string>
+	<key>DATABASE_URL</key>
+	<string>https://tsg-tax-source-group-r32.firebaseio.com</string>
+</dict>
+</plist>

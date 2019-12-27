@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "95982599656",
+    "firebase_url": "https://tsg-tax-source-group-r32.firebaseio.com",
+    "project_id": "tsg-tax-source-group-r32",
+    "storage_bucket": "tsg-tax-source-group-r32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95982599656:android:a14eada212957305",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.tsg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95982599656-psr4dq948q8qtj32fslvh085ed2rc3kt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo-dgW52rYalxNp9PrHSUAKh1V_8vhAW4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
