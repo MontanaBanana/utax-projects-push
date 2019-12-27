@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "768825029495",
+    "firebase_url": "https://avia-tax-services.firebaseio.com",
+    "project_id": "avia-tax-services",
+    "storage_bucket": "avia-tax-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768825029495:android:ed46a4d3dae51dee",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.avia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768825029495-f4lpndnqo5mccdiqdp7ned4tcthuhan6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA5fb6frzhwnIJfT9lpE77gj9YtOxbMOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
