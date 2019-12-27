@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "542389749732",
+    "firebase_url": "https://proficient-tax-solutions.firebaseio.com",
+    "project_id": "proficient-tax-solutions",
+    "storage_bucket": "proficient-tax-solutions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542389749732:android:31a89079083bb14e",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.proficient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542389749732-fklod32efs6aft0nm99fdi33f2io18bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEWX_Qc1dhh_uMA6T_WJGwDvhk2Zl3cOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
