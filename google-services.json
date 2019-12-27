@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "693333612124",
+    "firebase_url": "https://pomona-tax-pros.firebaseio.com",
+    "project_id": "pomona-tax-pros",
+    "storage_bucket": "pomona-tax-pros.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693333612124:android:d6e101da78bbeac3",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.pomona"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693333612124-0t0k1pph9qjquma0ra0ugusuv433ge1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIDMOr9VlSZOfkPXFLEwCo1bFNy1VHsak"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
