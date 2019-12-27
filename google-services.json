@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "904275136604",
+    "firebase_url": "https://rapid-refunds-tax-service.firebaseio.com",
+    "project_id": "rapid-refunds-tax-service",
+    "storage_bucket": "rapid-refunds-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904275136604:android:2f7ba37fc92cd7b8",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.rapidrefundstaxservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904275136604-npv50aml9ah0hebblul58st1cq0rpff4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_dIzvQ_kz4qliObOPRxXyjaEIkNIxvY4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
