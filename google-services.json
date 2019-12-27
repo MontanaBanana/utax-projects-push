@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1988064386",
+    "firebase_url": "https://clemons-tax-service.firebaseio.com",
+    "project_id": "clemons-tax-service",
+    "storage_bucket": "clemons-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1988064386:android:4d6a86a32eb09d76",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.clemons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1988064386-v7k2bobbqi2e2pang8k6ifaf94qh2guu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSXRdDE9rlkygGpUt4HYlDfh7kfiXXEy0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
