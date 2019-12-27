@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "119471151378",
+    "firebase_url": "https://m-and-d-accounting-services.firebaseio.com",
+    "project_id": "m-and-d-accounting-services",
+    "storage_bucket": "m-and-d-accounting-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119471151378:android:5191135454538b10",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.manddaccountingservicesinc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119471151378-1p4rl8107ttrda2184abma99pldn1g20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEaIw4YO3-M-24gk0UzJ9Kkl0xuoj1yQU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
