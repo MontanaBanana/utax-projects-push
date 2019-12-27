@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1092425683608",
+    "firebase_url": "https://premier-mobile-tax-service.firebaseio.com",
+    "project_id": "premier-mobile-tax-service",
+    "storage_bucket": "premier-mobile-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092425683608:android:a311a369f963bcbb",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.premier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092425683608-0h9a4cngve6rdsd2upb9ljc261758a6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq96_aGDdy5kYUZb4T5BcNGX7gwaNTFfo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
