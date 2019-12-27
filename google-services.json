@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "926343471511",
+    "firebase_url": "https://community-1st-tax.firebaseio.com",
+    "project_id": "community-1st-tax",
+    "storage_bucket": "community-1st-tax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926343471511:android:c1130b71986a4c84",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.anthony"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926343471511-o8i2as1t6iiqp976lu525v7ehrf2qkoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS688TVtr1qqCkf2oYaSNl65zVkAAUlS4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
