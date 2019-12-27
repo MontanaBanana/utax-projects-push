@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "364002285571",
+    "firebase_url": "https://mendez-and-mendez.firebaseio.com",
+    "project_id": "mendez-and-mendez",
+    "storage_bucket": "mendez-and-mendez.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364002285571:android:fb7ee99dbff57951",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.mendez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364002285571-q4dqr9c6nkvl0mcn9hgp0tt1tiek01uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIaqXVwYo7gdOlj00UR5GcEw8Xnb2Bo-c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
