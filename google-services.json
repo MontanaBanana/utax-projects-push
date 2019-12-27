@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "437713883004",
+    "firebase_url": "https://rightly-done-tax-service.firebaseio.com",
+    "project_id": "rightly-done-tax-service",
+    "storage_bucket": "rightly-done-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437713883004:android:89047ca9c10f3341",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.rightly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437713883004-pbvhp09627m14jl6bc84bkuvujv1vi93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9e4lXM_6q_A4YOYwIv_9GexXMt1SGM9Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
