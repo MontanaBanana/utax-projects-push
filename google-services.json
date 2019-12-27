@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1021075624166",
+    "firebase_url": "https://visions-tax-solutions.firebaseio.com",
+    "project_id": "visions-tax-solutions",
+    "storage_bucket": "visions-tax-solutions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021075624166:android:6319e2bff428ff20",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.vision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021075624166-0hmq8kuqeff1pe6offpsb7oto5v4kf5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq_TW4szCjU7j4leypbtB4ah_70KhxVig"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
