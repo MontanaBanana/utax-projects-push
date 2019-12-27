@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "44086099214",
+    "firebase_url": "https://j-and-g-armadillo-tax-svc.firebaseio.com",
+    "project_id": "j-and-g-armadillo-tax-svc",
+    "storage_bucket": "j-and-g-armadillo-tax-svc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44086099214:android:f947d3fc25248c36",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.armadillo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44086099214-bv7etv7ajoqp03iurk3ph7g9guccmcrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrgvw7JEfqnG0aAR30cj47QmqoS87Tf0M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
