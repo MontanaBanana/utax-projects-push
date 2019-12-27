@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "151844194599",
+    "firebase_url": "https://legacy-tax-professionals.firebaseio.com",
+    "project_id": "legacy-tax-professionals",
+    "storage_bucket": "legacy-tax-professionals.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151844194599:android:82ba656093492a57",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.legacy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151844194599-458b3entg58pdttdjlogi8bn43rkva2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjX-a2bdF9bfeGaYtJmR8v8ByXhwVTEyQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
