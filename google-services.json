@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "467531019827",
+    "firebase_url": "https://roadrunner-tax-llc.firebaseio.com",
+    "project_id": "roadrunner-tax-llc",
+    "storage_bucket": "roadrunner-tax-llc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467531019827:android:c6562529ccc779dd",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.road"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467531019827-ovrd46572fg4ip5dliq3o3gqr1qhcqpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt04ox03LfbTZ--yWUXndNWCA-xg4C-ag"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
