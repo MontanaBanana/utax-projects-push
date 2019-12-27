@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "5166418285",
+    "firebase_url": "https://etax-software.firebaseio.com",
+    "project_id": "etax-software",
+    "storage_bucket": "etax-software.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5166418285:android:a3452dbdaa140664",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.etax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5166418285-068e7nkrcgji2t6eva6895f8bfbgfg9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-yluF7Ut3goKH-n5qRpIHHb9js737bTk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
