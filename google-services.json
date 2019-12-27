@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "546560408089",
+    "firebase_url": "https://vrf-financial-group.firebaseio.com",
+    "project_id": "vrf-financial-group",
+    "storage_bucket": "vrf-financial-group.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546560408089:android:eef0dd3a8f77664b",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.vrf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546560408089-992i6svlc8p450t390a1u9uq598p9535.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpxUoLfBq1eQ5RBNJ-Ip5syiq1UTEHMX8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

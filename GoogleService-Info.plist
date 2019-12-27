@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>546560408089-knue8lbn9lr256s12kbvq8qc3j0dfj4u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.546560408089-knue8lbn9lr256s12kbvq8qc3j0dfj4u</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB3ZmEspsAPskvnREqDqhHmW9a2NCBm1v0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>546560408089</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.metikmarketing.vrf</string>
+	<key>PROJECT_ID</key>
+	<string>vrf-financial-group</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vrf-financial-group.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:546560408089:ios:eef0dd3a8f77664b</string>
+	<key>DATABASE_URL</key>
+	<string>https://vrf-financial-group.firebaseio.com</string>
+</dict>
+</plist>
