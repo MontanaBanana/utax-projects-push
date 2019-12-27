@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>131795787938-h1l6t1p61h9hn3sccnurj9ev4fa9gq8f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.131795787938-h1l6t1p61h9hn3sccnurj9ev4fa9gq8f</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD36CqjfNqjybRM66WZCsaxFoS1Of8OLX8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>131795787938</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.metikmarketing.master</string>
+	<key>PROJECT_ID</key>
+	<string>master-tax-services</string>
+	<key>STORAGE_BUCKET</key>
+	<string>master-tax-services.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:131795787938:ios:35a6ae5465dcc20a</string>
+	<key>DATABASE_URL</key>
+	<string>https://master-tax-services.firebaseio.com</string>
+</dict>
+</plist>
