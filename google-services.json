@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "469617535790",
+    "firebase_url": "https://bj-s-tax-service.firebaseio.com",
+    "project_id": "bj-s-tax-service",
+    "storage_bucket": "bj-s-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469617535790:android:1d37d60346a13c450528bf",
+        "android_client_info": {
+          "package_name": "com.bj.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469617535790-vb3e238j79u82v6qa3sbo1n6ikcf54dv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO7Rv5gC4sw2nA9H5zDvXPe3Fw_lbN398"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469617535790-vb3e238j79u82v6qa3sbo1n6ikcf54dv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "469617535790-0uuocpippafv2obdi71k69ns9nahej2f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bj.tax",
+                "app_store_id": "1491396389"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
