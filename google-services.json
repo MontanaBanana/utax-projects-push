@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1006267582050",
+    "firebase_url": "https://tax-angels-inc.firebaseio.com",
+    "project_id": "tax-angels-inc",
+    "storage_bucket": "tax-angels-inc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006267582050:android:af09666b7aabd842",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.taxangels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006267582050-ooon6iu3vsicfa50daqlnt65fupnirc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzyH4TokKz5APElppBsEIcoLz0z9IfBXU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
