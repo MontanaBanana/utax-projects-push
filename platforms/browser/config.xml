@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.metikmarketing.{project.title_code}" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="{project.title_code}" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>{project.title}</name>
     <description>{project.description}</description>
     <author email="{owner.email}" href="https://taxmobileapp.com/">Tax Mobile App</author>
@@ -20,14 +20,24 @@
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
     <allow-intent href="maps:*" />
+    <config-file mode="replace" parent="NSHealthShareUsageDescription" platform="ios" target="*-Info.plist">
+        <string>App would like to access some of your device data.</string>
+    </config-file>
+    <config-file mode="replace" parent="NSHealthUpdateUsageDescription" platform="ios" target="*-Info.plist">
+        <string>App would like to update some of your device data.</string>
+    </config-file>
+    <config-file mode="replace" parent="NFCReaderUsageDescription" platform="ios" target="*-Info.plist">
+        <string>App would like to access some of your device data.</string>
+    </config-file>
     <preference name="webviewbounce" value="false" />
     <preference name="UIWebViewBounce" value="false" />
     <preference name="DisallowOverscroll" value="true" />
-    <preference name="android-minSdkVersion" value="26" />
+    <preference name="android-minSdkVersion" value="22" />
     <preference name="BackupWebStorage" value="none" />
     <preference name="SplashMaintainAspectRatio" value="true" />
     <preference name="FadeSplashScreenDuration" value="1000" />
     <preference name="SplashShowOnlyFirstTime" value="false" />
     <preference name="SplashScreen" value="splash.png" />
     <preference name="SplashScreenDelay" value="6000" />
+    <preference name="phonegap-version" value="cli-8.0.0" />
 </widget>

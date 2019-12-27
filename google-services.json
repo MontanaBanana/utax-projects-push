@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "449428803299",
+    "firebase_url": "https://tq-financial-services.firebaseio.com",
+    "project_id": "tq-financial-services",
+    "storage_bucket": "tq-financial-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449428803299:android:a6c73c8037a11937",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.tqfinancial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449428803299-hajv1climo1j69ascqamaq9sea5rplun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5u0Fbkwi6LzShT08j0E7TwLIYLhzqqEI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
