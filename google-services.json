@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "315208621612",
+    "firebase_url": "https://alaska-tax-lady.firebaseio.com",
+    "project_id": "alaska-tax-lady",
+    "storage_bucket": "alaska-tax-lady.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315208621612:android:cf0148ab301b75ac",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.alaskataxlady"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315208621612-c7l3ac2hk71qgcbge4kr15e4ssq6u3kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQS1Xkc0bZrwsLDxq1SsSj9RW8AxBLCv4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
