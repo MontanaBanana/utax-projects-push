@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "298561084487",
+    "firebase_url": "https://family-first-tax-services.firebaseio.com",
+    "project_id": "family-first-tax-services",
+    "storage_bucket": "family-first-tax-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298561084487:android:67291db20b28cdc5",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.family"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298561084487-qmba9r41riua32dq2utsblfnl64oraek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_S3j0yuL_ljh54fgUATvzLX0_oRhAwr8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
