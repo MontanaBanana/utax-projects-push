@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "400143605633",
+    "firebase_url": "https://ivy-league-tax-service.firebaseio.com",
+    "project_id": "ivy-league-tax-service",
+    "storage_bucket": "ivy-league-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400143605633:android:ac732a0a01657a6c121280",
+        "android_client_info": {
+          "package_name": "com.ivy.league"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400143605633-8bum3dojpeb1bclp8m7sgbn9p5a60udd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9nQrVXzHq7kF142JlpkC8ZGc4-K8Bo4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400143605633-8bum3dojpeb1bclp8m7sgbn9p5a60udd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
