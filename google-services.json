@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "903921030683",
+    "firebase_url": "https://ada-tax-services.firebaseio.com",
+    "project_id": "ada-tax-services",
+    "storage_bucket": "ada-tax-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903921030683:android:60e84007c5960079180abe",
+        "android_client_info": {
+          "package_name": "com.ada.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903921030683-7k3lcutqu8f3se9336reto057mbrfp5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyTb1kvAzVd_63UE6tXYTCuyjYLYsc6sY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903921030683-7k3lcutqu8f3se9336reto057mbrfp5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
