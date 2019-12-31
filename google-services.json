@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "812324369073",
+    "firebase_url": "https://ryans-grand-refund.firebaseio.com",
+    "project_id": "ryans-grand-refund",
+    "storage_bucket": "ryans-grand-refund.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812324369073:android:e0bffe0f87acedfa902890",
+        "android_client_info": {
+          "package_name": "com.ryan.grand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812324369073-rtf6voq245sv91g6l3vh3pec4bnie19e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVJoXKY7-8nCo4vVGGmhr4DOJzcbZ3BDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812324369073-rtf6voq245sv91g6l3vh3pec4bnie19e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
