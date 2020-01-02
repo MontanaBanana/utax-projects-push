@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "122297731830",
+    "firebase_url": "https://cherrys-aaa-tax-services-more.firebaseio.com",
+    "project_id": "cherrys-aaa-tax-services-more",
+    "storage_bucket": "cherrys-aaa-tax-services-more.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122297731830:android:1075c2fc27f021894abad7",
+        "android_client_info": {
+          "package_name": "com.cherrys.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122297731830-9r4ju1ghlfqovc3qg033npfplnap9ddm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwuN7y3n_XK_dCyRlw9aEXyz4SVnKJW1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122297731830-9r4ju1ghlfqovc3qg033npfplnap9ddm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
