@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "576142339323",
+    "firebase_url": "https://hour-tax.firebaseio.com",
+    "project_id": "hour-tax",
+    "storage_bucket": "hour-tax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576142339323:android:38c460cdae923edff0945e",
+        "android_client_info": {
+          "package_name": "com.hour.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576142339323-uje2jg7lknr7spsabrofveuibvtbt2t1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM0-WRcH92WYy9NaaozJRL9NUog02gOMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576142339323-uje2jg7lknr7spsabrofveuibvtbt2t1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
