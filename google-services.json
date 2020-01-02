@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "788571588077",
+    "firebase_url": "https://royalty-finance-management.firebaseio.com",
+    "project_id": "royalty-finance-management",
+    "storage_bucket": "royalty-finance-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788571588077:android:ca3369249743cf5bf813e4",
+        "android_client_info": {
+          "package_name": "com.rotalty.finance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788571588077-t5q9guihdjka7dingjla39h4beemvikd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs2MownZxyxcrdIphWsu1JvKvE-Dv31Lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788571588077-t5q9guihdjka7dingjla39h4beemvikd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "788571588077-4tn5s1etp9hvu326a684512liic4h5gn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rotalty.finance",
+                "app_store_id": "1493425918"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

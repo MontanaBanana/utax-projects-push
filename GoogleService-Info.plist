@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>788571588077-4tn5s1etp9hvu326a684512liic4h5gn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.788571588077-4tn5s1etp9hvu326a684512liic4h5gn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAgedzmoYUAafDUx04UvfKputtFn6_5oNQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>788571588077</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.rotalty.finance</string>
+	<key>PROJECT_ID</key>
+	<string>royalty-finance-management</string>
+	<key>STORAGE_BUCKET</key>
+	<string>royalty-finance-management.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:788571588077:ios:2d7c34748155ba6df813e4</string>
+	<key>DATABASE_URL</key>
+	<string>https://royalty-finance-management.firebaseio.com</string>
+</dict>
+</plist>
