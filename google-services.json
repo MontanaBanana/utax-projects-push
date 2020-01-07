@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1037850641148",
+    "firebase_url": "https://tax-key.firebaseio.com",
+    "project_id": "tax-key",
+    "storage_bucket": "tax-key.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037850641148:android:72ea77bf4f8bd63a0e0d79",
+        "android_client_info": {
+          "package_name": "com.tax.key"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037850641148-96rmr1k79p53op2suvkgibgi8v3btfrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAItmzYpTHGUI-BVe7MCo5JlFCuJtGpWZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037850641148-96rmr1k79p53op2suvkgibgi8v3btfrv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
