@@ -36,7 +36,14 @@
     },
     "cordova-plugin-statusbar": {
       "PACKAGE_NAME": "com.metikmarketing.{project.title_code}"
+    },
+    "cordova-plugin-x-socialsharing": {
+      "PACKAGE_NAME": "{project.title_code}"
     }
   },
-  "dependent_plugins": {}
+  "dependent_plugins": {
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "{project.title_code}"
+    }
+  }
 }

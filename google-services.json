@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "414239156382",
+    "firebase_url": "https://excellence-tax-group.firebaseio.com",
+    "project_id": "excellence-tax-group",
+    "storage_bucket": "excellence-tax-group.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414239156382:android:5b251d9d262827d643f38f",
+        "android_client_info": {
+          "package_name": "com.excellence.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414239156382-rcgohb1md4tijhcrs4f0tldqpibq5v9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3D-pLfYPC7p-2psYHVsmWeWAe-NuLCfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414239156382-rcgohb1md4tijhcrs4f0tldqpibq5v9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

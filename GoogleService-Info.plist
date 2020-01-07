@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>414239156382-5flqbrpdb3fcejkenvildtkirofpi9io.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.414239156382-5flqbrpdb3fcejkenvildtkirofpi9io</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBn2glM9PMu5QVNl6a9_ytsk-I3RBf6cJk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>414239156382</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.excellence.tax</string>
+	<key>PROJECT_ID</key>
+	<string>excellence-tax-group</string>
+	<key>STORAGE_BUCKET</key>
+	<string>excellence-tax-group.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:414239156382:ios:51fc8fb283aad50043f38f</string>
+	<key>DATABASE_URL</key>
+	<string>https://excellence-tax-group.firebaseio.com</string>
+</dict>
+</plist>
