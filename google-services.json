@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "231600876281",
+    "firebase_url": "https://unified-financial.firebaseio.com",
+    "project_id": "unified-financial",
+    "storage_bucket": "unified-financial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231600876281:android:4675a33fcb82b1ed949028",
+        "android_client_info": {
+          "package_name": "com.unified.financial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231600876281-3n5udegj5ll69g4ukri0f9fh2smd65i0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6WBP_045Jh8XS64qqwBBIeWyU1o0cDVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231600876281-3n5udegj5ll69g4ukri0f9fh2smd65i0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
