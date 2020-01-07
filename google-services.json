@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "181845372779",
+    "firebase_url": "https://kelly-tax-service.firebaseio.com",
+    "project_id": "kelly-tax-service",
+    "storage_bucket": "kelly-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181845372779:android:aa3f218e70060ac4e7262e",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.kellytaxservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181845372779-u3a62t80mpvsvmfgd26bmhamqmq4q7ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdqnC1eEfmm40S4B8DAOmERTE_F0SsZfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181845372779-u3a62t80mpvsvmfgd26bmhamqmq4q7ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
