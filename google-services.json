@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "881113924469",
+    "firebase_url": "https://affordable-tax-accounting.firebaseio.com",
+    "project_id": "affordable-tax-accounting",
+    "storage_bucket": "affordable-tax-accounting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881113924469:android:ae15a7450414173877893c",
+        "android_client_info": {
+          "package_name": "com.affordable.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881113924469-8ahl3hibkv0e34jvn8v95m2ae7mgvp23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBES1SmPwKR6_lNxTZ2U6czaEWOzO3gv3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881113924469-8ahl3hibkv0e34jvn8v95m2ae7mgvp23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
