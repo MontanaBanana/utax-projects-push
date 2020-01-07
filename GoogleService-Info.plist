@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>426381897573-os1rk1dekmqd4htcnhu6uivpcmlr242l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.426381897573-os1rk1dekmqd4htcnhu6uivpcmlr242l</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB_I0MYACEie3nfBcxChoDrTpi63784Qqg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>426381897573</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.golden.stacks</string>
+	<key>PROJECT_ID</key>
+	<string>golden-stacks-tax-services</string>
+	<key>STORAGE_BUCKET</key>
+	<string>golden-stacks-tax-services.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:426381897573:ios:a8b0d92c27ad63bed2fb8c</string>
+	<key>DATABASE_URL</key>
+	<string>https://golden-stacks-tax-services.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "426381897573",
+    "firebase_url": "https://golden-stacks-tax-services.firebaseio.com",
+    "project_id": "golden-stacks-tax-services",
+    "storage_bucket": "golden-stacks-tax-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426381897573:android:7553da355b0a4703d2fb8c",
+        "android_client_info": {
+          "package_name": "com.golden.stacks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426381897573-6enlskcm96hg9fc5bhc8r78eurl9k93n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvPBwQLvIFFgIvY7bFplWclh6lVhxuMj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426381897573-6enlskcm96hg9fc5bhc8r78eurl9k93n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "426381897573-os1rk1dekmqd4htcnhu6uivpcmlr242l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.golden.stacks",
+                "app_store_id": "1494054615"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
