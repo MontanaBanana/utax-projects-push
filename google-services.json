@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "305957759875",
+    "firebase_url": "https://mi-casita-taxes-services.firebaseio.com",
+    "project_id": "mi-casita-taxes-services",
+    "storage_bucket": "mi-casita-taxes-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305957759875:android:f7e009cf308bd4e772a4b6",
+        "android_client_info": {
+          "package_name": "com.casita.taxes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305957759875-sbc6cem1ph9upumcukl9m82legb3k3tf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNFom6WOPORJrcvDAns1oKF-iG21pZ0OI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305957759875-sbc6cem1ph9upumcukl9m82legb3k3tf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

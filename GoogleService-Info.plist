@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>305957759875-f5kmu5vsai24rpss2cmuom5tplcvjhob.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.305957759875-f5kmu5vsai24rpss2cmuom5tplcvjhob</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBm3uKiFDPa7hQ9-z-apUjUJSQy8f9jZZU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>305957759875</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.casita.taxes</string>
+	<key>PROJECT_ID</key>
+	<string>mi-casita-taxes-services</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mi-casita-taxes-services.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:305957759875:ios:86d4d6155818767272a4b6</string>
+	<key>DATABASE_URL</key>
+	<string>https://mi-casita-taxes-services.firebaseio.com</string>
+</dict>
+</plist>
