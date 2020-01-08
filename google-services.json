@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "23117790675",
+    "firebase_url": "https://abacus-tax-services.firebaseio.com",
+    "project_id": "abacus-tax-services",
+    "storage_bucket": "abacus-tax-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23117790675:android:32ebc9d8a4ac7031184326",
+        "android_client_info": {
+          "package_name": "com.abacus.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23117790675-sq16s47abfsr6ojenvgv7hgu8ff6km3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXXNbshdSYqdwtuWDl5hXf4mUupp4hVu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23117790675-sq16s47abfsr6ojenvgv7hgu8ff6km3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
