@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1025489072806",
+    "firebase_url": "https://nellz-tax.firebaseio.com",
+    "project_id": "nellz-tax",
+    "storage_bucket": "nellz-tax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025489072806:android:bf34343e89442eac34ba67",
+        "android_client_info": {
+          "package_name": "com.nellz.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025489072806-ou1msj24jidi9h6d8qga42ogplq6u1em.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiaSI1dWIgO83STcCGUtJnOU3X-_ZlKUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025489072806-ou1msj24jidi9h6d8qga42ogplq6u1em.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
