@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "187437406638",
+    "firebase_url": "https://overflow-tax-financial.firebaseio.com",
+    "project_id": "overflow-tax-financial",
+    "storage_bucket": "overflow-tax-financial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187437406638:android:0d62ae0968fb89fcf3d03f",
+        "android_client_info": {
+          "package_name": "com.overflow.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187437406638-ehc13mqb5jfudaunpufi161q917hv7or.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzm2oYcZ3yaWizc_SCIAkm9o7e7UXvyJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187437406638-ehc13mqb5jfudaunpufi161q917hv7or.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
