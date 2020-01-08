@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "317899863005",
+    "firebase_url": "https://saldana-tax-and-bookkeeping.firebaseio.com",
+    "project_id": "saldana-tax-and-bookkeeping",
+    "storage_bucket": "saldana-tax-and-bookkeeping.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317899863005:android:c46104e6a0e0e311783c34",
+        "android_client_info": {
+          "package_name": "com.saldana.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317899863005-88f0ea7ra88rm11amcbfnidmuilk5r2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9GIneQVglCz1zCRo3RE2oj4VQyceuToY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317899863005-88f0ea7ra88rm11amcbfnidmuilk5r2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
