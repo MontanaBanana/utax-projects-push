@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>317899863005-44g2b1llh76dvsog52mm5rf6j8o63d7n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.317899863005-44g2b1llh76dvsog52mm5rf6j8o63d7n</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCjKzaVzc-PR-zveGTo-pwzPkQYPdv8DSQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>317899863005</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.saldana.tax</string>
+	<key>PROJECT_ID</key>
+	<string>saldana-tax-and-bookkeeping</string>
+	<key>STORAGE_BUCKET</key>
+	<string>saldana-tax-and-bookkeeping.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:317899863005:ios:a56c8fe5ff155527783c34</string>
+	<key>DATABASE_URL</key>
+	<string>https://saldana-tax-and-bookkeeping.firebaseio.com</string>
+</dict>
+</plist>
