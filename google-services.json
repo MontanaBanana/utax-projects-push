@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "563937820889",
+    "firebase_url": "https://pull-up-on-ya-tax-financial.firebaseio.com",
+    "project_id": "pull-up-on-ya-tax-financial",
+    "storage_bucket": "pull-up-on-ya-tax-financial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563937820889:android:caaba5e62f3f6ecc63bec8",
+        "android_client_info": {
+          "package_name": "com.pullup.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563937820889-a2onr3292mhgd9dj7o6tgdhss50bob53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa39LAYNwEJeHV8SabGhLj_meQp76m_yM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563937820889-a2onr3292mhgd9dj7o6tgdhss50bob53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
