@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "984837210819",
+    "firebase_url": "https://raw-tax.firebaseio.com",
+    "project_id": "raw-tax",
+    "storage_bucket": "raw-tax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984837210819:android:636dcb0afab44c89509876",
+        "android_client_info": {
+          "package_name": "com.raw.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984837210819-kkp0368fj8ge8gb62b0cchr3ap94tukc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJk2DNU5E83HLk1TC0dZOpJLnaD7b_qOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984837210819-kkp0368fj8ge8gb62b0cchr3ap94tukc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "984837210819-4t4p5m5b574s6g02hcfrrid6jbnnkgm7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.raw.tax",
+                "app_store_id": "1493304340"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

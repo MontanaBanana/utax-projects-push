@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>984837210819-4t4p5m5b574s6g02hcfrrid6jbnnkgm7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.984837210819-4t4p5m5b574s6g02hcfrrid6jbnnkgm7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAJSC0CWJKh4vjzisFSmmjqr3I6Z47o1o8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>984837210819</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.raw.tax</string>
+	<key>PROJECT_ID</key>
+	<string>raw-tax</string>
+	<key>STORAGE_BUCKET</key>
+	<string>raw-tax.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:984837210819:ios:440e3d62f7980444509876</string>
+	<key>DATABASE_URL</key>
+	<string>https://raw-tax.firebaseio.com</string>
+</dict>
+</plist>
