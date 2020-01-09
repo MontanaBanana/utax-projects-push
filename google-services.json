@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "235240985551",
+    "firebase_url": "https://great-lakes-tax-and-loans.firebaseio.com",
+    "project_id": "great-lakes-tax-and-loans",
+    "storage_bucket": "great-lakes-tax-and-loans.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235240985551:android:d210f4d1e232e2b7bef8ba",
+        "android_client_info": {
+          "package_name": "com.great.lakes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235240985551-92u5676v7645k70mu9tpc2k8bqvggrc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMEzBlHK2wked-qeM2dE57uTe8hCEt-xI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235240985551-92u5676v7645k70mu9tpc2k8bqvggrc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
