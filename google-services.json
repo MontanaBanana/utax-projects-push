@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "738049301748",
+    "firebase_url": "https://gbh-tax.firebaseio.com",
+    "project_id": "gbh-tax",
+    "storage_bucket": "gbh-tax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738049301748:android:7aca7b117f04a50f3512a1",
+        "android_client_info": {
+          "package_name": "com.gbh.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738049301748-hil61n103aebbrerjttg5v6j2hhakba6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjBejoZPRFDvSN-37SMvJhl7tAWgCWns4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738049301748-hil61n103aebbrerjttg5v6j2hhakba6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
