@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "376805168202",
+    "firebase_url": "https://la-raza-tax-service.firebaseio.com",
+    "project_id": "la-raza-tax-service",
+    "storage_bucket": "la-raza-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376805168202:android:2f67e8b200d9d1501942b3",
+        "android_client_info": {
+          "package_name": "com.raza.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376805168202-9p57mtaec87ac1ri0hqpg1m4oq28moj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8pdpVWsAMr9jLVdGGbn96GpzQcLkGHFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376805168202-9p57mtaec87ac1ri0hqpg1m4oq28moj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
