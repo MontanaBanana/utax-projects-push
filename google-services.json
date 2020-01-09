@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "212645937716",
+    "firebase_url": "https://phenomenal-tax-notary-services.firebaseio.com",
+    "project_id": "phenomenal-tax-notary-services",
+    "storage_bucket": "phenomenal-tax-notary-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212645937716:android:6c8d908497d0c1cf460061",
+        "android_client_info": {
+          "package_name": "com.phenomenal.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212645937716-hlio8kkusa85u0ocu75g4gogqid83ors.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV3B7UCNQ0qEzwqeZQirCKmCPkNJbZ3uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212645937716-hlio8kkusa85u0ocu75g4gogqid83ors.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

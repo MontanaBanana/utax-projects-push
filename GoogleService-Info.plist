@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>212645937716-f5a15oijfvapp8pbst5pqm0frj3r75nc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.212645937716-f5a15oijfvapp8pbst5pqm0frj3r75nc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDIUjNHmCU5AtP6B2DxvleDpsZYbhK_sRA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>212645937716</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.phenomenal.tax</string>
+	<key>PROJECT_ID</key>
+	<string>phenomenal-tax-notary-services</string>
+	<key>STORAGE_BUCKET</key>
+	<string>phenomenal-tax-notary-services.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:212645937716:ios:9d5fbf9dd51fad8a460061</string>
+	<key>DATABASE_URL</key>
+	<string>https://phenomenal-tax-notary-services.firebaseio.com</string>
+</dict>
+</plist>
