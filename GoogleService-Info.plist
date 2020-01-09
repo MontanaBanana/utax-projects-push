@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>63154527247-8n2hku466f8q0mmjodcgv12bb6849240.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.63154527247-8n2hku466f8q0mmjodcgv12bb6849240</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCwOiFv9Dobr61vQ1Bt6D7uEYno-10tEhg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>63154527247</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.strategic.tax</string>
+	<key>PROJECT_ID</key>
+	<string>strategic-tax-pros</string>
+	<key>STORAGE_BUCKET</key>
+	<string>strategic-tax-pros.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:63154527247:ios:83d2fc6f8204bfe304977a</string>
+	<key>DATABASE_URL</key>
+	<string>https://strategic-tax-pros.firebaseio.com</string>
+</dict>
+</plist>

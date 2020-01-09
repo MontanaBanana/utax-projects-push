@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "63154527247",
+    "firebase_url": "https://strategic-tax-pros.firebaseio.com",
+    "project_id": "strategic-tax-pros",
+    "storage_bucket": "strategic-tax-pros.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63154527247:android:40ba7398a940440304977a",
+        "android_client_info": {
+          "package_name": "com.strategic.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63154527247-km7vu6l4qau37r7mljjech1m44u3nug1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHVt4_SiMkVnTAmjCsfXYDS3oKdMlucUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63154527247-km7vu6l4qau37r7mljjech1m44u3nug1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
