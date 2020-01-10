@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "20180119912",
+    "firebase_url": "https://within-reach-solutions.firebaseio.com",
+    "project_id": "within-reach-solutions",
+    "storage_bucket": "within-reach-solutions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20180119912:android:87e20a6509295a141f66dd",
+        "android_client_info": {
+          "package_name": "com.within.reach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20180119912-7avm9jcm2hnvnk3csk1hq9cl4rgcdq30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-OinjyAyuQnzxbYOV2fMDScWRYgjSmUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20180119912-7avm9jcm2hnvnk3csk1hq9cl4rgcdq30.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "20180119912-d2b5vvdq2it5e8ti7p71972m2n2lei0b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.within.reach",
+                "app_store_id": "1494524289"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
