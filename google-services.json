@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "883454337779",
+    "firebase_url": "https://lmw-tax-notary-services.firebaseio.com",
+    "project_id": "lmw-tax-notary-services",
+    "storage_bucket": "lmw-tax-notary-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883454337779:android:abaad6c5e4b03d0f874d86",
+        "android_client_info": {
+          "package_name": "com.lmw.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883454337779-124ggttk9t0s0c5uhk4s5dbjpca0v6q1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9EB7jj4kglRqCZzZhzz8UqrKAaAXwJFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883454337779-124ggttk9t0s0c5uhk4s5dbjpca0v6q1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

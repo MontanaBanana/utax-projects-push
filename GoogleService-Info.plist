@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>883454337779-gcn1h7n888orh1ai6pf18tghqh1db58p.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.883454337779-gcn1h7n888orh1ai6pf18tghqh1db58p</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDwLM3_YbYUQI3niz7PAyQdRJGYgqCE9QI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>883454337779</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.lmw.tax</string>
+	<key>PROJECT_ID</key>
+	<string>lmw-tax-notary-services</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lmw-tax-notary-services.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:883454337779:ios:8489ed33f89a9ddd874d86</string>
+	<key>DATABASE_URL</key>
+	<string>https://lmw-tax-notary-services.firebaseio.com</string>
+</dict>
+</plist>
