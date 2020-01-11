@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "184217369396",
+    "firebase_url": "https://diversified-tax-service.firebaseio.com",
+    "project_id": "diversified-tax-service",
+    "storage_bucket": "diversified-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184217369396:android:4e3a88d653cee3b2e3c361",
+        "android_client_info": {
+          "package_name": "com.diversified.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184217369396-4sonfpg42e0fbq1f78722jp3pfqjdkur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-SmBNDi6-vCo6jGf-0YN8P-0v0zMmRFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184217369396-4sonfpg42e0fbq1f78722jp3pfqjdkur.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "184217369396-ie1gh6jbu8h8ta7eqqu33glc90247c8e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.diversified.tax",
+                "app_store_id": "1492378985"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
