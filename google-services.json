@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "224129827825",
+    "firebase_url": "https://mcdonald-tax.firebaseio.com",
+    "project_id": "mcdonald-tax",
+    "storage_bucket": "mcdonald-tax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224129827825:android:ce76e7a24c235099e53a50",
+        "android_client_info": {
+          "package_name": "com.mcdonald.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224129827825-dvimp7ap2dfh75seonpdqvqgg0votaan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9RnOcRH364ocvo1qHpo6ENJ7HPge63mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224129827825-dvimp7ap2dfh75seonpdqvqgg0votaan.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "224129827825-88vv3i29f8fj35sovnvjvd79felj70sj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mcdonald.tax",
+                "app_store_id": "1494761129"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
