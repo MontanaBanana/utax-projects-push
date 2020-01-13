@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "399067008019",
+    "firebase_url": "https://iv-rain-tax-pros.firebaseio.com",
+    "project_id": "iv-rain-tax-pros",
+    "storage_bucket": "iv-rain-tax-pros.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399067008019:android:616235d4a4e67122c4c3e6",
+        "android_client_info": {
+          "package_name": "com.ivrain.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399067008019-8aababtqj01hl0t47tiu9qsevohanhfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvVqY8lkwKOUsQMC4cAw8JRuOuaMiNQ5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399067008019-8aababtqj01hl0t47tiu9qsevohanhfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
