@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "563763004674",
+    "firebase_url": "https://kmv-tax-services.firebaseio.com",
+    "project_id": "kmv-tax-services",
+    "storage_bucket": "kmv-tax-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563763004674:android:d7fc2067bfed7fcd806e1b",
+        "android_client_info": {
+          "package_name": "com.kmv.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563763004674-04e3g8no39pn2i5guo9qg99hrmlibjis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGOLKizSYqD78alBrtYoUMI1PBvUBHDeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563763004674-04e3g8no39pn2i5guo9qg99hrmlibjis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
