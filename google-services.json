@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "684328838434",
+    "firebase_url": "https://spectrum-tax-group.firebaseio.com",
+    "project_id": "spectrum-tax-group",
+    "storage_bucket": "spectrum-tax-group.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684328838434:android:d56647cbf41c52ae9e317b",
+        "android_client_info": {
+          "package_name": "com.spectrum.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684328838434-p3cur0m2e6t9t8gc97keu6d4slumig5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCixukuL8bDAk5GDOgUKdVaZpGzaL1NT_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684328838434-p3cur0m2e6t9t8gc97keu6d4slumig5b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "684328838434-08c6s1j15si4uskarr1tcaiohg7his4f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spectrum.tax",
+                "app_store_id": "1494768175"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

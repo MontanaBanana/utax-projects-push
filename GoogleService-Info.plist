@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>684328838434-08c6s1j15si4uskarr1tcaiohg7his4f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.684328838434-08c6s1j15si4uskarr1tcaiohg7his4f</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBXZzUxMTRbpB1SRaixRxVdePU6Vwxzvfw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>684328838434</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.spectrum.tax</string>
+	<key>PROJECT_ID</key>
+	<string>spectrum-tax-group</string>
+	<key>STORAGE_BUCKET</key>
+	<string>spectrum-tax-group.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:684328838434:ios:13750e6def0e8e409e317b</string>
+	<key>DATABASE_URL</key>
+	<string>https://spectrum-tax-group.firebaseio.com</string>
+</dict>
+</plist>
