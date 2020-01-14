@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "493518995302",
+    "firebase_url": "https://eov-risk-management.firebaseio.com",
+    "project_id": "eov-risk-management",
+    "storage_bucket": "eov-risk-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493518995302:android:dc627db2b90dc3fe4f92a7",
+        "android_client_info": {
+          "package_name": "com.eov.risk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493518995302-keglprtestmnpp27trc7p86aa97rgeqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs9I0fVZyVw5sOj7Du5Fs_j1PUdzDAh0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493518995302-keglprtestmnpp27trc7p86aa97rgeqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
