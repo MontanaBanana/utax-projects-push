@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "575077462147",
+    "firebase_url": "https://a-dream-come-true-c8558.firebaseio.com",
+    "project_id": "a-dream-come-true-c8558",
+    "storage_bucket": "a-dream-come-true-c8558.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575077462147:android:975f72bf5595ca7da26bb6",
+        "android_client_info": {
+          "package_name": "com.dream.come"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575077462147-2fkva3omficm68e5gk6opf3pbphfijes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6kNPWMhNT5G2sq9ZtcHgnV3Y3R29mDFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575077462147-2fkva3omficm68e5gk6opf3pbphfijes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
