@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "468157940678",
+    "firebase_url": "https://bailey-s-tax-and-credit-repair.firebaseio.com",
+    "project_id": "bailey-s-tax-and-credit-repair",
+    "storage_bucket": "bailey-s-tax-and-credit-repair.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468157940678:android:9711628f8c25074579a8c7",
+        "android_client_info": {
+          "package_name": "com.baileys.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468157940678-ri38assnsdra01b7k9f9jcodghlt5g5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXQFxYj1x20ps0CFrWQT2wwp0D141mZok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468157940678-ri38assnsdra01b7k9f9jcodghlt5g5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

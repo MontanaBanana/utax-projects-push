@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>468157940678-fa5s3ekjkcii0ru8545v7mq828mt1tv6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.468157940678-fa5s3ekjkcii0ru8545v7mq828mt1tv6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBPM0eeVPYsga0bwi3xgarGXpEQRdS3X0I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>468157940678</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.baileys.tax</string>
+	<key>PROJECT_ID</key>
+	<string>bailey-s-tax-and-credit-repair</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bailey-s-tax-and-credit-repair.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:468157940678:ios:add41fe8515b6e8a79a8c7</string>
+	<key>DATABASE_URL</key>
+	<string>https://bailey-s-tax-and-credit-repair.firebaseio.com</string>
+</dict>
+</plist>
