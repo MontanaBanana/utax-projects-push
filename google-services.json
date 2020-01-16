@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "790033867816",
+    "firebase_url": "https://garner-tax-service.firebaseio.com",
+    "project_id": "garner-tax-service",
+    "storage_bucket": "garner-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790033867816:android:ca8009458da45e4ead411d",
+        "android_client_info": {
+          "package_name": "com.garner.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790033867816-ipo4oj9ssif5au6s2e3d3eq38ro70n8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbacJ_LsT5OTkksc7WWm1KJWKIEhGBMkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790033867816-ipo4oj9ssif5au6s2e3d3eq38ro70n8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
