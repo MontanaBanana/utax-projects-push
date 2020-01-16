@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "277242499633",
+    "firebase_url": "https://legacy-united-services.firebaseio.com",
+    "project_id": "legacy-united-services",
+    "storage_bucket": "legacy-united-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277242499633:android:ddc7a9ed137a9922437b10",
+        "android_client_info": {
+          "package_name": "com.legacy.united"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277242499633-l25rlsr4mt0g8mljlolgtqfbs0ecn5er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK7dxp-V2w-vdmTsLeROW1SEcMsLV6dPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277242499633-l25rlsr4mt0g8mljlolgtqfbs0ecn5er.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
