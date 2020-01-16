@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "987547291933",
+    "firebase_url": "https://flashtech-tax.firebaseio.com",
+    "project_id": "flashtech-tax",
+    "storage_bucket": "flashtech-tax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987547291933:android:1cc90c31ffe725386c51f4",
+        "android_client_info": {
+          "package_name": "com.flash.tech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987547291933-o8n1h3qlpchtdohni8aks8u1dinge5e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRgINvhdmL3-L8e05g3IDGeG9j-OEL7YU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987547291933-o8n1h3qlpchtdohni8aks8u1dinge5e6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

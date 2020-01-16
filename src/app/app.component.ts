@@ -20,11 +20,13 @@ import { SendAdditionalFormsPage } from '../pages/sendAdditionalForms/sendAdditi
 
 import { HttpClientModule, HttpClient } from '@angular/common/http';
 import { HttpModule } from '@angular/http';
+import { SocialSharing } from '@ionic-native/social-sharing';
+
 
 import { TranslateService } from '@ngx-translate/core';
 
 @Component({
-  templateUrl: '{hostname}/apptemplate/app/{project.id}'
+  templateUrl: 'https://taxmobileapp.com/apptemplate/app/380'
 })
 export class MyApp {
   @ViewChild(Nav) nav: Nav;
@@ -35,7 +37,7 @@ export class MyApp {
 
   pages: Array<{title: string, component: any}>;
 
-  constructor(public platform: Platform, public statusBar: StatusBar, public splashScreen: SplashScreen, public trans: TranslateService) {
+  constructor(public platform: Platform, public statusBar: StatusBar, public splashScreen: SplashScreen, public trans: TranslateService, private socialSharing: SocialSharing) {
     this.initializeApp();
 
   this.translate = trans;
@@ -88,6 +90,7 @@ export class MyApp {
   openTwitter() { this.nav.setRoot(TwitterPage); }
   openFacebook() { this.nav.setRoot(FacebookPage); }
   openSendAdditionalForms() { this.nav.setRoot(SendAdditionalFormsPage); }
+  openShare() { this.socialSharing.share('FlashTech Tax', 'FlashTech Tax', 'https://taxmobileapp.com/images/projects/380-icon.png', 'https://taxmobileapp.com/share/380'); }
   
   openPage(page) {
     // Reset the content nav to have just this page
