@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "514016463582",
+    "firebase_url": "https://express-tax-financial-services.firebaseio.com",
+    "project_id": "express-tax-financial-services",
+    "storage_bucket": "express-tax-financial-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514016463582:android:bfecceabd7cbe4db03904f",
+        "android_client_info": {
+          "package_name": "com.express.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514016463582-pq6ajv5ml3cesrq74j5drm9415q7l7ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVckWZqFC5IoGKSBVidLoWD6cB2P4xC-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514016463582-pq6ajv5ml3cesrq74j5drm9415q7l7ge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
