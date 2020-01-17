@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>613478484161-6q3fcq1ran8t2t8boglp5eu2okpitt9c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.613478484161-6q3fcq1ran8t2t8boglp5eu2okpitt9c</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCezKkVM1uVvrlJqzsB6OVbUWGzXcA3JjI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>613478484161</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.smb.tax</string>
+	<key>PROJECT_ID</key>
+	<string>smb-tax-service</string>
+	<key>STORAGE_BUCKET</key>
+	<string>smb-tax-service.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:613478484161:ios:faa5be14457a462b786c40</string>
+	<key>DATABASE_URL</key>
+	<string>https://smb-tax-service.firebaseio.com</string>
+</dict>
+</plist>

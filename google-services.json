@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "613478484161",
+    "firebase_url": "https://smb-tax-service.firebaseio.com",
+    "project_id": "smb-tax-service",
+    "storage_bucket": "smb-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613478484161:android:f5766f7a6f9a5d52786c40",
+        "android_client_info": {
+          "package_name": "com.smb.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613478484161-luomqi8vu2ve44qvjgihqjjbo1r4j81c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSRgITsPE43luOuR4GfnxXO2LksrR1fzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613478484161-luomqi8vu2ve44qvjgihqjjbo1r4j81c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
