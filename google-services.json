@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "660740679191",
+    "firebase_url": "https://cw-morris-tax-preparation.firebaseio.com",
+    "project_id": "cw-morris-tax-preparation",
+    "storage_bucket": "cw-morris-tax-preparation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660740679191:android:fbf493024342d30303de52",
+        "android_client_info": {
+          "package_name": "com.cw.morris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660740679191-ht5sm20l5sb7vmvkntaaeavc1lof1rle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ_3pL9BtrgMQDvDQ8r8xx6CxXiWYvvSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660740679191-ht5sm20l5sb7vmvkntaaeavc1lof1rle.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
