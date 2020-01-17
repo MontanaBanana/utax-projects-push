@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "220543550148",
+    "firebase_url": "https://tax-business-manager.firebaseio.com",
+    "project_id": "tax-business-manager",
+    "storage_bucket": "tax-business-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220543550148:android:ffd1587df4339d28",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.tbm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220543550148-7ffb49d747onv840secc15ii5sjt00o1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4WAXT1fFkisrmQppOAq7t2XonKVzzLgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220543550148-7ffb49d747onv840secc15ii5sjt00o1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "220543550148-nec2092ntr7bpd825v0edigk9h206p7c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.metikmarketing.tbm",
+                "app_store_id": "1067987070"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
