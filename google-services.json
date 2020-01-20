@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "268992182613",
+    "firebase_url": "https://precision-capital.firebaseio.com",
+    "project_id": "precision-capital",
+    "storage_bucket": "precision-capital.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268992182613:android:038385c158953da1ca17dc",
+        "android_client_info": {
+          "package_name": "com.precision.capital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268992182613-90mle1d0n4f133o0kf0rotmpa79n7ijj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Big4_M07qetxwPw_3_OzSwpMcmrUABY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268992182613-90mle1d0n4f133o0kf0rotmpa79n7ijj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
