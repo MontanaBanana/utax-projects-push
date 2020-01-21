@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "518216809259",
+    "firebase_url": "https://my-tax-lady-miami.firebaseio.com",
+    "project_id": "my-tax-lady-miami",
+    "storage_bucket": "my-tax-lady-miami.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518216809259:android:33be0f82560e0868",
+        "android_client_info": {
+          "package_name": "com.mytaxlady.miami"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518216809259-svvo5eb425j2pqac2ei60n8622esu8bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvRe6_A7C-eEDY-UVzdY-FSxuuQs39J-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518216809259-svvo5eb425j2pqac2ei60n8622esu8bi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "518216809259-bvsmb5a17rji2d4umo786jvjb0s7td9h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mytaxlady.miami"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
