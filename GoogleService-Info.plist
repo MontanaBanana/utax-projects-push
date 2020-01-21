@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>961373380974-mdc96jjhcmaopttg13eg19429d7pssun.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.961373380974-mdc96jjhcmaopttg13eg19429d7pssun</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC8zZn6bWAf2TrRPMSpYscoGRMKx1p_a4k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>961373380974</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.insta.tax</string>
+	<key>PROJECT_ID</key>
+	<string>insta-tax</string>
+	<key>STORAGE_BUCKET</key>
+	<string>insta-tax.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:961373380974:ios:bfb8feb968d6058e16217f</string>
+	<key>DATABASE_URL</key>
+	<string>https://insta-tax.firebaseio.com</string>
+</dict>
+</plist>

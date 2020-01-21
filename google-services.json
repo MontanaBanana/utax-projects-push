@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "961373380974",
+    "firebase_url": "https://insta-tax.firebaseio.com",
+    "project_id": "insta-tax",
+    "storage_bucket": "insta-tax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961373380974:android:88d06adeec04b81c16217f",
+        "android_client_info": {
+          "package_name": "com.insta.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961373380974-n2m7ng15i8ah2nk0kppaq031l176c42n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuJFZiek4Vsu9NCddZURygoMm-zoojMak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961373380974-n2m7ng15i8ah2nk0kppaq031l176c42n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
