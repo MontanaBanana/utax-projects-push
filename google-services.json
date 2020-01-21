@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "720715418899",
+    "firebase_url": "https://kingdom-tax-service.firebaseio.com",
+    "project_id": "kingdom-tax-service",
+    "storage_bucket": "kingdom-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720715418899:android:d3e78a5f2e861743",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.kingdom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720715418899-pck594o60gfrceodd7rkr7llnsc4ivab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6xQZtCZnon-GAbJzOQhSFgwXvsJnkW9g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
