@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "681308000798",
+    "firebase_url": "https://elite-money-tax-service.firebaseio.com",
+    "project_id": "elite-money-tax-service",
+    "storage_bucket": "elite-money-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681308000798:android:7ff9d0f23961a74183d40f",
+        "android_client_info": {
+          "package_name": "com.elite.money"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681308000798-kfmh81cjnl9up6dmolnc5g0c604skr9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMZdVGwSOOkhyZ2eLnDMf5QzYZydg1RpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681308000798-kfmh81cjnl9up6dmolnc5g0c604skr9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
