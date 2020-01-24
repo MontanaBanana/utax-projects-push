@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "502021773751",
+    "firebase_url": "https://camptax-services.firebaseio.com",
+    "project_id": "camptax-services",
+    "storage_bucket": "camptax-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502021773751:android:4efb432745d969ced33032",
+        "android_client_info": {
+          "package_name": "com.camptax.services"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502021773751-pq340rppu0ac1778al8qiel7gp3epdl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYYoPWCqwxl5YU1DIDIntn4TZrz5hAvO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502021773751-pq340rppu0ac1778al8qiel7gp3epdl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
