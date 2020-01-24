@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "481589552610",
+    "firebase_url": "https://tax-check-929b5.firebaseio.com",
+    "project_id": "tax-check-929b5",
+    "storage_bucket": "tax-check-929b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481589552610:android:7f02ba366888f89f1f85bb",
+        "android_client_info": {
+          "package_name": "com.tax.check"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481589552610-d06ve413j3g87sdn335vphct20aes30p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzi0ESQ9xbWBtvx03tPXEqHFbYOrx8fN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481589552610-d06ve413j3g87sdn335vphct20aes30p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
