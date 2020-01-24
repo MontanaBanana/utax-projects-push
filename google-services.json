@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "481381362525",
+    "firebase_url": "https://diamond-tax-group.firebaseio.com",
+    "project_id": "diamond-tax-group",
+    "storage_bucket": "diamond-tax-group.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481381362525:android:3dfdde23644814e29b16b4",
+        "android_client_info": {
+          "package_name": "com.diamond.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481381362525-rnlv6ku82k8l8lc1qnd8og2p5hiqr21b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn556M2UI8oTFGSvBaypm8ehlx6p8Bb8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481381362525-rnlv6ku82k8l8lc1qnd8og2p5hiqr21b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
