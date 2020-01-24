@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "115763304108",
+    "firebase_url": "https://get-you-right-tax-service.firebaseio.com",
+    "project_id": "get-you-right-tax-service",
+    "storage_bucket": "get-you-right-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115763304108:android:fd95d4e830835244513109",
+        "android_client_info": {
+          "package_name": "com.getyou.right"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115763304108-9fdkrafa271rrh17fn1410aqmiuc4jlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuW27GnsQ2EOR4Dc2Et06tiEJSIrlriaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115763304108-9fdkrafa271rrh17fn1410aqmiuc4jlk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
