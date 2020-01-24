@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1036180493394",
+    "firebase_url": "https://the-tax-lady.firebaseio.com",
+    "project_id": "the-tax-lady",
+    "storage_bucket": "the-tax-lady.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036180493394:android:071588d738646230757b8b",
+        "android_client_info": {
+          "package_name": "com.tax.lady"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036180493394-nc49ncu5m0qof4l2opnreu3ekh9fidb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2O2zmn-munrXT3rdDvGA4jbuYt7Xs9P4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036180493394-nc49ncu5m0qof4l2opnreu3ekh9fidb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
