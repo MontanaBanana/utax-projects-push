@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1057165935341",
+    "firebase_url": "https://c-h-tax-service.firebaseio.com",
+    "project_id": "c-h-tax-service",
+    "storage_bucket": "c-h-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057165935341:android:7ec5fc36ec15420ab842e4",
+        "android_client_info": {
+          "package_name": "com.ch.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057165935341-k6aukijgm7fo1v08imc4a6p0afip1mc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0HAPRvljI0Lv1jrihkdXt8X_3t8Yqk4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057165935341-k6aukijgm7fo1v08imc4a6p0afip1mc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
