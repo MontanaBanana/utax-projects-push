@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>231600876281-ed0r9s3urotu59iv7mj39obe5shdnee5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.231600876281-ed0r9s3urotu59iv7mj39obe5shdnee5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAtrqawjmVAYWVzvCP2AMFO4WjJ75iHIRk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>231600876281</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.unified.financial</string>
+	<key>PROJECT_ID</key>
+	<string>unified-financial</string>
+	<key>STORAGE_BUCKET</key>
+	<string>unified-financial.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:231600876281:ios:a55ae5ad1054c556949028</string>
+	<key>DATABASE_URL</key>
+	<string>https://unified-financial.firebaseio.com</string>
+</dict>
+</plist>
