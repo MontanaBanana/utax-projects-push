@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "454865375022",
+    "firebase_url": "https://lavish-tax.firebaseio.com",
+    "project_id": "lavish-tax",
+    "storage_bucket": "lavish-tax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454865375022:android:ada27ff31c314a04ba34bf",
+        "android_client_info": {
+          "package_name": "com.lavish.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454865375022-fr05drik983ttnl742g86odkhc3i05tg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZKjByQAGGYPY3F2lfzr03qe7JvSmwZHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454865375022-fr05drik983ttnl742g86odkhc3i05tg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

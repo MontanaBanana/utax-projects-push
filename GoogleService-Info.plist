@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>454865375022-5p3gd1dbakbiipbbfd2e87sjhnsnv7vp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.454865375022-5p3gd1dbakbiipbbfd2e87sjhnsnv7vp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB9l23VH6POAECC0gvPammtpEdNopD0PjQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>454865375022</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.lavish.tax</string>
+	<key>PROJECT_ID</key>
+	<string>lavish-tax</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lavish-tax.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:454865375022:ios:747aa3bd33d2437dba34bf</string>
+	<key>DATABASE_URL</key>
+	<string>https://lavish-tax.firebaseio.com</string>
+</dict>
+</plist>
