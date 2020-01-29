@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "445585496793",
+    "firebase_url": "https://lsc-tax-services.firebaseio.com",
+    "project_id": "lsc-tax-services",
+    "storage_bucket": "lsc-tax-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445585496793:android:71c9e564a313757db2bcc8",
+        "android_client_info": {
+          "package_name": "com.lsc.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445585496793-nr9ki6aajgj666m9idnt0v9p2s4lh3tq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi527yDqqzStKTkO7a_1LpbMYk30Nqau0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445585496793-nr9ki6aajgj666m9idnt0v9p2s4lh3tq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
