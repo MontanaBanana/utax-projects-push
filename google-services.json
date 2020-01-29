@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "169639996720",
+    "firebase_url": "https://barron-enterprises-services.firebaseio.com",
+    "project_id": "barron-enterprises-services",
+    "storage_bucket": "barron-enterprises-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169639996720:android:1bd81d28be07bf7a92acf5",
+        "android_client_info": {
+          "package_name": "com.barron.enterprises"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169639996720-vif85bblfa4i0p703i588njftjqdkpqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG9fPUN6glhTQyA4i69ydHGkQW7oFxLUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169639996720-vif85bblfa4i0p703i588njftjqdkpqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
