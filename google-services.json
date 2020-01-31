@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "887172632364",
+    "firebase_url": "https://community-tax-services.firebaseio.com",
+    "project_id": "community-tax-services",
+    "storage_bucket": "community-tax-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887172632364:android:37f8a4fe32e26e404ea689",
+        "android_client_info": {
+          "package_name": "com.community.tx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887172632364-bgb7bvhd7cstgutmu4t7tdks83ql28ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZX4MezzaREefwGgl1jZKgzh6PdP1Tn7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887172632364-bgb7bvhd7cstgutmu4t7tdks83ql28ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
