@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "488051275175",
+    "firebase_url": "https://bang-bang-tax-services.firebaseio.com",
+    "project_id": "bang-bang-tax-services",
+    "storage_bucket": "bang-bang-tax-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488051275175:android:a5a9e66e8739bde1b8b282",
+        "android_client_info": {
+          "package_name": "com.bang.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488051275175-6mlr5p46co78eoe59ol2daabc8lh3l9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM3Gj7yE1wX3RZF92f0DFrS0IS3NipvIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488051275175-6mlr5p46co78eoe59ol2daabc8lh3l9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
