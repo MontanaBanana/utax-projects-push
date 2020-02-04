@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "928815697857",
+    "firebase_url": "https://tax-express-and-more.firebaseio.com",
+    "project_id": "tax-express-and-more",
+    "storage_bucket": "tax-express-and-more.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928815697857:android:8cb9ebe9ef8ab33cba2940",
+        "android_client_info": {
+          "package_name": "com.tax.express"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928815697857-em9plojtbbu9d97qfgdbfkadu4jp3bj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsIDqr0GNpqv6wVbhxm24y25ZSdD2LiMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928815697857-em9plojtbbu9d97qfgdbfkadu4jp3bj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
