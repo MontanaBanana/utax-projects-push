@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "837573022423",
+    "firebase_url": "https://priority-pro-tax-prep.firebaseio.com",
+    "project_id": "priority-pro-tax-prep",
+    "storage_bucket": "priority-pro-tax-prep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837573022423:android:0bf7ac3b7eea4cc8bd9692",
+        "android_client_info": {
+          "package_name": "com.priority.pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837573022423-gl66snu8lagrqh8kelh1gor8vqdi1isq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIy7SUxfKU39-BjqYY7FQ5Fuuo3QPytMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837573022423-gl66snu8lagrqh8kelh1gor8vqdi1isq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
