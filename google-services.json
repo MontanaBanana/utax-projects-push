@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "930971436565",
+    "firebase_url": "https://creole-queens-tax-pros.firebaseio.com",
+    "project_id": "creole-queens-tax-pros",
+    "storage_bucket": "creole-queens-tax-pros.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930971436565:android:068a8d85c321121b63f01c",
+        "android_client_info": {
+          "package_name": "com.creole.queens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930971436565-rd1ihq6vsh0uae41smp0d25d4vjf8s1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU0g7w5rxnWG3ta2S9YQSd7kLmN5ZQtF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930971436565-rd1ihq6vsh0uae41smp0d25d4vjf8s1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
