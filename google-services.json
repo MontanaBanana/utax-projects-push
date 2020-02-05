@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1034995164662",
+    "firebase_url": "https://madry-sisters-mobile-tax.firebaseio.com",
+    "project_id": "madry-sisters-mobile-tax",
+    "storage_bucket": "madry-sisters-mobile-tax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034995164662:android:c66ef9a5e9103a459313d7",
+        "android_client_info": {
+          "package_name": "com.madry.sisters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034995164662-ifq2li9k8r3drkj0h75lcnt973bqhbvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG3ExBNyG0VgM7xGwdgIcRvyZBNNDDd9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034995164662-ifq2li9k8r3drkj0h75lcnt973bqhbvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
