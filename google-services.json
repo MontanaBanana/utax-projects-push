@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1006983163756",
+    "firebase_url": "https://family-affair-tax-pros.firebaseio.com",
+    "project_id": "family-affair-tax-pros",
+    "storage_bucket": "family-affair-tax-pros.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006983163756:android:5ecf1b931a6a2845fa4d49",
+        "android_client_info": {
+          "package_name": "com.familyaffairtax.pros"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006983163756-t3n53imo40al3gjbs9ca8pplnt9mcbvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmAozQASGfoQ2IeWyWduNvCIlmSCqoVn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006983163756-t3n53imo40al3gjbs9ca8pplnt9mcbvd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1006983163756-5a6r248llv0qat3be85kls4lr97c1m54.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.familyaffairtax.pros",
+                "app_store_id": "1444898740"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
