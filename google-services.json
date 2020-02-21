@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "237323240214",
+    "firebase_url": "https://early-byrd-express.firebaseio.com",
+    "project_id": "early-byrd-express",
+    "storage_bucket": "early-byrd-express.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237323240214:android:ddd77435b5b63e7720c637",
+        "android_client_info": {
+          "package_name": "com.early.byrd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237323240214-e8ablh5sriogc8ur781a70d8a8rethfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJjl8EvwjR-YpprJ5nnHyZbVdO-N9-J_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237323240214-e8ablh5sriogc8ur781a70d8a8rethfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

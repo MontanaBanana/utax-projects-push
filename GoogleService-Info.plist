@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>237323240214-v63ae0e91iingi7idi9osrml6gb9dkq9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.237323240214-v63ae0e91iingi7idi9osrml6gb9dkq9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBphU4eY-JJSrEN4Vlxf7geXOklJA64r2o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>237323240214</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.early.byrd</string>
+	<key>PROJECT_ID</key>
+	<string>early-byrd-express</string>
+	<key>STORAGE_BUCKET</key>
+	<string>early-byrd-express.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:237323240214:ios:ca568d785f4c158920c637</string>
+	<key>DATABASE_URL</key>
+	<string>https://early-byrd-express.firebaseio.com</string>
+</dict>
+</plist>
