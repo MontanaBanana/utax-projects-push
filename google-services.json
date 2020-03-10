@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1034531209985",
+    "firebase_url": "https://harvest-time-tax-and-financial.firebaseio.com",
+    "project_id": "harvest-time-tax-and-financial",
+    "storage_bucket": "harvest-time-tax-and-financial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034531209985:android:5ac9abbc48de5000",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.harvesttimetaxfinancialservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034531209985-d7ia7gigapik8fs5jffso5phltosgrr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRvHWt2_VbvHS-EK7HEoTPXbAB0WTB4H8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034531209985-d7ia7gigapik8fs5jffso5phltosgrr2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1034531209985-nv9ofde2r7ircodges84hlrilo2d0cc6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.metikmarketing.harvesttimetaxfinancialservices",
+                "app_store_id": "1326884875"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
