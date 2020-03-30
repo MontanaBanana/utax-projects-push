@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "203292940699",
+    "firebase_url": "https://donald-enterprises-ii.firebaseio.com",
+    "project_id": "donald-enterprises-ii",
+    "storage_bucket": "donald-enterprises-ii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203292940699:android:5cb1105de0bad7588a293e",
+        "android_client_info": {
+          "package_name": "com.donald.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203292940699-7tec37bkga86fiektppqfq6muq2su3pv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtIARwUCkyMra0_-xM5mXVV1DSvl8YHgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203292940699-7tec37bkga86fiektppqfq6muq2su3pv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
