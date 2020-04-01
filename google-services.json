@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "698549775916",
+    "firebase_url": "https://a-better-choice-tax-services.firebaseio.com",
+    "project_id": "a-better-choice-tax-services",
+    "storage_bucket": "a-better-choice-tax-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698549775916:android:e46a695b00dae5c4796b89",
+        "android_client_info": {
+          "package_name": "com.better.choice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698549775916-ituluei0fscn3lqnnpaq59ans5elpa42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAh6zAEG5XMRwN4Hs-W3aPkvAQ4kHXAAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698549775916-ituluei0fscn3lqnnpaq59ans5elpa42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
