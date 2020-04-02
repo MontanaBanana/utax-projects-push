@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "315187927527",
+    "firebase_url": "https://mayos-tax-service.firebaseio.com",
+    "project_id": "mayos-tax-service",
+    "storage_bucket": "mayos-tax-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315187927527:android:2ad124b9502ad7edfdc542",
+        "android_client_info": {
+          "package_name": "com.mayos.tax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315187927527-5md2sd2etf4d9tjk92o6lhcgq2rvls1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBijPAWQslTY6fD56vTArVl-jZ2AiGyTlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315187927527-5md2sd2etf4d9tjk92o6lhcgq2rvls1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
