@@ -16,28 +16,76 @@ import 'rxjs/add/operator/toPromise';
 
 @Component({
   selector: 'page-photos',
-  templateUrl: '{hostname}/apptemplate/photos/{project.id}'
+  templateUrl: 'https://taxmobileapp.com/apptemplate/photos/485'
 })
 export class PhotosPage {
 	public user_id: string;
 	public w2base64Image: string;
+	public w2base64Image2: string;
+	public w2base64Image3: string;
+	public w2base64Image4: string;
+	public w2base64Image5: string;
+	public w2base64Image6: string;
+	public w2base64Image7: string;
+	public w2base64Image8: string;
+	public w2base64Image9: string;
 	public ten99base64Image: string;
+	public ten99base64Image2: string;
+	public ten99base64Image3: string;
+	public ten99base64Image4: string;
+	public ten99base64Image5: string;
+	public ten99base64Image6: string;
+	public ten99base64Image7: string;
+	public ten99base64Image8: string;
+	public ten99base64Image9: string;
 	public sscbase64Image: string;
+	public sscbase64Image2: string;
+	public sscbase64Image3: string;
+	public sscbase64Image4: string;
+	public sscbase64Image5: string;
+	public sscbase64Image6: string;
+	public sscbase64Image7: string;
+	public sscbase64Image8: string;
+	public sscbase64Image9: string;
 	public licensebase64Image: string;
+	public licensebase64Image2: string;
+	public licensebase64Image3: string;
+	public licensebase64Image4: string;
+	public licensebase64Image5: string;
+	public licensebase64Image6: string;
+	public licensebase64Image7: string;
+	public licensebase64Image8: string;
+	public licensebase64Image9: string;
 	public miscbase64Image: string;
+	public miscbase64Image2: string;
+	public miscbase64Image3: string;
+	public miscbase64Image4: string;
+	public miscbase64Image5: string;
+	public miscbase64Image6: string;
+	public miscbase64Image7: string;
+	public miscbase64Image8: string;
+	public miscbase64Image9: string;
 	public uploadbase64Image: string;
+	public uploadbase64Image2: string;
+	public uploadbase64Image3: string;
+	public uploadbase64Image4: string;
+	public uploadbase64Image5: string;
+	public uploadbase64Image6: string;
+	public uploadbase64Image7: string;
+	public uploadbase64Image8: string;
+	public uploadbase64Image9: string;
 	
 	public takePicture(img_name: string){
 		if (this.plt.is('ios')) {
 			this.camera.getPicture({
 				sourceType: 1,
-				targetWidth: 500,
-				targetHeight: 500,
-				quality: 50,
+				targetWidth: 1000,
+				targetHeight: 1000,
+				quality: 90,
 				allowEdit: false,
 				correctOrientation: false,
-				saveToPhotoAlbum: true,
-				destinationType: this.camera.DestinationType.FILE_URI,
+				saveToPhotoAlbum: false,
+				destinationType: this.camera.DestinationType.DATA_URL,
 				encodingType: this.camera.EncodingType.JPEG,
 				mediaType: this.camera.MediaType.PICTURE
 			}).then((imageData) => {
@@ -45,21 +93,153 @@ export class PhotosPage {
 			  // imageData is a base64 encoded string
 			    //alert('img_name: ' + img_name);
 				if (img_name == 'w2') {
-					this.w2base64Image = imageData;
+					if (typeof(this.w2base64Image8) == 'string') {
+						this.w2base64Image9 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.w2base64Image7) == 'string') {
+						this.w2base64Image8 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.w2base64Image6) == 'string') {
+						this.w2base64Image7 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.w2base64Image5) == 'string') {
+						this.w2base64Image6 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.w2base64Image4) == 'string') {
+						this.w2base64Image5 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.w2base64Image3) == 'string') {
+						this.w2base64Image2 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.w2base64Image2) == 'string') {
+						this.w2base64Image3 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.w2base64Image) == 'string') {
+						this.w2base64Image2 = "data:image/jpeg;base64," + imageData;
+					}
+					else { 
+						this.w2base64Image = "data:image/jpeg;base64," + imageData;
+					}
 				}
 				else if (img_name == 'ten99') {
-					this.ten99base64Image = imageData;
+					if (typeof(this.ten99base64Image8) == 'string') {
+						this.ten99base64Image9 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.ten99base64Image7) == 'string') {
+						this.ten99base64Image8 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.ten99base64Image6) == 'string') {
+						this.ten99base64Image7 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.ten99base64Image5) == 'string') {
+						this.ten99base64Image6 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.ten99base64Image4) == 'string') {
+						this.ten99base64Image5 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.ten99base64Image3) == 'string') {
+						this.ten99base64Image2 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.ten99base64Image2) == 'string') {
+						this.ten99base64Image3 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.ten99base64Image) == 'string') {
+						this.ten99base64Image2 = "data:image/jpeg;base64," + imageData;
+					}
+					else { 
+						this.ten99base64Image = "data:image/jpeg;base64," + imageData;
+					}
 				}
 				else if (img_name == 'ssc') {
-					this.sscbase64Image = imageData;
+					if (typeof(this.sscbase64Image8) == 'string') {
+						this.sscbase64Image9 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.sscbase64Image7) == 'string') {
+						this.sscbase64Image8 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.sscbase64Image6) == 'string') {
+						this.sscbase64Image7 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.sscbase64Image5) == 'string') {
+						this.sscbase64Image6 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.sscbase64Image4) == 'string') {
+						this.sscbase64Image5 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.sscbase64Image3) == 'string') {
+						this.sscbase64Image2 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.sscbase64Image2) == 'string') {
+						this.sscbase64Image3 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.sscbase64Image) == 'string') {
+						this.sscbase64Image2 = "data:image/jpeg;base64," + imageData;
+					}
+					else { 
+						this.sscbase64Image = "data:image/jpeg;base64," + imageData;
+					}
 				}
 				else if (img_name == 'license') {
-					this.licensebase64Image = imageData;
+					if (typeof(this.licensebase64Image8) == 'string') {
+						this.licensebase64Image9 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.licensebase64Image7) == 'string') {
+						this.licensebase64Image8 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.licensebase64Image6) == 'string') {
+						this.licensebase64Image7 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.licensebase64Image5) == 'string') {
+						this.licensebase64Image6 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.licensebase64Image4) == 'string') {
+						this.licensebase64Image5 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.licensebase64Image3) == 'string') {
+						this.licensebase64Image2 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.licensebase64Image2) == 'string') {
+						this.licensebase64Image3 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.licensebase64Image) == 'string') {
+						this.licensebase64Image2 = "data:image/jpeg;base64," + imageData;
+					}
+					else { 
+						this.licensebase64Image = "data:image/jpeg;base64," + imageData;
+					}
 				}
 				else if (img_name == 'misc') {
-					this.miscbase64Image = imageData;
+					if (typeof(this.miscbase64Image8) == 'string') {
+						this.miscbase64Image9 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.miscbase64Image7) == 'string') {
+						this.miscbase64Image8 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.miscbase64Image6) == 'string') {
+						this.miscbase64Image7 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.miscbase64Image5) == 'string') {
+						this.miscbase64Image6 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.miscbase64Image4) == 'string') {
+						this.miscbase64Image5 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.miscbase64Image3) == 'string') {
+						this.miscbase64Image2 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.miscbase64Image2) == 'string') {
+						this.miscbase64Image3 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.miscbase64Image) == 'string') {
+						this.miscbase64Image2 = "data:image/jpeg;base64," + imageData;
+					}
+					else { 
+						this.miscbase64Image = "data:image/jpeg;base64," + imageData;
+					}
 				}
+				this.presentLoading();
 				this.uploadbase64Image = imageData;
+				this.submitPhotos(img_name);
 				
 				//this.presentLoading();
 				//img = "data:image/jpeg;bases64," + 
@@ -72,28 +252,157 @@ export class PhotosPage {
 			this.camera.getPicture({
 				destinationType: this.camera.DestinationType.DATA_URL,
 				sourceType: 1,
-				quality: 20,
+				quality: 90,
 				allowEdit: false,
 			}).then((imageData) => {
 			  // imageData is a base64 encoded string
 			    //alert(imageData);
 				if (img_name == 'w2') {
-					this.w2base64Image = "data:image/jpeg;base64," + imageData;
+					if (typeof(this.w2base64Image8) == 'string') {
+						this.w2base64Image9 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.w2base64Image7) == 'string') {
+						this.w2base64Image8 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.w2base64Image6) == 'string') {
+						this.w2base64Image7 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.w2base64Image5) == 'string') {
+						this.w2base64Image6 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.w2base64Image4) == 'string') {
+						this.w2base64Image5 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.w2base64Image3) == 'string') {
+						this.w2base64Image2 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.w2base64Image2) == 'string') {
+						this.w2base64Image3 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.w2base64Image) == 'string') {
+						this.w2base64Image2 = "data:image/jpeg;base64," + imageData;
+					}
+					else { 
+						this.w2base64Image = "data:image/jpeg;base64," + imageData;
+					}
 				}
 				else if (img_name == 'ten99') {
-					this.ten99base64Image = "data:image/jpeg;base64," + imageData;
+					if (typeof(this.ten99base64Image8) == 'string') {
+						this.ten99base64Image9 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.ten99base64Image7) == 'string') {
+						this.ten99base64Image8 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.ten99base64Image6) == 'string') {
+						this.ten99base64Image7 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.ten99base64Image5) == 'string') {
+						this.ten99base64Image6 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.ten99base64Image4) == 'string') {
+						this.ten99base64Image5 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.ten99base64Image3) == 'string') {
+						this.ten99base64Image2 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.ten99base64Image2) == 'string') {
+						this.ten99base64Image3 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.ten99base64Image) == 'string') {
+						this.ten99base64Image2 = "data:image/jpeg;base64," + imageData;
+					}
+					else { 
+						this.ten99base64Image = "data:image/jpeg;base64," + imageData;
+					}
 				}
 				else if (img_name == 'ssc') {
-					this.sscbase64Image = "data:image/jpeg;base64," + imageData;
+					if (typeof(this.sscbase64Image8) == 'string') {
+						this.sscbase64Image9 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.sscbase64Image7) == 'string') {
+						this.sscbase64Image8 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.sscbase64Image6) == 'string') {
+						this.sscbase64Image7 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.sscbase64Image5) == 'string') {
+						this.sscbase64Image6 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.sscbase64Image4) == 'string') {
+						this.sscbase64Image5 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.sscbase64Image3) == 'string') {
+						this.sscbase64Image2 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.sscbase64Image2) == 'string') {
+						this.sscbase64Image3 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.sscbase64Image) == 'string') {
+						this.sscbase64Image2 = "data:image/jpeg;base64," + imageData;
+					}
+					else { 
+						this.sscbase64Image = "data:image/jpeg;base64," + imageData;
+					}
 				}
 				else if (img_name == 'license') {
-					this.licensebase64Image = "data:image/jpeg;base64," + imageData;
+					if (typeof(this.licensebase64Image8) == 'string') {
+						this.licensebase64Image9 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.licensebase64Image7) == 'string') {
+						this.licensebase64Image8 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.licensebase64Image6) == 'string') {
+						this.licensebase64Image7 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.licensebase64Image5) == 'string') {
+						this.licensebase64Image6 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.licensebase64Image4) == 'string') {
+						this.licensebase64Image5 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.licensebase64Image3) == 'string') {
+						this.licensebase64Image2 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.licensebase64Image2) == 'string') {
+						this.licensebase64Image3 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.licensebase64Image) == 'string') {
+						this.licensebase64Image2 = "data:image/jpeg;base64," + imageData;
+					}
+					else { 
+						this.licensebase64Image = "data:image/jpeg;base64," + imageData;
+					}
 				}
 				else if (img_name == 'misc') {
-					this.miscbase64Image = "data:image/jpeg;base64," + imageData;
+					if (typeof(this.miscbase64Image8) == 'string') {
+						this.miscbase64Image9 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.miscbase64Image7) == 'string') {
+						this.miscbase64Image8 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.miscbase64Image6) == 'string') {
+						this.miscbase64Image7 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.miscbase64Image5) == 'string') {
+						this.miscbase64Image6 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.miscbase64Image4) == 'string') {
+						this.miscbase64Image5 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.miscbase64Image3) == 'string') {
+						this.miscbase64Image2 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.miscbase64Image2) == 'string') {
+						this.miscbase64Image3 = "data:image/jpeg;base64," + imageData;
+					}
+					else if (typeof(this.miscbase64Image) == 'string') {
+						this.miscbase64Image2 = "data:image/jpeg;base64," + imageData;
+					}
+					else { 
+						this.miscbase64Image = "data:image/jpeg;base64," + imageData;
+					}
 				}
 				this.presentLoading();
-
 				this.uploadbase64Image = imageData;
 				this.submitPhotos(img_name);
 				
@@ -131,7 +440,7 @@ export class PhotosPage {
         let headers = new Headers({ 'Content-Type': 'application/json' });
         let options = new RequestOptions({ headers: headers });
 		//console.log(options);
-        var p = this.http.post('{hostname}/account/project/submitreturnimages', {imgData: this.uploadbase64Image, img_name: img_name, user_id: this.user_id, project_id: {project.id}}, options)
+        var p = this.http.post('https://taxmobileapp.com/account/project/submitreturnimages', {imgData: this.uploadbase64Image, img_name: img_name, user_id: this.user_id, project_id: 485}, options)
 				   .toPromise()
                    .then(
 						data => {
