@@ -10,14 +10,14 @@ import 'rxjs/add/operator/toPromise';
 
 @Component({
   selector: 'page-appointment',
-  templateUrl: '{hostname}/apptemplate/appointment/{project.id}'
+  templateUrl: 'https://taxmobileapp.com/apptemplate/appointment/518'
 })
 export class AppointmentPage {
   public src;
 
   constructor(public navCtrl: NavController, public http: Http, public sanitizer: DomSanitizer) {
-	this.src = this.sanitizer.bypassSecurityTrustResourceUrl('{hostname}/blank.html');
-	var projects = this.http.get('{hostname}/account/project/appointment_url/{project.id}');
+	this.src = this.sanitizer.bypassSecurityTrustResourceUrl('https://taxmobileapp.com/blank.html');
+	var projects = this.http.get('https://taxmobileapp.com/account/project/appointment_url/518');
 			projects
 				.map(res => res.json())
 				.subscribe(data => {
