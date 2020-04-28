@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "337218467923",
+    "firebase_url": "https://sam-your-taxes.firebaseio.com",
+    "project_id": "sam-your-taxes",
+    "storage_bucket": "sam-your-taxes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337218467923:android:aba807e9ebcebc69b52ea6",
+        "android_client_info": {
+          "package_name": "com.sam.taxes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337218467923-m0efjgskd7g8578mmn6ho61sd1f8v7oo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp-RvKHW_WFLcnw-bbCJjjj549Okz9pRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337218467923-m0efjgskd7g8578mmn6ho61sd1f8v7oo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
