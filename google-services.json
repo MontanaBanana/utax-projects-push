@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "610766412638",
+    "firebase_url": "https://pebble-creek-solutions.firebaseio.com",
+    "project_id": "pebble-creek-solutions",
+    "storage_bucket": "pebble-creek-solutions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610766412638:android:209a713aa96fead2",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.pebblecreeksolutionspebblecreeksolutionspebblecreeksolutions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610766412638-58u8eve0ce5d4260ncmsi4nejh7eulve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCmLAfmn9L6_7QlzAflXfhQvJXaUa2lUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610766412638-58u8eve0ce5d4260ncmsi4nejh7eulve.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "610766412638-2cl6f0k7n30lrreg66qbhvqpht59svtd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.metikmarketing.pebblecreeksolutionspebblecreeksolutionspebblecreeksolutions",
+                "app_store_id": "1434340259"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
