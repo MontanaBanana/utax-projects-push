@@ -79,19 +79,28 @@
     "is_top_level": true,
     "variables": {}
   },
-  "cordova-plugin-ionic": {
+  "cordova-plugin-x-socialsharing": {
     "source": {
       "type": "registry",
-      "id": "cordova-plugin-ionic"
+      "id": "cordova-plugin-x-socialsharing"
     },
     "is_top_level": true,
-    "variables": {
-      "APP_ID": "cde0c5cd",
-      "CHANNEL_NAME": "Montana-Banana-130-v4",
-      "UPDATE_METHOD": "auto",
-      "MAX_STORE": "2",
-      "MIN_BACKGROUND_DURATION": "30",
-      "UPDATE_API": "https://api.ionicjs.com"
-    }
+    "variables": {}
+  },
+  "es6-promise-plugin": {
+    "source": {
+      "type": "registry",
+      "id": "es6-promise-plugin@^4.1.0"
+    },
+    "is_top_level": false,
+    "variables": {}
+  },
+  "phonegap-plugin-barcodescanner": {
+    "source": {
+      "type": "registry",
+      "id": "phonegap-plugin-barcodescanner@^7.0.0"
+    },
+    "is_top_level": true,
+    "variables": {}
   }
 }
