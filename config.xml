@@ -77,7 +77,6 @@
         <splash height="1536" platform="ios" src="Default-Landscape@2x.png" width="2048" />
         <preference name="SplashScreen" value="res/screen/ios/Default@2x~universal~anyany.png" />
     </platform>
-    <plugin name="phonegap-plugin-push" spec="~2.1.2"><variable name="FCM_VERSION" value="11.0.1" /></plugin>
     <config-file mode="replace" parent="NSHealthShareUsageDescription" platform="ios" target="*-Info.plist"><string>App would like to access some of your device data.</string></config-file>
     <config-file mode="replace" parent="NSHealthUpdateUsageDescription" platform="ios" target="*-Info.plist"><string>App would like to update some of your device data.</string></config-file>
     <config-file mode="replace" parent="NFCReaderUsageDescription" platform="ios" target="*-Info.plist"><string>App would like to access some of your device data.</string></config-file>
