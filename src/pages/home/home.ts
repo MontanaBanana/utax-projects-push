@@ -21,7 +21,7 @@ import 'rxjs/add/operator/toPromise';
 
 @Component({
   selector: 'page-home',
-  templateUrl: '{hostname}/apptemplate/home/{project.id}'
+  templateUrl: 'https://taxmobileapp-staging.montanab.com/apptemplate/home/130'
 })
 export class HomePage {
   public src;
