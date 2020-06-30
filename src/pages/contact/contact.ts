@@ -11,7 +11,7 @@ import 'rxjs/add/operator/toPromise';
 
 @Component({
   selector: 'page-contact',
-  templateUrl: '{hostname}/apptemplate/contact/{project.id}'
+  templateUrl: 'https://taxmobileapp-staging.montanab.com/apptemplate/contact/130'
 })
 
 export class ContactPage {
@@ -29,7 +29,7 @@ export class ContactPage {
 			this.map_url = '';
 		}
 
-		var locations = this.http.get('{hostname}/account/project/applocations/{project.id}');
+		var locations = this.http.get('https://taxmobileapp-staging.montanab.com/account/project/applocations/130');
 		locations
 			.map(res => res.json())
 			.subscribe(data => {
